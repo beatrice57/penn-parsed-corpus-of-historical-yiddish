@@ -60,10 +60,10 @@ The staff of the Oriental Reading Room at the Bodleian Library at Oxford Univers
 
 The staff of the Oriental Reading Room at the British Library in London:
 
-- M. Nolan
-- G. Rawlings
-- P. Stocks
-- N. Vail
+- M Nolan
+- G Rawlings
+- P Stocks
+- N Vail
 
 The staff of the YIVO Institute for Jewish Research in New York:
 
