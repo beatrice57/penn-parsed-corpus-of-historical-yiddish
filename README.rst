@@ -23,13 +23,13 @@ By far the largest contribution comes from two 20th-century texts,
 1910e-grine-felder (15,611 words) and 1947e-royte-pomerantsn (67,558
 words).
 
-<p> The origin of the corpus is as a collection of linguistically
-relevant examples that I collected in connection with research on the
-changing syntax of subordinate clauses in the history of Yiddish.
-Although most files have been updated to contain running text, some of
-them still reflect their origin, containing only subordinate clauses.
+The origin of the corpus is as a collection of linguistically relevant 
+examples that I collected in connection with research on the changing 
+syntax of subordinate clauses in the history of Yiddish.  Although 
+most files have been updated to contain running text, some of them 
+still reflect their origin, containing only subordinate clauses.
 
-<p> The corpus can be searched with CorpusSearch.
+The corpus can be searched with CorpusSearch.
 
 - Download: <https://sourceforge.net/projects/corpussearch/>
 - Users guide: <https://www.ling.upenn.edu/~beatrice/corpus-ling/CS-users-guide/index.html>
