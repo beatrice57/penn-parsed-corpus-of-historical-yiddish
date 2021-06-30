@@ -1,0 +1,1348 @@
+<head>
+<title>Annotation guidelines for the Penn Parsed Corpus of Historical Yiddish</title>
+
+<body>
+
+<h3>Annotation guidelines for the Penn Parsed Corpus of Historical Yiddish</h3>
+
+Unless otherwise specified below, the Penn Parsed Corpus of Historical Yiddish
+is annotated according to the guidelines for the
+<a href="https://www.ling.upenn.edu/~beatrice/annotation/index.html"
+target="_new">Penn Parsed Historical Corpora of English</a> (PPCHE).
+
+<p>
+<hr>
+
+<a name="splitting_and_joining">
+<h3>Splitting and joining</h3>
+
+In orthographic words that need to be split to conform to the parsing
+guidelines (notably particle-verb combinations), the site of the split
+is indicated by a trailing "@" on the first item and a leading "@" on
+the second one.
+
+<blockquote>
+<pre>
+( (PP (P mit@)
+      (NP (D @n) (N andern))))
+
+( (RP oyf@) (TO @tsu@) (VB @shteyn))
+</pre>
+</blockquote>
+
+<p>
+Conversely, sequences of words that are ordinarily spelled as a single
+orthographic word are joined with an underscore.
+
+<blockquote>
+<pre>
+( (ADVP (ADV eyn_zu)))
+
+( (VBN fr_zamlt))
+</pre>
+</blockquote>
+
+<a name="pos_tags">
+<h3>Part-of-soeech tags</h3>
+
+<blockquote>
+<table border cellpadding=5>
+<tr>
+<th align=left>Tag
+<th align=left>Explanation
+<tr>
+<td>ADJ, ADJR, ADJS
+<td>adjective, including ordinal numbers (positive, comparative, superlative)
+<tr>
+<td>ADV, ADVR, ADVS
+<td>adverb (positive, comparative, superlative)
+<tr>
+<td>BE, BEF, BEI, BEN
+<td>auxiliary BE (infinitive, finite, imperative, past participle)
+<tr>
+<td>C
+<td>complementizer
+<tr>
+<td>CONJ
+<td>coordinating conjunction
+<tr>
+<td>D
+<td>determiner (including articles and demonstratives)
+<tr>
+<td>DO, DOF, DOI, DON
+<td>auxiliary DO (infinitive, finite, imperative, past participle)
+<tr>
+<td><a href="#dr+p">DR+P</a>
+<td>fused form with DR- adverb
+<tr>
+<td><a href="#es">ES</a>
+<td>expletive ES
+<tr>
+<td>FP
+<td>focus particle
+<tr>
+<td>FW
+<td>foreign word (not Hebrew)
+<tr>
+<td>H
+<td>Hebrew word
+<tr>
+<td>HV, HVF, HVI, HVN
+<td>auxiliary HAVE (infinitive, finite, imperative, past participle)
+<tr>
+<td>INTJ
+<td>interjection
+<tr>
+<td>M
+<td>Yiddish word in a META context (as in a quotation of Early Yiddish in a Modern Yiddish text)
+<tr>
+<td>MD, MDF, MDI, MDN
+<td>modal (infinitive, finite, imperative, past participle)
+<tr>
+<td>MD-IPP
+<td>"infinitivus pro participio" (suppletive infinitive for past participle) of modal
+<tr>
+<td>N
+<td>common noun (for simplicity, number is not marked in this corpus)
+<tr>
+<td>NPR
+<td>proper noun (for simplicity, number is not marked in this corpus)
+<tr>
+<td>N$
+<td>possessive common noun (for simplicity, number is not marked in this corpus)
+<tr>
+<td>NPR$
+<td>possessive proper noun (for simplicity, number is not marked in this corpus)
+<tr>
+<td>NEG
+<td>negation
+<tr>
+<td>NUM
+<td>cardinal number
+<tr>
+<td>P
+<td>preposition or subordinating conjunction
+<tr>
+<td>PRO, PRO$
+<td>personal pronoun (ordinary, possessive)
+<tr>
+<td>Q, QR, QS
+<td>quantifier (positive, comparative, superlative)
+<tr>
+<td>RD, RDF, RDI, RDN
+<td>auxiliary VERN (infinitive, finite, imperative, past participle)
+<tr>
+<td><a href="#rp">RP</a>
+<td>particle (with several subclasses)
+<tr>
+<td>TO
+<td>infinitival TSU
+<tr>
+<td>VAG, VAN, VB, VBF, VBI, VBN
+<td>ordinary verb (present participle, passive participle, infinitive, finite, imperative, past participle)
+<tr>
+<td>VB-IPP
+<td>"infinitivus pro participio" (suppletive infinitive for past participle)
+<tr>
+<td>VLP
+<td>auxiliary VOLN (subjunctive)
+<tr>
+<td>VX
+<td>participle with VERN (voice unclear)
+<tr>
+<td>WADV
+<td>wh- adverb
+<tr>
+<td>WADV+P (see <a href="#dr+p">DR+P</a>)
+<td>fused form with wh- adverb
+<tr>
+<td>WD
+<td>wh- determiner
+<tr>
+<td>WPRO
+<td>wh- pronoun
+<tr>
+<td><a href="#x">X</a>
+<td>unknown lexical category
+</table>
+</blockquote>
+
+<a name="basic">
+<h3>Basic syntactic tags</h3>
+
+<blockquote>
+<table border cellpadding=5>
+<tr>
+<td>ADJP, ADJX
+<td>adjective phrase (ordinary, reduced in conjunction contexts)
+<tr>
+<td>ADVP, ADVX
+<td>adverb phrase (ordinary, reduced in conjunction contexts)
+<tr>
+<td>CONJP
+<td>conjunction phrase
+<tr>
+<td>CP
+<td>subordinate clause or question; always includes a further function tag</a>
+<tr>
+<td>FRAG
+<td>fragment
+<tr>
+<td>INTJP
+<td>interjection phrase
+<tr>
+<td>IP
+<td>ordinary clause; always includes a further function tag</a>
+<tr>
+<td>IPX
+<td>seriously incomplete IP
+<tr>
+<td>NP, NX
+<td>noun phrase (ordinary, reduced in conjunction contexts); generally includes a <a href="#function">function tag</a>
+<tr>
+<td>NUMP, NUMX
+<td>number phrase (ordinary, reduced in conjunction context)
+<tr>
+<td>PP
+<td>prepositional phrase
+<tr>
+<td>QP
+<td>quantifier phrase
+<tr>
+<td>QTP
+<td>quoted fragment
+<tr>
+<td>TTL
+<td>title (very rarely as free-standing category rather than dash tag)
+<tr>
+<td>VP
+<td>verb phrase (clause-initial)
+<tr>
+<td>WADJP, WADVP, WNP, WPP, WQP, <a href="#wxp">WXP</a>
+<td>wh- phrase (adjective phrase, adverb phrase, noun phrase,
+    prepositional phrase, quantifier phrase, phrase of unknown category)
+<tr>
+<td>XX
+<td>ordinary (not wh-) phrase or sequence of unknown category
+</table>
+</blockquote>
+
+<a name="function">
+<h3>Grammatical function tags</h3>
+
+<blockquote>
+<table border cellpadding=5>
+<tr>
+<th>Dash tag
+<th>Explanation
+<tr>
+<th colspan=2>Function tags on CP
+<tr>
+<td>CP-CLF
+<td>cleft
+<tr>
+<td>CP-CMP
+<td>comparative (see <a href="https://www.ling.upenn.edu/~beatrice/annotation-audio-aligned-corpora/deg_and_comp.html"
+   target="_new">Degree and comparative constructions</a>)
+<tr>
+<td>CP-DEG
+<td>degree (see <a href="https://www.ling.upenn.edu/~beatrice/annotation-audio-aligned-corpora/deg_and_comp.html"
+   target="_new">Degree and comparative constructions</a>)
+<tr>
+<td>CP-EOP
+<td>empty operator infinitive (including TOUGH complements)
+<tr>
+<td>CP-FRL
+<td>free relative
+<tr>
+<td>CP-QUE-MAT
+<td>ordinary direct question (with inversion)
+<tr>
+<td><a href="#cp-que-mat-tht">CP-QUE-MAT-THT</a>
+<td>indirect question with subject-verb inversion
+<tr>
+<td>CP-QUE-SUB
+<td>ordinary indirect question
+<tr>
+<td><a href="#rel">CP-REL</a>
+<td>ordinary relative clause
+<tr>
+<td>CP-THT
+<td>ordinary complement clause 
+<tr>
+<th colspan=2>Function tags on IP (and IPX)
+<tr>
+<td>IP-ABS
+<td>absolute IP
+<tr>
+<td>IP-IMP
+<td>imperative
+<tr>
+<td>IP-INF, IP-INF-PRP
+<td>infinitive (ordinary, purpose)
+<tr>
+<td>IP-MAT
+<td>ordinary matrix clause
+<tr>
+<td><a href="#ip-mat-deg">IP-MAT-DEG</a>
+<td>subordinate degree clause with main clause word order
+<tr>
+<td><a href="#ip-mat-rel">IP-MAT-REL</a>
+<td>adnominal clause with main clause word order
+<tr>
+<td><a href="#ip-mat-tht">IP-MAT-THT</a>
+<td>subordinate complement clause with main clause word order
+<tr>
+<td>IP-PPL
+<td>participial clause
+<tr>
+<td>IP-RRC
+<td>reduced relative clause
+<tr>
+<td>IP-SMC
+<td>small clause
+<tr>
+<td>IP-SUB
+<td>ordinary subordinate clause
+<tr>
+<th colspan=2>Function tags on NP
+<tr>
+<td>NP-ACC
+<td>accusative object (generally equivalent to -OB1 in the PPCHE)
+<tr>
+<td>NP-BEN
+<td>benefactive ("ethical") NP
+<tr>
+<td><a href="#np-com">NP-COM</a>
+<td>bare NP complement of ADJ, N, NUM, Q (that is, below clause-level)
+<tr>
+<td>NP-DTV
+<td>indirect object (generally equivalent to -OB2 in the PPCHE)
+<tr>
+<td>NP-EXPL
+<td>expletive DOS (as in "Dos hot a folk tsvishn falndike vent dos lid gezungen mit naganes in di hent")
+<tr>
+<td>NP-GEN
+<td>genitive complement (clause-level)
+<tr>
+<td><a href="#np-lgs">NP-LGS</a>
+<td>logical subject
+<tr>
+<td><a href="#np-pos">NP-POS</a>
+<td>possessive NP (not subcategorized by morphological case)
+<tr>
+<td>NP-RFL
+<td>inherent reflexive
+<tr>
+<td>NP-SBJ
+<td>subject (including expletive ES)
+<tr>
+<td>NP-VOC
+<td>vocative
+<tr>
+<th colspan=2>Other function tags
+<tr>
+<td>-ADT (CP, NP)
+<td>adjunct (e.g., NOT THAT I KNOW OF, hanging topics)
+<tr>
+<td>-ADV (generally CP, but also NP)
+<td>adverbial
+<tr>
+<td>-AMA
+<td><a href="https://www.ling.upenn.edu/~beatrice/annotation-audio-aligned-corpora/topics.html#amalgams" target="_new">amalgams</a> (very rare)
+<tr>
+<td><a href="#car">-CAR</a> (generally CP, but also ADJP, NP)
+<td>clause-adjoined relative or analogous function
+<tr>
+<td>-DBL (NP, verb, once Q)
+<td>doubled constituent
+<tr>
+<td>-DIAGN (ADVP)
+<td>"<a href="#diagnostic-adverb">diagnostic</a>" adverb
+<tr>
+<td>-DIR (ADVP, NP)
+<td>directional
+<tr>
+<td>-EXL (CP, IP)
+<td>exclamative
+<tr>
+<td>-LOC (ADVP, NP)
+<td>locative
+<tr>
+<td>-MSR (ADVP, NP)
+<td>measure
+<tr>
+<td><a href="#prd">-PRD</a> (ADJP, NP)
+<td>(primary) predicate
+<tr>
+<td><a href="#sit">-SIT</a> (ADVP)
+<td>situation (see <a href="#relative-clauses">Relative clauses</a> for discussion)
+<tr>
+<td><a href="#spr">-SPR</a> (ADJP, NP)
+<td>secondary predicate
+<tr>
+<td>-TMP (ADVP, NP)
+<td>temporal
+<tr>
+<td><a href="#ttl">-TTL</a>
+<td>title (very rarely also as as free-standing category)
+<tr>
+<td><a href="#-X">-X</a>
+<td>unclear grammatical function because of incomplete syntactic context
+<tr>
+<td><a href="#-XXX">-XXX</a>
+<td>grammatical function unclear (but determinable in principle)
+</table>
+</blockquote>
+
+<a name="extended">
+<h3>Extended tags</h3>
+
+<blockquote>
+<table border cellpadding=5>
+<tr>
+<td>-LFD (ADVP, NP, PP, and others as needed)
+<td>left-dislocated phrase (also used for right dislocation)
+<tr>
+<td>-PRN
+<td>parenthetical <!--(also used for elaborations in this corpus)-->
+<tr>
+<td>-RSP (ADVP, NP, PP, and others as needed)
+<td>resumptive expression
+<tr>
+<td>-SPE (CP, IP)
+<td>marks direct speech
+</table>
+</blockquote>
+
+<a name="silent_categories">
+<h3>Silent categories</h3>
+
+<blockquote>
+
+<!--See also <a href="#implicit-verb-of-direction">implicit verb of direction</a>.-->
+
+<p>
+Silent categories are annotated according to
+the <a href="https://www.ling.upenn.edu/~beatrice/annotation/syn-empty.htm"
+target="_new"> relevant guidelines</a> for the PPCHE.
+
+<p>
+<table border cellpadding=5>
+<tr>
+<td>0
+<td>silent antecedent of wh- movement or silent complementizer
+<tr>
+<td>*arb*
+<td>referentially arbitrary subject of complement of causatives and
+    possibly perception verbs
+<tr>
+<td>*con*
+<td>clearly same referent as preceding matrix clause
+<tr>
+<td>*exp*
+<td>expletive subject
+<tr>
+<td>*pro*
+<td>clearly not same referent as preceding matrix clause
+<tr>
+<td>*2s*
+<td>2nd person singular
+<tr>
+<td>*xxx*
+<td>not clear whether *con* or *pro*
+<tr>
+<td>*T*
+<td>trace of wh- movement (with obligatory index)
+<tr>
+<td>*ICH*
+<td>trace of scrambling, extraposition, and the like (with obligatory index)
+<tr>
+<td>*
+<td>other trace or empty category
+</table>
+
+</blockquote>
+
+<a name="metalinguistic">
+<h3>Metalinguistic material</h3>
+
+<blockquote>
+
+All punctuation is uniformly tagged PUNC.  In order to facilitate
+interaction with Unix, exclamation points are rendeded as "%EXCL%".
+Otherwise, the
+relevant <a href="https://www.ling.upenn.edu/~beatrice/annotation/index.html"
+target="_new">PPCHE guidelines</a> apply to the following tags.
+
+<p>
+<table border cellpadding=5>
+<tr>
+<td>CODE, ID, LS, META, REF
+</table>
+
+<p>
+FOREIGN domimates sequences of two or more FW tags.
+
+<p>
+Linguistic examples in discussions of Yiddish grammar
+(1927e-zaretski-sholem, 1928e-zaretski-mendele, 1932e-shtif, 1946e-mark)
+are marked as such by the suffix -EXAMPLE on the appropriate label
+(IP-MAT-EXAMPLE, and so on).
+
+<p>
+Free translations from Hebrew or other languages are marked as such with
+the suffix -TRANSL on the appropriate label (IP-MAT-TRANSL, NP-TRANSL,
+and so on).  See below for word-for-word glosses and translations.
+
+<p>
+Finally, material of the following types is marked with an IGNORE-
+prefix:
+
+<ul>
+<li>IGNORE-ANACHRONISM - quotations in Modern Yiddish sources of Early Yiddish material
+<li>IGNORE-TRANSL - word-for-word glosses or translations of Hebrew
+    material (kheyder-taytsh)
+<li>IGNORE-UNGRAMM - ungrammatical examples in discussions of Yiddish grammar
+</ul>
+
+</blockquote>
+
+<a name="disfluency">
+<h3>Disfluencies and parentheticals</h3>
+
+<blockquote>
+
+Elaborations are sometimes annotated in this corpus with
+the <a href="#extended">extended tag</a> -PRN rather than with ELAB.
+Other disfluences are very rare and annotated as FS and REP as required.
+
+</blockquote>
+
+<a name="specific_topics">
+<h3>Specific topics</h3>
+
+<a name="cp-que-mat-tht">
+<a name="indirect-question-with-inversion">
+<h4>CP-QUE-MAT-THT (indirect question with inversion)</h4>
+
+<blockquote>
+
+Indirect questions are generally annotated as CP-QUE-SUB.  But in cases
+where they exhibit the word order of direct questions (with subject-verb
+inversion), they are annotated as CP-QUE-MAT on a par with direct
+questions, but with the added dash tag -THT to indicate their complement
+status (analogously to the case of <a href="#ip-mat-tht">IP-MAT-THT</a>).
+
+<blockquote>
+<pre>
+( (IP-MAT (NP-SBJ (PRO me))
+          (HVP hot)
+          (VBN gemakht)
+          (NP-ACC (D an) (N asife))
+          (PP (P in)
+              (NP (N shul)))
+          (PUNC ,)
+          (CP-QUE-MAT-THT (WNP-1 (WPRO vemen))
+                          (IP-SUB (NP-ACC *T*-1)
+                                  (MDP zol)
+                                  (NP-SBJ (PRO me))
+                                  (ADVP (ADV do))
+                                  (VB shikn)))
+          (PUNC .))
+  (ID 1947E-ROYTE-POMERANTSEN,220.5580))
+
+( (IP-MAT (VBP freg)
+          (NP-SBJ (PRO ikh))
+	  (NP-DTV (D dem) (N fish))
+          (PUNC ,)
+          (CP-QUE-MAT-THT (C tsi)
+                          (IP-SUB (HVP hot)
+                                  (NP-SBJ (PRO er))
+                                  (NEG nit)
+                                  (VBN gezen)
+                                  (PP (P in)
+                                      (NP (N vaser)))
+                                  (NP-ACC (D dem) (N yidn)))
+                          (PUNC ?))
+          (PUNC "))
+  (ID 1947E-ROYTE-POMERANTSEN,47.1240))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="doubling">
+<h4>Doubled constituent</h4>
+
+In noun phrases conforming to the template "Det N Det N", the second
+"Det N" sequence is annotated as NP-DBL.  The nouns in questions are
+sometimes tagged as adjectives, or are modified by adjectives.  It is
+not always clear whether a noun phrase is doubled (-DBL) or an ordinary
+parenthetical (-PRN; the default (for ease of recovery) is -DBL.
+
+<blockquote>
+<pre>
+( (IP-MAT (CONJ ober)
+          (NP-SBJ (NPR moyshe-rabeynu))
+          (BEP iz)
+          (ADVP-DIAGN (ADV dokh))
+          (VBN geven)
+          (NP-PRD (D a)
+                  (N yid)
+                  (NP-DBL (D a) (N khokhem)))
+          (PUNC ,))
+  (ID 1947E-ROYTE-POMERANTSEN,248.6440))
+</pre>
+</blockquote>
+
+Note the contrast with instances containing only a single noun.
+
+<blockquote>
+<pre>
+( (NP-SBJ (D ayner) (D a) (N yid)))
+</pre>
+</blockquote>
+
+Verbs can also be doubled.  The verb in the noncanonical (generally,
+clause-initial) position is the one that counts as doubled.
+
+<blockquote>
+<pre>
+( (IP-MAT (VB-DBL hern)
+          (HVP hob)
+          (NP-SBJ (PRO ikh))
+          (NP-ACC (PRO es))
+          (NEG nit)
+          (VBN gehert)
+          (PUNC .))
+  (ID 1946E-MARK,8.233))
+
+( (CP-THT (C az)
+          (IP-SUB (VP (VB-DBL trinken)
+                      (NP-ACC (D di) (N tey)))
+                  (HVP hot)
+                  (NP-SBJ (PRO ir))
+                  (VBN getrunken)
+                  (PP (P mit)
+                      (NP (PRO$ ayer) (ADJ eygene) (N tsuker))))))
+  (ID 1947E-ROYTE-POMERANTSEN,186.4696))
+</pre>
+</blockquote>
+
+<a name="diagnostic-adverb">
+<h4>-DIAGN</h4>
+
+<blockquote>
+
+The tag -DIAGN distinguishes the sentential adverbs DEN, DOKH, EFSHER,
+MISTOME, NOCH, SHOYN, YO, which play the same role as sentence-level NEG
+in diagnosing whether the finite verb has moved to sentence-medial INFL
+(or possibly higher).
+
+</blockquote>
+
+<a name="dr+p">
+<h4>DR+P</h4>
+
+<blockquote>
+
+In general, the corpus contains no compound tags ("plus" tags) to
+indicate word-internal structure.  The sole exception concerns words
+consisting of a demonstrative or interrogative adverb (corresponding to
+German DA/WO or English THERE/WHERE) combined with a preposition or
+particle.  The intent is to facilitate the analysis of selectional
+restrictions imposed by a governing verb.
+
+<blockquote>
+<pre>
+(PP (ADV+P dernokh))
+(PP (ADV+P dr_mit))
+
+(WPP (WADV+P warum))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="embedded-v2">
+<h4>Embedded V2</h4>
+
+<blockquote>
+See the particular cases below:
+
+<ul>
+<li><a href="#cp-que-mat-tht">CP-QUE-MAT-THT</a> (indirect question with 
+    direct question word order)
+<li><a href="#ip-mat-deg">IP-MAT-DEG</a> (asyndetic degree clause)
+<li><a href="#ip-mat-rel">IP-MAT-REL</a> (integrated adnominal clause)
+<li><a href="#ip-mat-tht">IP-MAT-THT</a> (asyndetic complement clause)
+</ul>
+
+</blockquote>
+
+<a name="es">
+<a name="expletive-subject">
+<a name="formal-subject">
+<a name="grammatical-subject">
+<h4>ES</h4>
+
+<blockquote>
+
+ES marks the overt counterpart (ES, S) of the 
+<a href="#silent_pronouns">silent expletive pronoun</a> *exp*.
+Following <a href="https://linguist.is/icelandic_treebank/Icelandic_Parsed_Historical_Corpus_(IcePaHC)"
+target="_new">IcePaHC</a>, ES is used in the following constructions:
+
+<ul>
+<p>
+<li>impersonal passive
+<li>existential construction, including transitive expletive construction
+<li>clausal extraposition -
+    The expletive NP (generally a subject, but possibly an object) is
+    coindexed with the extraposed clause.
+    Extraposition is also possible in connection with demonstrative
+    pronouns.  Such pronouns are also coindexed with their clausal
+    associates, but tagged as D rather than ES.
+</ul>
+
+</blockquote>
+
+<a name="hebrew">
+<h4>Hebrew material</h4>
+
+<blockquote>
+
+Hebrew words are tagged as H, and a gloss is appended with a linking
+caret.  Unknown glosses are indicated by UNKNOWN.
+
+<blockquote>
+<pre>
+(NP (H hbtsulh^the_young_woman))
+(NP-ACC (D das) (H tbet^ring) (H zhb^UNKNOWN))
+</pre>
+</blockquote>
+
+<p>
+Hebrew bound morphemes are split only if attached to Germanic words, as
+sometimes occurs.
+
+<blockquote>
+<pre>
+(NP (H h@^the) (N @veg))
+</pre>
+</blockquote>
+
+<p>
+In general, Hebrew material does not have Yiddish sister constituents.
+In the few exceptions, the Hebrew material is not given a full parse,
+but the Yiddish material is annotated as if it had been.
+
+<blockquote>
+<pre>
+( (PP (H ltubh^to_good)
+      (NP-COM (D di) (N yidn))))              &larr; actual annotation
+
+( (PP (P l@)
+      (NP (N @tubh)
+	  (NP-COM (D di) (N yidn)))))         &larr; assumed full structure
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="ip-mat-deg">
+<h4>IP-MAT-DEG</h4>
+
+<blockquote>
+
+IP-MAT-DEG indicates a degree complement clause corresponding to CP-DEG,
+but with main clause word order.
+
+<blockquote>
+<pre>
+( (IP-MAT ...
+          (NP-LGS (ADV azoy)
+                  (D eyn)
+                  (ADJ groys)
+                  (N gishrey)
+                  (CONJP (CONJ un)
+                         (NX (N giveyn)))
+                  (IP-MAT-DEG (CP-ADV (C zint)
+                                      (IP-SUB (NP-SBJ (D di) (N velt))
+                                              (VBP steyt)))
+                              (BEP iz)
+                              (ADVP (ADV nakh))
+                              (NP-SBJ (ADV azoy) (D eyn) (N tsrh))
+                              (NEG nit)
+                              (VBN givezin)
+			      (PP (P in)
+                                  (NP (NPR pulin))))))
+  (ID 1834E-UKRAINE-2,39.98))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="adnominal-ip-mat">
+<a name="ip-mat-rel">
+<h4>IP-MAT-REL (integrated adnominal IP-MAT)</h4>
+
+<blockquote>
+
+IP-MATs functioning as relative clauses are explicitly given a -REL dash
+tag to facilitate their retrieval.
+
+<blockquote>
+<pre>
+( (IP-MAT (NP-SBJ (PRO ikh))
+          (VBP hab)
+          (NP-ACC (D eyn)
+                  (N kind)
+                  (CODE {TEXT:kund})
+                  (IP-MAT-REL (NP-SBJ *pro*)
+                              (VBP heyst)
+                              (NP-SPR (NPR itskhk))))
+          (PUNC ...))
+  (ID 1XXXX-COURT-TESTIMONY,198_c1648_e?.1297))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="ip-mat-tht">
+<h4>IP-MAT-THT</h4>
+
+<blockquote>
+
+Clausal complements not introduced by an overt complementizer (asyndetic
+complement clauses) are annotated as IP-MAT-THT.
+
+<blockquote>
+<pre>
+( (IP-MAT (NP-SBJ (PRO ikh))
+          (VBP hof)
+          (IP-MAT-THT (NP-SBJ (PRO er))
+                      (MDP zul)
+                      (NP-DTV (PRO mir))
+                      (VB gebn)))
+  (ID 1XXXX-COURT-TESTIMONY,33_c1460_w?.127))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="multiple_wh">
+<h4>Multiple wh-</h4>
+
+<blockquote>
+
+In the multiple wh- constructions in the corpus, the wh-phrases are all
+fronted, and the IP dominates multiple wh- traces.
+
+<blockquote>
+<pre>
+( (CP-QUE-SUB (WADVP-1 (WADV vi))
+              (WNP-2 (WPRO ver))
+              (IP-SUB (NP-SBJ *T*-2)
+                      (ADVP *T*-1)
+                      (VBP lakht)))
+  (ID 1947E-ROYTE-POMERANTSEN,1.3))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="np-com">
+<h4>NP-COM</h4>
+
+<blockquote>
+NP-COM marks complements of adjectives, nouns, numerals, and
+quantifiers.  These tend to follow their head, but may precede,
+especially in Early Yiddish.  <a href="#np-pos">Possessives</a> are
+marked separately (NP-POS).
+
+<blockquote>
+<pre>
+( (NP (D a)
+      (N shtik)
+      (NP-COM (N broyt))))
+
+( (NP (NP-COM (PRO$ irr))
+      (NUM tsvey)))
+</pre>
+</blockquote>
+
+<p>
+In noun phrases expressing a dimension and a measure unit, the measure
+unit is treated as the head of the entire noun phrase, and the dimension
+as the complement (as is explicit in the English construction TWO MONTHS
+OF VACATION).
+
+<blockquote>
+<pre>
+( (NP (NUM drey)
+      (N teg)
+      (NP-COM (N tsayt))))
+
+( (NP (NUM 340)
+      (N meyl)
+      (ADJP (ADJ kvadratavi))
+      (NP-COM (N platts))))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="np-pos">
+<h4>NP-POS</h4>
+
+<blockquote>
+
+Possessive NPs are annotated uniformly as NP-POS without distinction as
+to morphological case - genitive (whether etymologically motivated or
+not), dative, and so on.  For uniformity and ease of retrieval, all
+possessive NPs, whether consisting of a one word or more, are annotated
+with a phrasal projection.  In principle, possessive NPs can follow the
+head they modify, but in the corpus, they all precede their head.
+
+<blockquote>
+<pre>
+( (NP (NP-POS (D di / der / den) (N yudn))
+      (NPR got)))
+
+( (NP (NP-POS (D der) (N$ mamens))
+      (N name)))
+
+( (NP (NP-POS (D den) (N$ yegirs))
+      (PRO$ zeyn)
+      (N zun)))
+
+( (NP (NP-POS (NPR$ gots))
+      (N hilf)))
+
+( (NP (NP-POS (NPR bele))
+      (PRO$ ir)
+      (N tokhter)))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="adverbial-particles">
+<a name="particles">
+<a name="rp">
+<h4>Particle (RP)</h4>
+
+<blockquote>
+
+Various subcategories are distinguished to facilitate retrieval and analysis.
+
+<p>
+<table border cellpadding=5>
+<tr>
+<td>Tag
+<td>Items
+<td>Projects ADVP?
+<td>Other notes
+<tr>
+<td>RP
+<td>AYN, BAY, DURKH, FOR, IBER, NOKH, ON, OP, OYF, OYZ, TSU, UM, UNTER
+<td>No when bare; <br><nobr>yes with complement.</nobr>
+<td>"Pure" particles roughly corresponding to those occurring in the English
+    particle-verb construction.
+    <p>
+    Depending on the associated verb, UM can be a nonseparable prefix rather than a particle.
+<tr>
+<td><nobr>RP-ADV</nobr>
+<td>(A)VEK, FORT, HER, HIN, MIT, TSURIK
+<td>Yes, even when bare
+<td>(De)adverbial
+<tr>
+<td>RP-ADJ
+<td>ALT, FEST, FRAY, GEVOR, HOLD, KLAR, LIB, LUSTIK
+<td rowspan=5>No
+<td>(De)adjectival
+<tr>
+<td>RP-ASP
+<td>A KUK GEBN/TON and the like
+<!--<td>No-->
+<td>Indefinite noun phrase + light verb expressing verbal aspect
+<tr>
+<td>RP-H
+<td>Many
+<!--<td>No-->
+<td>From various Hebrew verb forms
+<tr>
+<td>RP-N
+<td>AKHTUNG (GEBN), FAYNT (HOBN), KHASENE (HOBN, MAKHN), REKHT (HOBN), SHULT (GEBN), VUNDER (NEMEN),  VEY (TON), and the like
+<!--<td>No-->
+<td>(De)nominal
+<tr>
+<td>RP-V
+<td>SHPATSIRN (GEYN), SHTEKN (BLEYBN), SHTEYN (BLEYBN), and the like
+<!--<td>No-->
+<td>(De)verbal
+</table>
+
+<p>
+Particles are consistently <a href="#splitting_and_joining"
+target="mainframe">split</a> from their verbal hosts.
+
+<blockquote>
+<pre>
+( (IP-MAT (CONJ nor)
+          (PP (DR+P derfar))
+          (BEP iz)
+          (NEG nit)
+          (RP on@)
+          (VAN @gevizn)
+          (NP-SBJ (Q keyn) (N yor))
+          (PUNC ;))
+  (ID 1928E-WEINREICH-KINES,192.15))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="prd">
+<h4>-PRD (primary predicate)</h4>
+
+<blockquote>
+
+Attaches to ADJP or NP to explicitly indicate when they function as
+primary predicates.  (In the PPCHE, predicate ADJPs are not given a dash
+tag, and predicate NPs are annotated on a par with ordinary complements
+as NP-OB1.)
+
+</blockquote>
+
+<a name="chopped">
+<a name="cp-rel">
+<a name="relative-clauses">
+<h4>Relative clause (CP-REL)</h4>
+
+<blockquote>
+
+D- forms or VELKH- forms functioning as relative pronouns (as in modern
+German) are treated as wh- pronouns.
+
+<blockquote>
+<pre>
+( (NP-ACC (D den)
+          (N ktb)
+          (CP-REL (WNP-1 (WPRO den))
+                  (IP-SUB (NP-ACC *T*-1)
+                          (NP-SBJ (PRO du))
+		          (HVP hast)
+                          (NP-DTV (NPR r') (NPR zelikmn))
+                          (VBN gshikt)))))
+</pre>
+</blockquote>
+
+<p>
+This is not the vernacular type, however.  Rather, relative clauses in
+the vernacular are introduced by the indeclinable complementizer VOS,
+analogous to English THAT.  In Old Yiddish, the complementizer can also
+be realized as AZ or DZ.
+
+<blockquote>
+<pre>
+( (NP-ACC (D di)
+	  (N mayse)
+	  (PUNC ,)
+	  (CP-REL (WNP-1 0)
+		  (C vos)
+		  (IP-SUB (NP-ACC *T*-1)
+			  (NP-SBJ (D der) (N rov))
+			  (HVP hot)
+			  (NP-DTV (PRO im))
+			  (VBN gezogt))))
+  (ID 1947E-ROYTE-POMERANTSEN,223.5696))
+</pre>
+</blockquote>
+
+<p>
+In Old Yiddish, complementizer VOS is distinguished from the wh- pronoun
+corresponding to German WAS.  In particular, VOS and orthographic
+variants of it are treated as wh- pronouns in relative clauses modifying
+quantifier and also in a very few other cases where German would allow
+WAS (cf. <i>alles, was ich habe</i>, <i>das, was ich habe</i>).  In
+texts after 1800, VOS is invariably treated as a complementizer.
+
+<blockquote>
+<pre>
+( (NP-ACC (D daz)
+	  (N land)
+	  (CP-REL (WNP-1 (WPRO vaz))
+		  (IP-SUB (NP-ACC *T*-1)
+			  (NP-DTV (PRO unz))
+			  (NP-SBJ (NPR gat))
+			  (VBN far_shprakhin)
+			  (HVP hat))))
+  (ID 1666W-MESSIAH,51.249))
+
+( (NP (Q als)
+      (CP-REL (WNP-2 (WPRO vaz))
+	      (IP-SUB (NP-SBJ *T*-2)
+		      (PP (P oyf)
+			  (NP (D der) (N erdn)))
+		      (VBP iz)
+		      (ADVP-LOC (ADVP (ADV dribr))
+				(CONJP (CONJ un)
+				       (ADVP (ADV drunter)))))))
+
+  (ID 1620E-LEV-TOV-1,4r.6))
+</pre>
+</blockquote>
+
+<p>
+As in many vernacular varieties, relative clauses in Yiddish can be
+"chopped" in the sense of Ross 1967.  In other words, an expected
+preposition more or less closely related to the verb is missing.  When
+the preposition is arguably selected by the verb, such cases are
+annotated with a silent WPP antecedent.
+
+<blockquote>
+<pre>
+( (PP (P oyf)
+      (NP (D di)
+	  (NUM drey)
+	  (N mtsut)
+	  (CP-REL (WPP-1 0)
+		  (C vs)
+		  (IP-SUB (PP *T*-1)
+			  (NP-SBJ (PRO mir) (N nsim))
+			  (BEP zenn)
+			  (RDN varn)
+			  (VAN gbatn)))))
+  (ID 1712E-SARAH,83.5))
+
+( (NP (D di)
+      (N mdinh)
+      (NPR haland)
+      (CP-REL (WPP-1 0)
+	      (C vas)
+	      (IP-SUB (NP-PRD (D di)
+			      (N hoypt_stat)
+			      (PP *T*-1))
+		      (VBP iz)
+		      (NP-SBJ (NPR amstrdm)
+			      (NP-PRN (D dr)
+				      (N vaunung)
+				      (PP (P fun)
+					  (NP (D dem) (N mlkh))))))))
+  (ID 1818E-GEOGRAFYE,19.299))
+</pre>
+</blockquote>
+
+<p>
+Relative clauses with resumptive elements, which are common in Modern
+Yiddish, are annotated (as in the PPCHE) by coindexing the wh-
+antecedent and the resumptive element.
+
+<p>
+<blockquote>
+<pre>
+( (NP-PRD (D a)
+	  (N yid)
+	  (PUNC ,)
+	  (CP-REL (WNP-1 0)
+		  (C vos)
+		  (IP-SUB (NP-SBJ (PRO me))
+			  (VBP ken)
+			  (NP-ACC-RSP-1 (PRO im)))))
+  (ID 1947E-ROYTE-POMERANTSEN,43.1084))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="title">
+<a name="ttl">
+<h4>Title (of book)</h4>
+
+<blockquote>
+
+Titles of books are indicated with the dash tag -TTL.  Very rarely, the
+syntactic context requires the title to be enclosed as a stand-alone TTL
+constituent.
+
+</blockquote>
+
+<a name="vifl-split">
+<h4>VIFL split</h4>
+
+<blockquote>
+
+Instances of VIFL split are annotated as left-branch extractions (though
+other analyses are possible).
+
+<blockquote>
+<pre>
+( (IP-MAT (NP-SBJ (CP-FRL (WQP-1 (WADV vi@) (Q @fl))
+                          (IP-SUB (NP-SBJ (ES es))
+                                  (BEP iz)
+                                  (VBN geven)
+                                  (NP-LGS (QP *T*-1)
+                                          (N mentshn))
+                                  (PP (P in)
+				      (NP (N shif))))))
+	  ...))
+</pre>
+</blockquote>
+
+</blockquote>
+
+<a name="vos-far-split">
+<h4>VOS FAR split</h4>
+
+<blockquote>
+
+The VOS FAR construction is uniformly annotated as a wh- head VOS with a
+PP modifier, which is either adjacent to the head or extraposed from it.
+In other words, the discontinuous case is not treated as left branch
+extraction.  This is consistent with the fact that the construction
+occurs in varieties of Germanic that do not otherwise exhibit left
+branch extraction.
+
+<p>
+The reanalyzed item (VO)SARA is annotated as a wh- determiner (WD), like
+VELKH-.
+
+</blockquote>
+
+<a name="wadv+p">
+<h4>WADV+P</h4>
+
+<blockquote>
+
+See <a href="#dr+p">DR+P</a>.
+
+</blockquote>
+
+<a name="wxp">
+<h4>WXP (unknown wh- phrase)</h4>
+
+<blockquote>
+
+Indicates a wh- phrase whose exact category is impossible to
+determine because the syntactic context is incomplete (the general
+							     case is the antecedent in an incomplete relative clause).
+
+</blockquote>
+
+<a name="X">
+<h4>X</h4>
+
+<blockquote>
+
+Without a leading hyphen.  Indicates an unknown lexical category (POS tag).
+
+</blockquote>
+
+<a name="-X">
+<h4>-X</h4>
+
+<blockquote>
+
+With a leading hyphen (dash tag).  Explicitly indicates that a phrase's
+grammatical function cannot be determined because the syntactic context
+is incomplete.  The main use in the corpus is as a dummy index on wh-
+phrases without corresponding traces, as in sluicing.
+
+</blockquote>
+
+<a name="-XXX">
+<h4>-XXX</h4>
+
+<blockquote>
+
+With a leading hyphen (dash tag).  Explicitly indicates that a phrase's
+grammatical function is unclear, though determinable in principle (in
+							     contrast to <a href="#-x">-X</a>).
+
+</blockquote>
+
+<a name="known-issues">
+<h3>Known issues</h3>
+
+<ul>
+<li>See <a href="transliteration.html" target="mainframe">Transliteration</a>
+for issues concerning transliteration
+<li>Inconsistent notation of the following morphosyntactic distinctions
+(which are not likely to affect the validity or reliability of most
+	 searches for major syntactic patterns)
+<ul>
+<li>Positive (ADJ, ADV, Q) vs. comparative (ADJR, ADVR, QR) and
+superlative (ADJS, ADVS, QS)
+<li>Common noun (N, N$) vs. proper noun (NPR, NPR$)
+<li>NP-BEN (benefactive) vs. NP-DTV (dative)
+</ul>
+</ul>
+
+<a name="index">
+<h3>Index</h3>
+
+<ul>
+<a name="a">
+<li><a href="#adnominal-ip-mat">Adnominal IP-MAT</a>
+<li><a href="#ip-mat-deg">Asyndetic degree clause</a>
+<a name="b">
+<a name="c">
+<li><a href="#chopped">"Chopped" relative clause</a>
+<li>Complement noun phrase (see <a href="#np-com">NP-COM</a>)</a>
+<li><a href="#ip-mat-deg">Complementizerless degree clause</a>
+<a name="d">
+<li><a href="#doubling">Doubled constituent</a>
+<li>Defaults in ambiguous cases (the default is listed first)
+    <ul>
+    <li><a href="#doubling">NP-DBL</a> > NP-PRN
+    </ul>
+<li><a href="#diagnostic-adverb">Diagnostic adverbs</a>
+<a name="e">
+<li><a href="#embedded-v2">Embedded V2</a>
+<li>ES, expletive (see <a href="#es">Expletive ES</a>)
+<li><a href="#es">Expletive ES</a>
+<li>Expletive subject (see <a href="#es">Expletive ES</a>)
+<a name="f">
+<li>Formal subject (see <a href="#es">Expletive ES</a>)
+<a name="g">
+<li>Grammatical subject (see <a href="#es">Expletive ES</a>)
+<a name="h">
+<li><a href="#hebrew">Hebrew material</a>
+<a name="i">
+<li><a href="#indirect-question-with-inversion">Indirect question with inversion</a>
+<li><a href="#ip-mat-rel">IP-MAT functioning as relative clause</a>
+<a name="j">
+<a name="k">
+<a name="l">
+<a name="m">
+<li><a href="#multiple_wh">Multiple wh-</a>
+<a name="n">
+<li>Noun phrase, complement (see <a href="#np-com">NP-COM</a>)</a>
+<li>Noun phrase, possessive (see <a href="#np-pos">NP-POS</a>)</a>
+<a name="o">
+<a name="p">
+<li>Possessive noun phrase (see <a href="#np-pos">NP-POS</a>)</a>
+<li><a href="#prd">Predicate adjective or noun</a>
+<a name="q">
+<a name="r">
+<li><a href="#chopped">Relative clause, "chopped"</a>
+<a name="s">
+<li>Subject, expletive (see <a href="#es">Expletive ES</a>)
+<li>Subject, formal (see <a href="#es">Expletive ES</a>)
+<li>Subject, grammatical (see <a href="#es">Expletive ES</a>)
+<a name="t">
+<li><a href="#title">Titles</a>
+<a name="u">
+<a name="v">
+<li><a href="#vifl-split">VIFL split</a>
+<li><a href="#vos-far-split">VOS FAR split</a>
+<a name="w">
+<a name="x">
+<a name="y">
+<A name="z">
+</ul>
+
+
