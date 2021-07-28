@@ -406,19 +406,19 @@
 			  (VBF zey))))
   (ID 1XXXX-COURT-TESTIMONY,11_c1440_w.44))
 
-( (CODE <P_12_c1413>))
+( (CODE <P_12_c1413_w>))
 
 ( (IP-IMP (VBI hurt)
 	  (RP tsu)
 	  (NP-VOC (N rbusey)))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.46))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.46))
 
 ( (IP-MAT (NP-SBJ (PRO ikh))
 	  (HVF hun)
 	  (CODE {TEXT:hukh})
 	  (NP-ACC (N msirut))
 	  (VBN gitun))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.47))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.47))
 
 ( (IP-MAT (NP-SBJ (PRO ikh))
 	  (HVF hun)
@@ -437,7 +437,7 @@
 				  (VAN gkhtmt)
 				  (CODE {GLOSS:signed})
 				  (BEF bin)))))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.48))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.48))
 
 ( (IP-MAT (NP-SBJ (PRO ikh))
 	  (HVF hun)
@@ -449,7 +449,7 @@
 		  (H mspkht^family)
 		  (PP (H sl^of)
 		      (NP (NPR mh"r) (NPR zelikmn))))))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.49))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.49))
 
 ( (IP-MAT (CODE {COM:token_interpolated_from_Birnbaum_1979:153,_transliteration_normalized})
 	  (NP-SBJ (PRO ikh))
@@ -474,7 +474,7 @@
 								 (PP (P ven)
 								     (NP (PRO er)))))))))
 	  (PUNC .))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.50))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.50))
 
 ( (IP-MAT (PP (DR+P da_mit))
 	  (HVF hun)
@@ -492,7 +492,7 @@
 			    (HVF hut)
 			    (PP (P tsu)
 				(NP (N rb))))))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.51))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.51))
 
 ( (IP-MAT (NP-SBJ (PRO ikh))
 	  (HVF hun)
@@ -505,7 +505,7 @@
 	  (CONJP-1 (CONJ un)
 		   (ADVP (ADV oykh))
 		   (NP (N khl))))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.52))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.52))
 
 ( (IP-MAT (CODE {COM:token_interpolated_from_Birnbaum_1979:153,_transliteration_normalized})
 	  (NP-SBJ (PRO ikh))
@@ -521,7 +521,7 @@
 	  (PUNC .)
 	  (FRAG (H khotosi^sinned_I) (PUNC ,) (H ovisi^sinned_I) (PUNC ,) (H poshayti^commit_I))
 	  (PUNC .))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.53))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.53))
 
 ( (IP-MAT (NP-SBJ (PRO ikh))
 	  (VBF bit)
@@ -532,7 +532,7 @@
 			  (NP-ACC (PRO @s))
 			  (RP-H moykhl)
 			  (VBF zey))))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.54))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.54))
 
 ( (IP-MAT (CONJ un)
 	  (NP-LFD (NP (D di)
@@ -552,7 +552,7 @@
 	  (NP-ACC-RSP (PRO zi)
 		      (QP (Q al)))
 	  (PP (H mkhilh^from_community)))
-  (ID 1XXXX-COURT-TESTIMONY,12_c1413.55))
+  (ID 1XXXX-COURT-TESTIMONY,12_c1413_w.55))
 
 ( (CODE <P_13_c1440_w>))
 
@@ -969,7 +969,7 @@
 	  (PP (H byum^on_day) (H h'^5)))
   (ID 1XXXX-COURT-TESTIMONY,28_c1460_w?.107))
 
-( (CODE <P_29_c1460_w))
+( (CODE <P_29_c1460_w?>))
 
 ( (IP-IMP (VBI kam)
 	  (PP (P tsu)
