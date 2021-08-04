@@ -1051,7 +1051,10 @@
 	  (VAN gidakht))
   (ID 1579E-SHIR,10.82))
 
-( (IP-MAT (NP-ACC (D {d}as) (ADJ virdi) (N gizng))
+( (IP-MAT (NP-ACC (D das)
+		  (CODE {TEXT:as})
+		  (ADJ virdi)
+		  (N gizng))
 	  (VBF zang)
 	  (NP-SBJ (NPR msh) (H rbinu^rabbi_our))
 	  (INTJP (H eliu^on_him) (H hslum^the_peace))

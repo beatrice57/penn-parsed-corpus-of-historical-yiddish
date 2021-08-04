@@ -1577,7 +1577,7 @@
 	  (CP-ADV (WADVP-1 (WADV vi))
 		  (IP-SUB (ADVP *T*-1)
 			  (NP-SBJ (PRO du))
-			  (NP-DTV (N lut))
+			  (NP-DTV (NPR lut))
 			  (HVF hast)
 			  (NP-ACC (D den) (N mlakh))
 			  (DON-IPP tan)

@@ -18650,11 +18650,12 @@
 	  (VAN gnumn))
   (ID 1XXXX-COURT-TESTIMONY,247_1679_w.1790))
 
-( (FRAG (X zundr)
-	(NP-DTV (ADV aleyn) (NPR stm))
-	(RP ap)
-	(VBN gikuft)
-	(NP-ACC (H bli^without) (Q sum) (N tnai) (H beltm^UNKNOWN)))
+( (VP (X zundr)
+      (NP-DTV (ADV aleyn) (NPR stm))
+      (RP ap)
+      (VBN gikuft)
+      (PP (H bli^without)
+	  (NP (Q sum) (N tnai) (H beltm^UNKNOWN))))
   (ID 1XXXX-COURT-TESTIMONY,247_1679_w.1791))
 
 ( (IP-MAT (PP (DR+P droyf)
