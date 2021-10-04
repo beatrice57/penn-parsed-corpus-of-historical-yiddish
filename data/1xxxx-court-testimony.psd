@@ -1,5 +1,3 @@
-( (CODE <BEGIN_1xxxx-court>))
-
 ( (CODE <P_1_c1413_w>))
 
 ( (CP-THT (C dz)
@@ -6994,16 +6992,14 @@
 	  (ADVP-LOC (ADV dortin)))
   (ID 1XXXX-COURT-TESTIMONY,125_1629_e.685))
 
-( (CODE <P_126_1614_e>))
-
-( (CODE {COM:mostly_from_Birnbaum_1979:171-172;_transliteration_normalized}))
+( (CODE <P_126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized>))
 
 ( (IP-MAT (NP-SBJ (PRO mir) (NUM 11) (N balbatem))
 	  (BEF zayn)
 	  (PP (P i@)
 	      (NP (D @m) (N khayel)))
 	  (VBN gevezen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.687))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.687))
 
 ( (IP-MAT (BEF iz)
 	  (ADVP-DIR (ADV aroys))
@@ -7011,14 +7007,14 @@
 	  (NP-SBJ (D a)
 		  (N yid)
 		  (NP-PRN (NPR brokhe) (NPR ben) (NPR ha-dodes) (NPR aren) (H mi-tisevits^from_Tisevits))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.688))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.688))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (HVF hot)
 	  (VBN gedint)
 	  (PP (P oyf)
 	      (NP (NUM 3) (N sisem))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.689))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.689))
 
 ( (IP-MAT (BEF iz)
 	  (VBN gespringen)
@@ -7028,19 +7024,19 @@
 		  (PP (H sel^of)
 		      (NP (N moskviter)))))
 	  (NP-SBJ (NUM 2) (H ve^and) (NUM 3) (H pyomem^UNKNOWN) (H keseider^like_order) (H hamilkhome^the_war)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.690))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.690))
 
 ( (IP-MAT (NP-SBJ (D di) (N moskvitern))
 	  (HVF hoben)
 	  (RP-H goyver)
 	  (VBN gevezen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.691))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.691))
 
 ( (IP-MAT (BEF iz)
 	  (NP-SBJ (D der) (N iid))
 	  (ADVP-DIR (RP-ADV tsi_rik))
 	  (VBN gespringen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.692))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.692))
 
 ( (IP-MAT (ADVP (ADV azoy))
 	  (HVF hot)
@@ -7050,7 +7046,7 @@
 	  (VBN geshosen)
 	  (PP (P oys)
 	      (NP (D den) (N vald))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.693))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.693))
 
 ( (IP-MAT (HVF hob)
 	  (NP-SBJ (PRO ikh))
@@ -7060,7 +7056,7 @@
 		  (NP-DTV (PRO im))
 		  (PP (P a@)
 		      (NP (D @m) (N riken)))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.694))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.694))
 
 ( (IP-MAT (BEF iz)
 	  (NP-SBJ (PRO er))
@@ -7068,7 +7064,7 @@
 	  (VBN gefalen)
 	  (PP (P oyf)
 	      (NP (D den) (N zotel))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.695))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.695))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (HVF hot)
@@ -7083,7 +7079,7 @@
 		      (NP (N sis)))
 		  (PP (P a@)
 		      (NP (D @m) (N halz))))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.696))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.696))
 
 ( (IP-MAT (ADVP (ADV do))
 	  (HVF hot)
@@ -7091,7 +7087,7 @@
 	  (NP-RFL (PRO zikh))
 	  (VBN geveklt)
 	  (ADVP (RP-ADV hin) (CONJ in) (RP-ADV her)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.697))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.697))
 
 ( (IP-MAT (CONJ in)
 	  (ADVP (ADV azoy))
@@ -7102,7 +7098,7 @@
 	  (VBN getrogen)
 	  (PP (P in)
 	      (NP (N veg))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.698))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.698))
 
 ( (IP-MAT (CONJ in)
 	  (NP-SBJ *pro*)
@@ -7110,14 +7106,14 @@
 	  (NP-ACC (PRO in))
 	  (NEG nit)
 	  (VBN gezen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.699))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.699))
 
 ( (IP-MAT (NP-SBJ *pro*)
 	  (BEF iz)
 	  (PP (P mit)
 	      (NP (D den) (N khayel)))
 	  (VBN antlofen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.700))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.700))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (HVF hob)
@@ -7130,7 +7126,7 @@
 			  (BEF iz)
 			  (PP (P oyf)
 			      (NP (D den) (N sis))))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.701))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.701))
 
 ( (IP-MAT (ADVP (ADV do))
 	  (BEF iz)
@@ -7140,7 +7136,7 @@
 	      (NP (D @m) (N moyl)))
 	  (ADVP-DIR (ADV aroys))
 	  (VBN gangen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.702))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.702))
 
 ( (IP-MAT (NP-SBJ *pro*)
 	  (BEF bin)
@@ -7148,7 +7144,7 @@
 		    (PP (P bay)
 			(NP (PRO im))))
 	  (VBN gevezen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.703))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.703))
 
 ( (IP-MAT (PP (DR+P der_nokh))
 	  (BEF zaynen)
@@ -7156,7 +7152,7 @@
 	  (NP-DTV (D dem) (N khayel))
 	  (RP nokh)
 	  (VBN gelofen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.704))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.704))
 
 ( (IP-MAT (ADVP (ADV do))
 	  (HVF hob)
@@ -7164,7 +7160,7 @@
 	  (VBN gezen)
 	  (IP-INF (NP-SBJ (PRO$ zayn) (N sis))
 		  (VB loyfen)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.705))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.705))
 
 ( (IP-MAT (CONJ in)
 	  (NP-SBJ (PRO er))
@@ -7172,21 +7168,21 @@
 	  (NEG nit)
 	  (PP (DR+P deroyf))
 	  (VBN gevezen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.706))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.706))
 
 ( (IP-MAT (CONJ nayert)
 	  (NP-SBJ (D der) (N zotel))
 	  (BEF iz)
 	  (ADJP-PRD (ADJ krim))
 	  (VBN gevezen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.707))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.707))
 
 ( (IP-MAT (NP-ACC (D dos) (N sis))
 	  (HVF hob)
 	  (NP-SBJ (PRO ikh))
 	  (ADVP (ADV voyl))
 	  (VBN gekent))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.708))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.708))
 
 ( (IP-MAT (H v@^and)
 	  (ADVP-TMP (ADV @yakherkakh^afterwards))
@@ -7195,7 +7191,7 @@
 	  (VBN-IPP lozen)
 	  (IP-INF (NP-SBJ *arb*)
 		  (VB poken)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.709))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.709))
 
 ( (IP-MAT (BEF iz)
 	  (NP-SBJ (D dos)
@@ -7209,14 +7205,14 @@
 	  (PP (P tsi)
 	      (NP (N hoyf)))
 	  (VBN kimen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.710))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.710))
 
 ( (IP-MAT (HVF hot)
 	  (NP-SBJ (D dos) (N folk))
 	  (RP-H mesaper)
 	  (VBN gevezen)
 	  (PP (H beiske^in_matter) (H hamilkhome^the_war)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.711))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.711))
 
 ( (IP-MAT (HVF hoben)
 	  (NP-SBJ (NP (H kame^a_few) (N pyomem))
@@ -7237,7 +7233,7 @@
 						(FS a)
 						(ADVP-DIR (ADV avek))
 						(VBN kimen)))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.712))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.712))
 
 ( (IP-MAT (NP-SBJ (PRO man))
 	  (HVF hot)
@@ -7246,7 +7242,7 @@
 	      (NP (D den) (N bardes)))
 	  (VBN (VBN tsi_hakt) (CONJ in) (VBN tsi_stokhen))
 	  (X kile))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.713))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.713))
 
 ( (IP-MAT (IP-ABS (NP-SBJ (D den) (N yom))
 		  (ADVP (ADV arim)))
@@ -7254,7 +7250,7 @@
 	  (NP-SBJ (D di) (N kozaken))
 	  (VBN geshlogen)
 	  (NP-ACC (D di) (N moskviter)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.714))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.714))
 
 ( (IP-MAT (CONJ in)
 	  (NP-SBJ *con*)
@@ -7267,7 +7263,7 @@
 			     (PP (H sel^of)
 				 (NP (NPR brokhe)
 				     (ADJP (H hanal^aforesaid))))))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.715))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.715))
 
 ( (IP-MAT (CONJ in)
 	  (NP-ACC (PRO$ zayn) (N hit))
@@ -7275,7 +7271,7 @@
 	  (NP-SBJ (PRO ikh))
 	  (ADVP (ADV voyl))
 	  (VBN gekent))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.716))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.716))
 
 ( (IP-MAT (CONJ in)
 	  (NP-LFD (PRO$ zayn) (N kherev))
@@ -7285,7 +7281,7 @@
 	  (NEG nit)
 	  (ADVP (ADV voyl))
 	  (VBN gekent))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.717))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.717))
 
 ( (IP-MAT (ADVP (ADV azoy))
 	  (HVF hot)
@@ -7297,7 +7293,7 @@
 		  (PP (H sel^of)
 		      (NP (NPR brokhe)
 			  (ADJP (H hanal^aforesaid))))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.718))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.718))
 
 ( (IP-MAT (NP-SBJ (D der))
 	  (HVF hot)
@@ -7305,7 +7301,7 @@
 	  (ADVP (ADV oykh))
 	  (MDN-IPP velen)
 	  (VB hoben))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.719))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.719))
 
 ( (IP-MAT (CONJ in)
 	  (NP-SBJ *con*)
@@ -7313,7 +7309,7 @@
 	  (VBN gemispet)
 	  (PP (P far)
 	      (NP (D den) (N kali))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.720))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.720))
 
 ( (IP-MAT (ADVP (ADV azoy))
 	  (HVF hot)
@@ -7329,7 +7325,7 @@
 					      (HVF hot)
 					      (NP-ACC (PRO$ insere) (N harigum))
 					      (VBN far_sarfet)))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.721))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.721))
 
 ( (IP-MAT (ADVP (ADV azoy))
 	  (HVF hob)
@@ -7341,14 +7337,14 @@
 	      (NP (PRO$ mayner) (N hant)))
 	  (RP oys)
 	  (VBN getsoygen))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.722))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.722))
 
 ( (IP-MAT (CONJ in)
 	  (NP-SBJ *con*)
 	  (HVF hob)
 	  (NP-ACC (PRO im))
 	  (VBN far_sarfet))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.723))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.723))
 
 ( (IP-MAT (CONJ in)
 	  (NP-SBJ *con*)
@@ -7375,7 +7371,7 @@
 					   (HVF hot)
 					   (NP-ACC (PRO in))
 					   (VBN far_brent))))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.724))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.724))
 
 ( (IP-MAT (ADVP (ADV do))
 	  (HVF hot)
@@ -7387,7 +7383,7 @@
 	  (NP-DTV (D den) (NPR sar) (NPR asore))
 	  (RP tsi)
 	  (VBN gepasket))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.725))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.725))
 
 ( (IP-MAT (PP (DR+P der_nokh))
 	  (HVF hob)
@@ -7432,7 +7428,7 @@
 							    (HVF hot)
 							    (VBN geheysen)
 							    (NP-SPR (NPR brokhe)))))))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.726))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.726))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF veys)
@@ -7453,7 +7449,7 @@
 				(N iyhidi)
 				(ADJP (H hanal^aforesaid))
 				(X kile)))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.727))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.727))
 
 ( (IP-MAT (H ve@^and)
 	  (ADVP-TMP (PP (H @akher^after) (H kame^a_few) (H svies^weeks))
@@ -7465,7 +7461,7 @@
 	  (BEF zenen)
 	  (VBN gevezen)
 	  (NP-SBJ (N kozaken) (X akheyrem)))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.728))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.728))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (HVF hoben)
@@ -7474,7 +7470,7 @@
 	  (PP (H mi-gvires^from_UNKNOWN))
 	  (NP-ACC (N brokhe)
 		  (ADJP (H hanal^aforesaid))))
-  (ID 1XXXX-COURT-TESTIMONY,126_1614_e.729))
+  (ID 1XXXX-COURT-TESTIMONY,126_1614_e;_mostly_from_Birnbaum_1979:171-172;_transliteration_normalized.729))
 
 ( (CODE <P_127_1624_e>))
 
@@ -18654,12 +18650,11 @@
 	  (VAN gnumn))
   (ID 1XXXX-COURT-TESTIMONY,247_1679_w.1790))
 
-( (VP (X zundr)
-      (NP-DTV (ADV aleyn) (NPR stm))
-      (RP ap)
-      (VBN gikuft)
-      (PP (H bli^without)
-	  (NP (Q sum) (N tnai) (H beltm^UNKNOWN))))
+( (FRAG (X zundr)
+	(NP-DTV (ADV aleyn) (NPR stm))
+	(RP ap)
+	(VBN gikuft)
+	(NP-ACC (H bli^without) (Q sum) (N tnai) (H beltm^UNKNOWN)))
   (ID 1XXXX-COURT-TESTIMONY,247_1679_w.1791))
 
 ( (IP-MAT (PP (DR+P droyf)

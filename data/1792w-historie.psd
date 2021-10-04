@@ -318,7 +318,7 @@
 		      (NP-ACC (PRO eyne)
 			      (PP (P fun)
 				  (NP (D di) (ADJ tsvey) (N veybr))))
-		      (NP-DTV (NPR gt))
+		      (NP-DTV (N gt))
 		      (VB gebn)))
   (ID 1792W-HISTORIE,553.40))
 

@@ -1939,8 +1939,7 @@
   (ID 1705W-GLIKL,311.122))
 
 ( (IP-MAT (CONJ abir)
-	  (NP-LFD (CP-QUE-SUB (WADJP-1 (WADV vi)
-				       (ADJ zaur)
+	  (NP-LFD (CP-QUE-SUB (WADJP-1 (WADJP (WADV vi) (ADJ zaur))
 				       (CONJP (CONJ un)
 					      (ADJX (ADJ shvar))))
 			      (C das)
@@ -1955,7 +1954,7 @@
 	  (INTJP (H b"h^blessed_he)))
   (ID 1705W-GLIKL,311.123))
 
-( (IPX-MAT (NP-SBJ (NPR gt))
+( (IPX-MAT (NP-SBJ (N gt))
 	   (HVF hat)
 	   (NP-XXX (H bni^son_my) (NPR ntn) (H mg"l^deputy_Levite))
 	   (CODE {TMP:check})
