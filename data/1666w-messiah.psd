@@ -593,8 +593,8 @@
 		  (NP-PRN (PRO$ deyn) (ADJ gitreyan) (N knekht))))
   (ID 1666W-MESSIAH,13.67))
 
-( (IP-MAT (HVF hust@)
-	  (NP-SBJ (PRO @du))
+( (IP-MAT (HVF hus@)
+	  (NP-SBJ (PRO @tu))
 	  (NP-ACC (PRO zi))
 	  (RP oyz)
 	  (VBN gitsugin)
@@ -1328,8 +1328,8 @@
   (ID 1666W-MESSIAH,31.159))
 
 ( (IP-MAT (NP-VOC (NPR ihushie))
-	  (HVF hast@)
-	  (NP-SBJ (PRO @du))
+	  (HVF has@)
+	  (NP-SBJ (PRO @tu))
 	  (ADVP (ADV akh))
 	  (VBN gdint)
 	  (CP-ADV (C da)
@@ -3031,8 +3031,8 @@
   (ID 1666W-MESSIAH,73.353))
 
 ( (IP-MAT (NP-1 (D daz))
-	  (VBF bist@)
-	  (NP-SBJ (PRO @du))
+	  (VBF bis@)
+	  (NP-SBJ (PRO @tu))
 	  (ADJP-PRD (NP *ICH*-1)
 		    (ADJ makhtig))
 	  (ADVP (ADV aleyn)))

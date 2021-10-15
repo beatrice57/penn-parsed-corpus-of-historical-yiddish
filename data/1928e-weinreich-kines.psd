@@ -470,7 +470,7 @@
   (ID 1928E-WEINREICH-KINES,193.28))
 
 ( (IP-MAT (ADVP (ADV anit))
-	  (VLF volt)
+	  (VLP volt)
 	  (NP-SBJ (D di) (N shilderung))
 	  (NEG nit)
 	  (VBN geven)

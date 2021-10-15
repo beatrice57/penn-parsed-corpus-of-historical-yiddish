@@ -2143,8 +2143,8 @@
 	  (ADVP (ADV vidr))
 	  (CP-QUE-MAT-SPE (WPP-1 (WPRO+P varum))
 			  (IP-SUB-SPE (PP *T*-1)
-				      (VBF leygs@)
-				      (NP-SBJ (PRO @du)))))
+				      (VBF leyg@)
+				      (NP-SBJ (PRO @tu)))))
   (ID 1589E-ESTER,9.158))
 
 ( (IP-MAT-SPE (HVF hab)
@@ -2542,8 +2542,8 @@
   (ID 1589E-ESTER,10.183))
 
 ( (IP-MAT (ADVP-TMP (ADV nun))
-	  (HVF hast@)
-	  (NP-SBJ (PRO @du))
+	  (HVF has@)
+	  (NP-SBJ (PRO @tu))
 	  (VBN gihert)
 	  (CP-QUE-SUB (WPP-1 (WPRO+P varum))
 		      (IP-SUB (PP *T*-1)

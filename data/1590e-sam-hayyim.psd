@@ -1611,8 +1611,8 @@
   (ID 1590E-SAM-HAYYIM,227_Assaf.132))
 
 ( (IP-MAT (NP-ACC (N tseyt))
-	  (MDF zalst@)
-	  (NP-SBJ (PRO @du))
+	  (MDF zals@)
+	  (NP-SBJ (PRO @tu))
 	  (PP (P tsu)
 	      (NP (D der) (NPR turh)))
 	  (VB zetsin))

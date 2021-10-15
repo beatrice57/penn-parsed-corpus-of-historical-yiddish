@@ -327,7 +327,7 @@
 			     (CP-REL (WADVP-1 (WADV vu))
 				     (IP-SUB (ADVP-LOC *T*-1)
 					     (NP-SBJ (ES s))
-					     (VLF volt)
+					     (VLP volt)
 					     (VBN geven)
 					     (PUNC ")
 					     (NP-LGS (META (CONJ un)))))))))
@@ -418,7 +418,7 @@
   (ID 1928E-ZARETSKI-MENDELE,20.26))
 
 ( (IP-MAT (NP-SBJ (PRO s))
-	  (VLF volt)
+	  (VLP volt)
 	  (MDN gekent)
 	  (VB zayn))
   (ID 1928E-ZARETSKI-MENDELE,20.27))
@@ -823,7 +823,7 @@
 
 ( (IP-MAT (CODE fn.)
 	  (NP-SBJ (PRO ikh))
-	  (VLF volt)
+	  (VLP volt)
 	  (VBN gezogt)
 	  (PUNC :)
 	  (QTP (CP-QUE-MAT-EXAMPLE (C tsi)
@@ -1536,7 +1536,7 @@
   (ID 1928E-ZARETSKI-MENDELE,23.101))
 
 ( (IP-MAT (NP-SBJ (PRO me))
-	  (VLF volt)
+	  (VLP volt)
 	  (MDN gekent)
 	  (VB zogn)
 	  (PUNC :)
@@ -1568,7 +1568,7 @@
   (ID 1928E-ZARETSKI-MENDELE,23.102))
 
 ( (IP-MAT (ADVP-TMP (ADV demolt))
-	  (VLF volt)
+	  (VLP volt)
 	  (PUNC ,)
 	  (IP-MAT-PRN (VBF dukht)
 		      (NP-SBJ *exp*)
@@ -2467,7 +2467,7 @@
   (ID 1928E-ZARETSKI-MENDELE,25.161))
 
 ( (IP-MAT (ADVP-TMP (ADV demolt))
-	  (VLF volt)
+	  (VLP volt)
 	  (NP-SBJ (D dos) (N perzonvort))
 	  (VBN geven)
 	  (PP (P af@)
@@ -2551,7 +2551,7 @@
   (ID 1928E-ZARETSKI-MENDELE,25.165))
 
 ( (IP-MAT (ADVP-TMP (ADV demolt))
-	  (VLF volt)
+	  (VLP volt)
 	  (NP-SBJ (D dos) (N perzonvort))
 	  (VBN geven)
 	  (PP (P af@)
@@ -2604,7 +2604,7 @@
 
 ( (IP-MAT (ADVP (ADV tsveytns))
 	  (PUNC ,)
-	  (VLF volt)
+	  (VLP volt)
 	  (NP-SBJ-1 *exp*)
 	  (PP (FP afile)
 	      (P fun)

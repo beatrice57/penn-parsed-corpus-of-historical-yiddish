@@ -1989,7 +1989,7 @@
 
 ( (IP-MAT (CP-ADV-LFD (C ven)
 		      (IP-SUB (NP-SBJ (PRO men))
-			      (VLF volt)
+			      (VLP volt)
 			      (MDN gevolt)
 			      (VB urteyln)
 			      (PP (P loyt)
@@ -2044,7 +2044,7 @@
 				      (NP (NP-POS (NPR$ mentsls))
 					  (ADJ deytshishn)
 					  (N tekst))))))))
-	  (VLF volt)
+	  (VLP volt)
 	  (MDN gekont)
 	  (RP-ADJ fest)
 	  (VB steln)
