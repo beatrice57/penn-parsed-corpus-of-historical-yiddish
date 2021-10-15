@@ -9,7 +9,7 @@
 				  (VB visn)
 				  (PP (P fun)
 				      (NP (Q ali) (N lender)))))))
-  (ID 1818E-GEOGRAFIE,.2))
+  (ID 1818E-GEOGRAFYE,.2))
 
 ( (IP-MAT (HVF habin)
 	  (NP-SBJ (PRO mir))
@@ -25,7 +25,7 @@
 			  (MD kenin)
 			  (NP-LGS (Q ali))
 			  (VB fr_steyn))))
-  (ID 1818E-GEOGRAFIE,.3))
+  (ID 1818E-GEOGRAFYE,.3))
 
 ( (CODE <P_2>))
 
@@ -51,7 +51,7 @@
 				     (N tsu_teylung)
 				     (PP (P oyf)
 					 (NP (Q ali) (N khlkim)))))))))
-  (ID 1818E-GEOGRAFIE,3.6))
+  (ID 1818E-GEOGRAFYE,3.6))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N gistalt)
@@ -70,7 +70,7 @@
 			   (PP (P in)
 			       (NP (N gistalt)
 				   (PP (DR+P der_fun)))))))
-  (ID 1818E-GEOGRAFIE,3.7))
+  (ID 1818E-GEOGRAFYE,3.7))
 
 ( (IP-MAT (CONJ un)
 	  (PP (DR+P deribr))
@@ -81,7 +81,7 @@
 		  (H harts^the_land)
 		  (NP-PRN (N erd_kugl))
 		  (NP-PRN (FOREIGN (FW kulia) (FW zemmey)))))
-  (ID 1818E-GEOGRAFIE,3.8))
+  (ID 1818E-GEOGRAFYE,3.8))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N erd)
@@ -97,7 +97,7 @@
 		  (QP (ADVP (NP-MSR (ADV bald) (NUM tsvey) (N mal))
 			    (ADV za))
 		      (Q fil))))
-  (ID 1818E-GEOGRAFIE,3.9))
+  (ID 1818E-GEOGRAFYE,3.9))
 
 ( (IP-MAT (NP-ACC (CP-FRL (WADVP-1 (WADV vau))
 			  (IP-SUB (ADVP-LOC *T*-1)
@@ -107,7 +107,7 @@
 	  (VBF ruft)
 	  (NP-SBJ (PRO men))
 	  (NP-SPR (N ibsh)))
-  (ID 1818E-GEOGRAFIE,3.10))
+  (ID 1818E-GEOGRAFYE,3.10))
 
 ( (IP-MAT (CONJ un)
 	  (NP-ACC (CP-FRL (WADVP-1 (WADV vau))
@@ -121,7 +121,7 @@
 		  (H imurim^UNKNOWN)
 		  (NP-PRN (N mehr) (N teykhin))
 		  (NP-PRN {COM:russian_omitted})))
-  (ID 1818E-GEOGRAFIE,3.11))
+  (ID 1818E-GEOGRAFYE,3.11))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (CP-REL (WNP-1 0)
@@ -157,7 +157,7 @@
 								    (CP-FRL (WADVP-5 (WADV va))
 									    (IP-SUB=4 (ADVP-LOC *T*-5)
 										      (NP (N vaser)))))))))))))
-  (ID 1818E-GEOGRAFIE,3.12))
+  (ID 1818E-GEOGRAFYE,3.12))
 
 ( (IP-MAT (NP-SBJ (PRO zey))
 	  (VBF veyzin)
@@ -190,7 +190,7 @@
 					       (QR mer)
 					       (PP (P az)
 						   (NP (D eyn) (N mdinh)))))))))
-  (ID 1818E-GEOGRAFIE,3.13))
+  (ID 1818E-GEOGRAFYE,3.13))
 
 ( (IP-MAT (NP-SBJ (D di) (N land_kartin))
 	  (VBF veyzt)
@@ -202,14 +202,14 @@
 			  (VBF iz)
 			  (ADJP-PRD (ADJ flakh)
 				    (ELAB (ADJP (ADJ plaske)))))))
-  (ID 1818E-GEOGRAFIE,3.14))
+  (ID 1818E-GEOGRAFYE,3.14))
 
 ( (IP-MAT (CONJ abr)
 	  (NP-ADV (D dr) (N ems))
 	  (VBF iz)
 	  (NP-SBJ (PRO er))
 	  (ADJP-PRD (ADJ keylekhdik)))
-  (ID 1818E-GEOGRAFIE,3.15))
+  (ID 1818E-GEOGRAFYE,3.15))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (Q ali) (N land_kartin)))
@@ -232,27 +232,27 @@
 			  (PP (P in)
 			      (NP (D dr) (ADJ rekhti) (N hand)))
 			  (NP-SBJ (H mzrkh^east)))))
-  (ID 1818E-GEOGRAFIE,3.16))
+  (ID 1818E-GEOGRAFYE,3.16))
 
 ( (IP-MAT (PP (P in)
 	      (NP (D dr) (N linkn)))
 	  (VBF iz)
 	  (NP-SBJ (H merib^west))
 	  (CODE {COM:hebrew_omitted}))
-  (ID 1818E-GEOGRAFIE,3.17))
+  (ID 1818E-GEOGRAFYE,3.17))
 
 ( (IP-MAT (ADVP-LOC (ADV ubin))
 	  (VBF iz)
 	  (NP-SBJ (H tsfun^north))
 	  (CODE {COM:hebrew_omitted}))
-  (ID 1818E-GEOGRAFIE,3.18))
+  (ID 1818E-GEOGRAFYE,3.18))
 
 ( (IP-MAT (CONJ un)
 	  (ADVP-LOC (ADV untin))
 	  (VBF iz)
 	  (NP-SBJ (H drum^south))
 	  (CODE {COM:hebrew_omitted}))
-  (ID 1818E-GEOGRAFIE,3.19))
+  (ID 1818E-GEOGRAFYE,3.19))
 
 ( (CODE <P_4>))
 
@@ -270,13 +270,13 @@
 				  (VBF ringelt)
 				  (ADVP (ADV arum))
 				  (NP-ACC (D di) (ADJ gantsi) (N velt))))))
-  (ID 1818E-GEOGRAFIE,4.21))
+  (ID 1818E-GEOGRAFYE,4.21))
 
 ( (IP-MAT (NP-SBJ (PRO er))
 	  (VBF hat)
 	  (ADVP (ADV abr))
 	  (NP-ACC (ADV ukh) (ADV nukh) (Q fil) (ADJ andere) (N nemin)))
-  (ID 1818E-GEOGRAFIE,4.22))
+  (ID 1818E-GEOGRAFYE,4.22))
 
 ( (IP-MAT (CONJ un)
 	  (NP-LFD (CP-FRL (WPP-1 (P bey)
@@ -290,7 +290,7 @@
 	  (PP (P-DBL nakh)
 	      (PP (NP-RSP (D dr) (N mdinh))
 		  (P nakh))))
-  (ID 1818E-GEOGRAFIE,4.23))
+  (ID 1818E-GEOGRAFYE,4.23))
 
 ( (IP-MAT (CONJ un)
 	  (ADVP-LOC (ADV gants)
@@ -304,7 +304,7 @@
 		  (NPR stilir)
 		  (NPR iam)
 		  (NP-PRN (N aukinum))))
-  (ID 1818E-GEOGRAFIE,4.24))
+  (ID 1818E-GEOGRAFYE,4.24))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF ruft)
@@ -319,7 +319,7 @@
 		  (CONJP (CONJ un)
 			 (ADVP (ADV akh))
 			 (NP (Q fil) (ADJ andere) (N nemn)))))
-  (ID 1818E-GEOGRAFIE,4.25))
+  (ID 1818E-GEOGRAFYE,4.25))
 
 ( (IP-MAT (NP-SPR (N imim))
 	  (RDF verin)
@@ -346,7 +346,7 @@
 					   (NP-PRN (H im^sea) (NPR gramaneya))))
 				(CONJP (CONJ un)
 				       (NP (ADJP (ADV nukh) (ADJ anderi)))))))))
-  (ID 1818E-GEOGRAFIE,4.26))
+  (ID 1818E-GEOGRAFYE,4.26))
 
 ( (IP-MAT (NP-SPR (H yaurim^UNKNOWN) (H aueres^UNKNOWN))
 	  (VBF ruft)
@@ -361,14 +361,14 @@
 				  (VAN giklibin)
 				  (PP (P mit)
 				      (NP (ADJ zise) (N vaser)))))))
-  (ID 1818E-GEOGRAFIE,4.27))
+  (ID 1818E-GEOGRAFYE,4.27))
 
 ( (IP-MAT (CONJ un)
 	  (NP-ACC (D das))
 	  (VBF ruft)
 	  (NP-SBJ (PRO men))
 	  (NP-SPR (N yezare)))
-  (ID 1818E-GEOGRAFIE,4.28))
+  (ID 1818E-GEOGRAFYE,4.28))
 
 ( (IP-MAT (CP-ADV (C ven)
 		  (IP-SUB (NP-SBJ (D eyn) (N azere))
@@ -382,7 +382,7 @@
 	  (NP-SBJ (PRO men))
 	  (NP-ACC (PRO es))
 	  (NP-SPR (H ykh^UNKNOWN) (H im^sea)))
-  (ID 1818E-GEOGRAFIE,4.29))
+  (ID 1818E-GEOGRAFYE,4.29))
 
 ( (IP-MAT (CONJ un)
 	  (PP (DR+P deriber))
@@ -399,7 +399,7 @@
 					 (VBF iz)
 					 (PP (P bey)
 					     (NP (N mdinh) (NPR kspi))))))))
-  (ID 1818E-GEOGRAFIE,4.30))
+  (ID 1818E-GEOGRAFYE,4.30))
 
 ( (IP-MAT (NP-SPR (H brikh^UNKNOWN)
 		  (H him^the_sea)
@@ -424,7 +424,7 @@
 						 (VBF geyt)
 						 (NEG nit)
 						 (ADVP (ADV breyt))))))))
-  (ID 1818E-GEOGRAFIE,4.31))
+  (ID 1818E-GEOGRAFYE,4.31))
 
 ( (IP-MAT (CONJ un)
 	  (PP (P in)
@@ -440,13 +440,13 @@
 				(RP-H mfsik)
 				(PP (P tsu_veysin)
 				    (NP (NPR frnkreykh) (CONJ un) (NPR england)))))))
-  (ID 1818E-GEOGRAFIE,4.32))
+  (ID 1818E-GEOGRAFYE,4.32))
 
 ( (IP-MAT (NP-SBJ (NPR dardanel))
 	  (VBF iz)
 	  (PP (P bey)
 	      (NP (NPR kanstantinapl))))
-  (ID 1818E-GEOGRAFIE,4.33))
+  (ID 1818E-GEOGRAFYE,4.33))
 
 ( (IP-MAT (NP-SBJ (NPR gibarlater))
 	  (VBF iz)
@@ -455,7 +455,7 @@
 	      (NP (NP (NPR spneya))
 		  (CONJP (CONJ un)
 			 (NP (NPR afrike))))))
-  (ID 1818E-GEOGRAFIE,4.34))
+  (ID 1818E-GEOGRAFYE,4.34))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (D dr) (N zund))
@@ -463,7 +463,7 @@
 	  (RP-H mfsik)
 	  (PP (P tsu_vishin)
 	      (NP (NPR sveydin) (CONJ un) (NPR deni_mark))))
-  (ID 1818E-GEOGRAFIE,4.35))
+  (ID 1818E-GEOGRAFYE,4.35))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (NPR mitsileyen))
@@ -471,7 +471,7 @@
 	  (RP-H mfsik)
 	  (PP (P tsu_visin)
 	      (NP (NPR misileya) (CONJ un) (NPR neapal))))
-  (ID 1818E-GEOGRAFIE,4.36))
+  (ID 1818E-GEOGRAFYE,4.36))
 
 ( (IP-MAT (NP-SPR (H lsun^UNKNOWN)
 		  (H his^UNKNOWN)
@@ -492,7 +492,7 @@
 				  (NP-MSR (D eyn) (ADJ grusi) (N stik))
 				  (PP-2 (P in)
 					(NP (D dr) (N ibsh)))))))
-  (ID 1818E-GEOGRAFIE,4.37))
+  (ID 1818E-GEOGRAFYE,4.37))
 
 ( (CODE <P_5>))
 
@@ -535,7 +535,7 @@
 						     (PP (P fun)
 							 (NP (NP-COM (ADJ anderi) (N nutsin))
 							     (N vegin)))))))))
-  (ID 1818E-GEOGRAFIE,5.39))
+  (ID 1818E-GEOGRAFYE,5.39))
 
 ( (IP-MAT (NP-SBJ (H im^sea)
 		  (H haeym^UNKNOWN)
@@ -560,7 +560,7 @@
 									 (NP-SBJ (PRO eynh)
 										 (PP (P fun)
 										     (NP (D di) (ADJ anderi))))))))))))))
-  (ID 1818E-GEOGRAFIE,5.40))
+  (ID 1818E-GEOGRAFYE,5.40))
 
 ( (IP-MAT (NP-SPR (N nhr))
 	  (RDF vert)
@@ -576,7 +576,7 @@
 				  (PP (P vi)
 				      (PP (P in)
 					  (NP (D eyn) (N karite))))))))
-  (ID 1818E-GEOGRAFIE,5.41))
+  (ID 1818E-GEOGRAFYE,5.41))
 
 ( (IP-MAT (NP-SPR (N meeyn))
 	  (RDF vert)
@@ -593,7 +593,7 @@
 				  (IP-INF (NP-RFL *ICH*-2)
 					  (TO tsu)
 					  (VB tsihen))))))
-  (ID 1818E-GEOGRAFIE,5.42))
+  (ID 1818E-GEOGRAFYE,5.42))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (Q ali) (N teykhin))
@@ -606,7 +606,7 @@
 		  (PP (P fun)
 		      (PP (P untr)
 			  (NP (D eyn) (N barg))))))
-  (ID 1818E-GEOGRAFIE,5.43))
+  (ID 1818E-GEOGRAFYE,5.43))
 
 ( (IP-MAT (NP-LFD (D das)
 		  (N us_laz)
@@ -628,7 +628,7 @@
 	  (NP-SBJ (PRO men))
 	  (NP-ACC-RSP (PRO es))
 	  (NP-SPR (D den) (N tuer)))
-  (ID 1818E-GEOGRAFIE,5.44))
+  (ID 1818E-GEOGRAFYE,5.44))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (Q ali)
@@ -648,7 +648,7 @@
 					(NPR afrike)
 					(PP-PRN (P in)
 						(NP (N mdint) (NPR nigriley)))))))))
-  (ID 1818E-GEOGRAFIE,5.45))
+  (ID 1818E-GEOGRAFYE,5.45))
 
 ( (IP-MAT (NP-SBJ (D der) (FP nar))
 	  (BEF vart)
@@ -657,7 +657,7 @@
 	      (NP (D dr) (N mdbr)))
 	  (PP (P in)
 	      (NP (ADJ grusi) (N zend))))
-  (ID 1818E-GEOGRAFIE,5.46))
+  (ID 1818E-GEOGRAFYE,5.46))
 
 ( (IP-MAT (NP-SBJ (ES es))
 	  (VBF iz)
@@ -676,7 +676,7 @@
 				      (NP (D eyn) (N teykh)))
 				  (PP (P in)
 				      (NP (D dr) (ADJ anderi)))))))
-  (ID 1818E-GEOGRAFIE,5.47))
+  (ID 1818E-GEOGRAFYE,5.47))
 
 ( (IP-MAT (CONJ abr)
 	  (NP-SBJ (D das))
@@ -685,7 +685,7 @@
 	      (NP (ADJ mentshlikhi) (N arbeyt)))
 	  (VAN gigrabin)
 	  (RDN givarin))
-  (ID 1818E-GEOGRAFIE,5.48))
+  (ID 1818E-GEOGRAFYE,5.48))
 
 ( (IP-MAT (NP-SPR (N arts))
 	  (VBF ruft)
@@ -705,7 +705,7 @@
 				  (VAN @girisin)
 				  (PP (P mit)
 				      (NP (Q keyn) (N im)))))))
-  (ID 1818E-GEOGRAFIE,5.49))
+  (ID 1818E-GEOGRAFYE,5.49))
 
 ( (IP-MAT (NP-SPR (N inzel)
 		  (NP-PRN (FW vispe)))
@@ -734,7 +734,7 @@
 						 (NEG nit)
 						 (RP tsu)
 						 (VB kumin)))))))
-  (ID 1818E-GEOGRAFIE,5.50))
+  (ID 1818E-GEOGRAFYE,5.50))
 
 ( (IP-MAT (NP-SPR (H khtsi^half)
 		  (H khai^UNKNOWN)
@@ -771,7 +771,7 @@
 						     (ADVP (ADV dartin)))
 						 (RP tsu)
 						 (VB kumin)))))))
-  (ID 1818E-GEOGRAFIE,5.51))
+  (ID 1818E-GEOGRAFYE,5.51))
 
 ( (CODE <P_6>))
 
@@ -792,7 +792,7 @@
 				  (VBF tsiht)
 				  (PP (P tsu_vishin)
 				      (NP (NUM tsvey) (N imim)))))))
-  (ID 1818E-GEOGRAFIE,6.53))
+  (ID 1818E-GEOGRAFYE,6.53))
 
 ( (IP-MAT (CONJ un)
 	  (PP (P in)
@@ -802,7 +802,7 @@
 	  (VAN beheft)
 	  (PP (P tsu)
 	      (NP (NUM tsvey) (N ibsut))))
-  (ID 1818E-GEOGRAFIE,6.54))
+  (ID 1818E-GEOGRAFYE,6.54))
 
 ( (IP-MAT (NP-SPR (N kap))
 	  (VBF heyst)
@@ -819,7 +819,7 @@
 				  (ADVP-DIR (PP (P in)
 						(NP (N im)))
 					    (ADV areyn))))))
-  (ID 1818E-GEOGRAFIE,6.55))
+  (ID 1818E-GEOGRAFYE,6.55))
 
 ( (IP-MAT (NP-SBJ (NP (N afaka))
 		  (CONJP (CONJ udr)
@@ -833,19 +833,19 @@
 				  (VBF iz)
 				  (ADJP-PRD (ADJ ful)
 					    (NP (N steynr)))))))
-  (ID 1818E-GEOGRAFIE,6.56))
+  (ID 1818E-GEOGRAFYE,6.56))
 
 ( (IP-MAT (NP-SBJ (N khr))
 	  (VBF iz)
 	  (NP-PRD (D eyn)
 		  (ADJP (ADV gants) (ADJ hukhir))
 		  (N barg)))
-  (ID 1818E-GEOGRAFIE,6.57))
+  (ID 1818E-GEOGRAFYE,6.57))
 
 ( (IP-MAT (NP-SBJ (N gbeh))
 	  (VBF iz)
 	  (NP-PRD (D eyn) (ADJR klenerir) (N barg)))
-  (ID 1818E-GEOGRAFIE,6.58))
+  (ID 1818E-GEOGRAFYE,6.58))
 
 ( (IP-MAT (NP-ACC (D di) (N erd))
 	  (HVF habin)
@@ -859,7 +859,7 @@
 		  (NP-PRN (NP (N ibsh))
 			  (CONJP (CONJ un)
 				 (NP (N imim)))))))
-  (ID 1818E-GEOGRAFIE,6.59))
+  (ID 1818E-GEOGRAFYE,6.59))
 
 ( (IP-MAT (CONJ abr)
 	  (NP-SBJ (D di) (N ibsh))
@@ -868,7 +868,7 @@
 	  (VAN giteylt)
 	  (PP (P in)
 	      (NP (NUM 4) (N khlkim))))
-  (ID 1818E-GEOGRAFIE,6.60))
+  (ID 1818E-GEOGRAFYE,6.60))
 
 ( (IP-MAT (CONJ un)
 	  (ADVP (ADV azu)
@@ -892,7 +892,7 @@
 					    (ADVP-LOC (ADV nahent)
 						      (PP (P bey)
 							  (NP (PRO zey))))))))))
-  (ID 1818E-GEOGRAFIE,6.61))
+  (ID 1818E-GEOGRAFYE,6.61))
 
 ( (IP-MAT (NP-SBJ (ADJ anderi))
 	  (VBF teylin)
@@ -909,7 +909,7 @@
 			  (CONJP (NP (NPR amerike)))
 			  (CONJP (CONJ un)
 				 (NP (NPR australazie) (CONJ uder) (NPR polinezie)))))))
-  (ID 1818E-GEOGRAFIE,6.62))
+  (ID 1818E-GEOGRAFYE,6.62))
 
 ( (IP-MAT (CONJ un)
 	  (PP (P in)
@@ -937,7 +937,7 @@
 						    (NP (NP (H mzrkh^east))
 							(CONJP (CONJ un)
 							       (NP (H drum^south) (NPR azie))))))))))))
-  (ID 1818E-GEOGRAFIE,6.63))
+  (ID 1818E-GEOGRAFYE,6.63))
 
 ( (IP-MAT (CONJ un)
 	  (PP (DR+P deruntr))
@@ -952,7 +952,7 @@
 			  (ADJP-PRD (ADJR greser)
 				    (PP (P fr)
 					(NP (N eurape)))))))
-  (ID 1818E-GEOGRAFIE,6.64))
+  (ID 1818E-GEOGRAFYE,6.64))
 
 ( (IP-MAT (NP-SBJ (D di) (NUM tsvey) (N khlkim))
 	  (VBF zeynn)
@@ -960,7 +960,7 @@
 	  (PP (P fun)
 	      (ADVP (ADV eybig)))
 	  (ADJP-PRD (ADJ bekant)))
-  (ID 1818E-GEOGRAFIE,6.65))
+  (ID 1818E-GEOGRAFYE,6.65))
 
 ( (IP-MAT (CONJ den)
 	  (NP-SBJ (PRO men))
@@ -981,7 +981,7 @@
 		    (NP-PRN (NP (NPR eaurape))
 			    (CONJP (NP (NPR azie)))
 			    (CONJP (NP (NPR afrike)))))))
-  (ID 1818E-GEOGRAFIE,6.66))
+  (ID 1818E-GEOGRAFYE,6.66))
 
 ( (IP-MAT (NP-SBJ (D das))
 	  (BEF iz)
@@ -991,7 +991,7 @@
 	  (ADVP (ADV gants) (ADV farful))
 	  (VBN givezin)
 	  (ADJP-PRD (ADJ bakant)))
-  (ID 1818E-GEOGRAFIE,6.67))
+  (ID 1818E-GEOGRAFYE,6.67))
 
 ( (IP-MAT (NP-ACC (D di) (NUM drey) (N khlkim))
 	  (VBF ruft)
@@ -1004,7 +1004,7 @@
 			  (PP (P fun)
 			      (ADVP (ADVP lang) (RP an)))
 			  (ADJP-PRD (ADJ bekant)))))
-  (ID 1818E-GEOGRAFIE,6.68))
+  (ID 1818E-GEOGRAFYE,6.68))
 
 ( (IP-MAT (NP-ACC (NPR amerike))
 	  (VBF ruft)
@@ -1018,7 +1018,7 @@
 			  (ADVP (ADV lang))
 			  (ADJP-PRD (ADJ bikant))
 			  (VBN givarn))))
-  (ID 1818E-GEOGRAFIE,6.69))
+  (ID 1818E-GEOGRAFYE,6.69))
 
 ( (IP-MAT (NP-SBJ (D das) (N land) (NPR amerike))
 	  (BEF iz)
@@ -1036,7 +1036,7 @@
 				  (NP-SPR (N kalumbus))))))
 	  (PP (P in)
 	      (NP (D das) (N yahr) (NUM 1491))))
-  (ID 1818E-GEOGRAFIE,6.70))
+  (ID 1818E-GEOGRAFYE,6.70))
 
 ( (IP-MAT (CONJ un)
 	  (NP-ACC (D dem)
@@ -1068,7 +1068,7 @@
 							 (VBN der_gangen)
 							 (PP (P nakh)
 							     (NP (QR mer) (N velt)))))))))))
-  (ID 1818E-GEOGRAFIE,6.71))
+  (ID 1818E-GEOGRAFYE,6.71))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (PRO er))
@@ -1078,7 +1078,7 @@
 		  (NP-ACC (PRO$ zeyn) (N namen))
 		  (PP (DR+P deroyf))
 		  (VB gebin)))
-  (ID 1818E-GEOGRAFIE,6.72))
+  (ID 1818E-GEOGRAFYE,6.72))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ *con*)
@@ -1088,7 +1088,7 @@
 	  (PP (P fun)
 	      (NP (D yenm)))
 	  (NP-ACC (D dem) (N kbud)))
-  (ID 1818E-GEOGRAFIE,6.73))
+  (ID 1818E-GEOGRAFYE,6.73))
 
 ( (IP-MAT (NP-SBJ (D das)
 		  (ADJ erste)
@@ -1101,7 +1101,7 @@
 	  (VBN ghubin)
 	  (PP (P in)
 	      (NP (NPR azie))))
-  (ID 1818E-GEOGRAFIE,6.74))
+  (ID 1818E-GEOGRAFYE,6.74))
 
 ( (IP-MAT (CONJ varum)
 	  (ADVP-LOC (ADV dart))
@@ -1109,7 +1109,7 @@
 	  (VAN bshafn)
 	  (RDN givarn)
 	  (NP-SBJ (NPR adm) (H hrasun^the_first)))
-  (ID 1818E-GEOGRAFIE,6.75))
+  (ID 1818E-GEOGRAFYE,6.75))
 
 ( (CODE <P_7>))
 
@@ -1119,14 +1119,14 @@
 	  (VAN gegebin)
 	  (RDN givarin)
 	  (NP-SBJ (D di) (NPR turh)))
-  (ID 1818E-GEOGRAFIE,7.77))
+  (ID 1818E-GEOGRAFYE,7.77))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (ADV oykh) (D di) (N avut))
 	  (HVF habin)
 	  (ADVP-LOC (ADV dartin))
 	  (VBN givaunt))
-  (ID 1818E-GEOGRAFIE,7.78))
+  (ID 1818E-GEOGRAFYE,7.78))
 
 ( (IP-MAT (NP-SBJ (D der) (N khlk))
 	  (BEF iz)
@@ -1134,7 +1134,7 @@
 	  (ADJP-PRD (ADJ brimter)
 		    (PP (P in)
 			(NP (D der) (ADJ gantser) (N velt)))))
-  (ID 1818E-GEOGRAFIE,7.79))
+  (ID 1818E-GEOGRAFYE,7.79))
 
 ( (IP-MAT (ADVP-TMP (ADV yetst))
 	  (VBF iz)
@@ -1148,14 +1148,14 @@
 			(CONJP (CONJ un)
 			       (PP (P ibr)
 				   (NP (PRO$ ire) (ADJR kligere) (N msptim)))))))
-  (ID 1818E-GEOGRAFIE,7.80))
+  (ID 1818E-GEOGRAFYE,7.80))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ anderi) (N khlkim))
 	  (VBF habin)
 	  (ADVP (ADV abr))
 	  (NEG nit)
 	  (NP-ACC (D di) (N melut)))
-  (ID 1818E-GEOGRAFIE,7.81))
+  (ID 1818E-GEOGRAFYE,7.81))
 
 ( (IP-MAT (NP-SBJ (FP nar)
 		  (D di)
@@ -1168,12 +1168,12 @@
 	  (ADVP (ADV nakh))
 	  (PP (P mit)
 	      (NP (N khkhmh))))
-  (ID 1818E-GEOGRAFIE,7.82))
+  (ID 1818E-GEOGRAFYE,7.82))
 
 ( (IP-MAT (NP-SBJ (D das))
 	  (VBF iz)
 	  (NP-PRD (NPR khine) (CONJ un) (NPR yapanie)))
-  (ID 1818E-GEOGRAFIE,7.83))
+  (ID 1818E-GEOGRAFYE,7.83))
 
 ( (IP-MAT (ADVP (ADV abr))
 	  (NP-SBJ (D di)
@@ -1184,7 +1184,7 @@
 	  (VBF iz)
 	  (NEG nit)
 	  (ADVP (ADV azu)))
-  (ID 1818E-GEOGRAFIE,7.84))
+  (ID 1818E-GEOGRAFYE,7.84))
 
 ( (IP-MAT (NP-SBJ (D der)
 		  (ADJS grester)
@@ -1193,7 +1193,7 @@
 		      (NP (NPR afrike))))
 	  (VBF zeynen)
 	  (NP-PRD (FP nar) (N barbarzintses)))
-  (ID 1818E-GEOGRAFIE,7.85))
+  (ID 1818E-GEOGRAFYE,7.85))
 
 ( (IP-MAT (NP-SBJ (D das))
 	  (VBF heyst)
@@ -1202,7 +1202,7 @@
 		      (NP-ACC (NP (Q keyn) (ADJ rekhti) (N amunh))
 			      (CONJP (CONJ un)
 				     (NP (Q keyn) (ADJ rekht) (N far_stand))))))
-  (ID 1818E-GEOGRAFIE,7.86))
+  (ID 1818E-GEOGRAFYE,7.86))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR amerike)))
@@ -1215,34 +1215,34 @@
 				    (HVF habin)
 				    (NP-RFL (PRO zikh))
 				    (VBN bazelt)))))
-  (ID 1818E-GEOGRAFIE,7.87))
+  (ID 1818E-GEOGRAFYE,7.87))
 
 ( (IP-MAT (ADVP (ADV veyter))
 	  (VBF iz)
 	  (ADVP (ADV nakh))
 	  (NP-SBJ (Q alts))
 	  (ADJP-PRD (ADJ vild) (CONJ un) (ADJ pust)))
-  (ID 1818E-GEOGRAFIE,7.88))
+  (ID 1818E-GEOGRAFYE,7.88))
 
 ( (IP-MAT (NP-SBJ (ADJ andri) (N ertr))
 	  (VBF zeynen)
 	  (ADVP (ADV nakh))
 	  (ADJP-PRD (QP (ADV zeyer) (Q veynig))
 		    (ADJ bekant)))
-  (ID 1818E-GEOGRAFIE,7.89))
+  (ID 1818E-GEOGRAFYE,7.89))
 
 ( (FRAG (NP (NPR eaurpie))
 	(NP (D di)
 	    (N grenetsin)
 	    (PP (P fun) (NP eaurpe)))
 	(CODE {COM:sic}))
-  (ID 1818E-GEOGRAFIE,7.90))
+  (ID 1818E-GEOGRAFYE,7.90))
 
 ( (IP-MAT (NP-SBJ (NPR eaurpie))
 	  (VBF grentst)
 	  (NP-RFL (PRO zikh))
 	  (PUNC :))
-  (ID 1818E-GEOGRAFIE,7.91))
+  (ID 1818E-GEOGRAFYE,7.91))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (H tsfun^north) (N zeyt)))
@@ -1250,7 +1250,7 @@
 	  (NP-SBJ (D der)
 		  (N eyz_mer)
 		  (NP-PRN (CODE {COM:hebrew_omitted}))))
-  (ID 1818E-GEOGRAFIE,7.92))
+  (ID 1818E-GEOGRAFYE,7.92))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (H mzrkh^east) (N zeyt)))
@@ -1261,14 +1261,14 @@
 		  (CONJP (NP (D der) (N teykh) (NPR dan)))
 		  (CONJP (CONJ un)
 			 (NP (D di) (ADJ uralske) (N berg)))))
-  (ID 1818E-GEOGRAFIE,7.93))
+  (ID 1818E-GEOGRAFYE,7.93))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (H drum^south)))
 	  (VBF iz)
 	  (NP-PRD (D dr) (N grenits))
 	  (NP-SBJ (D dr) (ADJ mit_lendesher) (N mer)))
-  (ID 1818E-GEOGRAFIE,7.94))
+  (ID 1818E-GEOGRAFYE,7.94))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (H merib^west)))
@@ -1276,7 +1276,7 @@
 	  (NP-SBJ (D der) (N grents))
 	  (ADVP (ADV oykh))
 	  (NP-PRD (D der) (ADJ atlantisher) (N mehr)))
-  (ID 1818E-GEOGRAFIE,7.95))
+  (ID 1818E-GEOGRAFYE,7.95))
 
 ( (IP-MAT (NP-SBJ (NPR eaurpie))
 	  (VBF hat)
@@ -1306,7 +1306,7 @@
 		  (CONJP (CONJ un)
 			 (ADVP (ADV ukh))
 			 (NP (NUM drey_tsehn) (N mlukhut)))))
-  (ID 1818E-GEOGRAFIE,7.96))
+  (ID 1818E-GEOGRAFYE,7.96))
 
 ( (IP-MAT (CONJ un)
 	  (NP-PRD (D das)
@@ -1314,7 +1314,7 @@
 	  (VBF zeynen)
 	  (NP-SBJ (PRO zey))
 	  (NP-1 {COM:list_omitted}))
-  (ID 1818E-GEOGRAFIE,7.97))
+  (ID 1818E-GEOGRAFYE,7.97))
 
 ( (CODE <P_8>))
 
@@ -1342,14 +1342,14 @@
 							(VBF giher)
 							(PP (P untir)
 							    (NP (D dem) (ADJ russhin) (N kisr))))))))))
-  (ID 1818E-GEOGRAFIE,8.99))
+  (ID 1818E-GEOGRAFYE,8.99))
 
 ( (IP-MAT (ADVP (ADV zu))
 	  (VBF iz)
 	  (CODE {COM:default_agreement})
 	  (ADVP (ADV nakh))
 	  (NP-SBJ (NUM finf) (N mlukhut)))
-  (ID 1818E-GEOGRAFIE,8.100))
+  (ID 1818E-GEOGRAFYE,8.100))
 
 ( (IP-MAT (CONJ un)
 	  (NP-PRD (D das)
@@ -1358,7 +1358,7 @@
 	  (NP-SBJ (PRO zey))
 	  (PUNC :)
 	  (NP-1 {COM:list_omitted}))
-  (ID 1818E-GEOGRAFIE,8.101))
+  (ID 1818E-GEOGRAFYE,8.101))
 
 ( (IP-MAT (ADVP (ADV ukh))
 	  (VBF hat)
@@ -1370,7 +1370,7 @@
 		  (N kurferstin)
 		  (CONJP (CONJ un)
 			 (NX (ADJR kleneri)))))
-  (ID 1818E-GEOGRAFIE,8.102))
+  (ID 1818E-GEOGRAFYE,8.102))
 
 ( (IP-MAT (ADVP (ADV ukh))
 	  (VBF hat)
@@ -1381,7 +1381,7 @@
 		  (ADJ frey)
 		  (N reykh_stet)
 		  (NP-PRN {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,8.103))
+  (ID 1818E-GEOGRAFYE,8.103))
 
 ( (PP (P fun)
       (NP (D di)
@@ -1393,7 +1393,7 @@
 			  (VBF zeyn)
 			  (PP (P in)
 			      (NP (NPR irupe)))))))
-  (ID 1818E-GEOGRAFIE,8.104))
+  (ID 1818E-GEOGRAFYE,8.104))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR teyts_land)))
@@ -1403,7 +1403,7 @@
 		  (CONJP (NP (D di) (NPR udre)))
 		  (CONJP (CONJ un)
 			 (NP (D di) (NPR elbe)))))
-  (ID 1818E-GEOGRAFIE,8.105))
+  (ID 1818E-GEOGRAFYE,8.105))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR itley)))
@@ -1412,7 +1412,7 @@
 		  (CONJP (NP (NPR adiga)))
 		  (CONJP (CONJ un)
 			 (NP (NPR pa)))))
-  (ID 1818E-GEOGRAFIE,8.106))
+  (ID 1818E-GEOGRAFYE,8.106))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR freynkrikh)))
@@ -1421,7 +1421,7 @@
 		  (CONJP (NP (NPR radan)))
 		  (CONJP (CONJ un)
 			 (NP (NPR garana)))))
-  (ID 1818E-GEOGRAFIE,8.107))
+  (ID 1818E-GEOGRAFYE,8.107))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NP (NPR hispaney))
@@ -1433,13 +1433,13 @@
 		  (CONJP (NP (NPR gvadalkvivir)))
 		  (CONJP (CONJ un)
 			 (NP (NPR duera)))))
-  (ID 1818E-GEOGRAFIE,8.108))
+  (ID 1818E-GEOGRAFYE,8.108))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR england)))
 	  (VBF iz)
 	  (NP-SBJ (D di) (NPR tamiza)))
-  (ID 1818E-GEOGRAFIE,8.109))
+  (ID 1818E-GEOGRAFYE,8.109))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR rus_land)))
@@ -1452,13 +1452,13 @@
 		  (CONJP (NP (NPR nemir)))
 		  (CONJP (CONJ un)
 			 (NP (NPR viley)))))
-  (ID 1818E-GEOGRAFIE,8.110))
+  (ID 1818E-GEOGRAFYE,8.110))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR pulin)))
 	  (VBF iz)
 	  (NP-SBJ (D dr) (NPR veysil)))
-  (ID 1818E-GEOGRAFIE,8.111))
+  (ID 1818E-GEOGRAFYE,8.111))
 
 ( (PP (P fun)
       (NP (D di)
@@ -1466,7 +1466,7 @@
 	  (N yezares)
 	  (PP (P in)
 	      (NP (NPR irupe)))))
-  (ID 1818E-GEOGRAFIE,8.112))
+  (ID 1818E-GEOGRAFYE,8.112))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR rus_land)))
@@ -1480,13 +1480,13 @@
 		  (CONJP (NX (NPR (N azire))))
 		  (CONJP (CONJ un)
 			 (NP (ADJP (ADV nakh) (ADJ veytir))))))
-  (ID 1818E-GEOGRAFIE,8.113))
+  (ID 1818E-GEOGRAFYE,8.113))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR pulin)))
 	  (VBF iz)
 	  (NP-SBJ (D di) (NPR geple)))
-  (ID 1818E-GEOGRAFIE,8.114))
+  (ID 1818E-GEOGRAFYE,8.114))
 
 ( (IP-MAT (IP-MAT-1 (PP (P in)
 			(NP (NPR sveydin)))
@@ -1497,7 +1497,7 @@
 	  (CONJP (IP-MAT=1 (PP (P in)
 			       (NP (NPR teyts_land)))
 			   (NP-SBJ (NPR kanstantseyen)))))
-  (ID 1818E-GEOGRAFIE,8.115))
+  (ID 1818E-GEOGRAFYE,8.115))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NP (NPR itlie))
@@ -1507,7 +1507,7 @@
 	  (NP-SBJ (NP (NPR laga) (NPR di) (NPR kama))
 		  (CONJP (NP (NPR laga) (NPR di) (NPR garda)))
 		  (CONJP (NP (NPR laga) (NPR magiare)))))
-  (ID 1818E-GEOGRAFIE,8.116))
+  (ID 1818E-GEOGRAFYE,8.116))
 
 ( (CODE <P_9>))
 
@@ -1521,7 +1521,7 @@
 			  (VBF zeyn)
 			  (PP (P in)
 			      (NP (NPR irupie)))))))
-  (ID 1818E-GEOGRAFIE,9.118))
+  (ID 1818E-GEOGRAFYE,9.118))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR pupsin_land)))
@@ -1532,7 +1532,7 @@
 		  (NPR rum)
 		  (PP (P bey)
 		      (NP (D dr) (N teykh) (NPR tiber)))))
-  (ID 1818E-GEOGRAFIE,9.119))
+  (ID 1818E-GEOGRAFYE,9.119))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR rus_land)))
@@ -1540,7 +1540,7 @@
 	  (NP-SBJ (NPR pitrs_burg)
 		  (PP (P bey)
 		      (NP (D der) (NPR neve)))))
-  (ID 1818E-GEOGRAFIE,9.120))
+  (ID 1818E-GEOGRAFYE,9.120))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR usterie)))
@@ -1548,7 +1548,7 @@
 	  (NP-SBJ (NPR vin)
 		  (PP (P bey)
 		      (NP (NPR dunay)))))
-  (ID 1818E-GEOGRAFIE,9.121))
+  (ID 1818E-GEOGRAFYE,9.121))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR tirkey)))
@@ -1558,7 +1558,7 @@
 			 (NP (NPR kanstnatinapil)))
 		  (PP (P bey)
 		      (NP (D das) (ADJ eynge) (N mehr)))))
-  (ID 1818E-GEOGRAFIE,9.122))
+  (ID 1818E-GEOGRAFYE,9.122))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR engil_land)))
@@ -1566,7 +1566,7 @@
 	  (NP-SBJ (NPR lundin)
 		  (PP (P bey)
 		      (NP (D dr) (NPR tamize)))))
-  (ID 1818E-GEOGRAFIE,9.123))
+  (ID 1818E-GEOGRAFYE,9.123))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR deni_mark)))
@@ -1574,13 +1574,13 @@
 	  (NP-SBJ (NPR kapenhagen)
 		  (PP (P oyf)
 		      (NP (D eyn) (ADJ kleyn) (N vispe)))))
-  (ID 1818E-GEOGRAFIE,9.124))
+  (ID 1818E-GEOGRAFYE,9.124))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR shveydin)))
 	  (VBF iz)
 	  (NP-SBJ (NPR stakhalem)))
-  (ID 1818E-GEOGRAFIE,9.125))
+  (ID 1818E-GEOGRAFYE,9.125))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR preysin)))
@@ -1588,7 +1588,7 @@
 	  (NP-SBJ (NPR brlin)
 		  (PP (P bey)
 		      (NP (D der) (NPR sprean)))))
-  (ID 1818E-GEOGRAFIE,9.126))
+  (ID 1818E-GEOGRAFYE,9.126))
 
 ( (IP-MAT (PP (P in)
 	      (NP (H merib^west)
@@ -1598,7 +1598,7 @@
 	  (NP-SBJ (NPR kinigs_berg)
 		  (PP (P bey)
 		      (NP (D den) (NPR pregel)))))
-  (ID 1818E-GEOGRAFIE,9.127))
+  (ID 1818E-GEOGRAFYE,9.127))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR pulin)))
@@ -1606,7 +1606,7 @@
 	  (NP-SBJ (NPR varshoy)
 		  (PP (P bey)
 		      (NP (D der) (NPR veysil)))))
-  (ID 1818E-GEOGRAFIE,9.128))
+  (ID 1818E-GEOGRAFYE,9.128))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR ungerin)))
@@ -1616,7 +1616,7 @@
 			 (NP (NPR buda)))
 		  (PP (P bey)
 		      (NP (NPR dunoy)))))
-  (ID 1818E-GEOGRAFIE,9.129))
+  (ID 1818E-GEOGRAFYE,9.129))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR tsiekh)))
@@ -1624,7 +1624,7 @@
 	  (NP-SBJ (NPR prag)
 		  (PP (P bey)
 		      (NP (NPR mildave)))))
-  (ID 1818E-GEOGRAFIE,9.130))
+  (ID 1818E-GEOGRAFYE,9.130))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR zaksn)))
@@ -1632,7 +1632,7 @@
 	  (NP-SBJ (NPR drezin)
 		  (PP (P bey)
 		      (NP (D dr) (NPR elbe)))))
-  (ID 1818E-GEOGRAFIE,9.131))
+  (ID 1818E-GEOGRAFYE,9.131))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR vestfalin)))
@@ -1642,13 +1642,13 @@
 			(ADV veyt)
 			(PP (P fun)
 			    (NP (D dr) (N teykh) (NPR fulde))))))
-  (ID 1818E-GEOGRAFIE,9.132))
+  (ID 1818E-GEOGRAFYE,9.132))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR haland)))
 	  (VBF iz)
 	  (NP-SBJ (NPR amstrdm)))
-  (ID 1818E-GEOGRAFIE,9.133))
+  (ID 1818E-GEOGRAFYE,9.133))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR nidr_land)))
@@ -1656,7 +1656,7 @@
 	  (NP-SBJ (NPR bruksel)
 		  (PP (P bey)
 		      (NP (D dr) (NPR menne)))))
-  (ID 1818E-GEOGRAFIE,9.134))
+  (ID 1818E-GEOGRAFYE,9.134))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR virtimberg)))
@@ -1664,7 +1664,7 @@
 	  (NP-SBJ (NPR stutgrad)
 		  (PP (P bey)
 		      (NP (NPR netsker)))))
-  (ID 1818E-GEOGRAFIE,9.135))
+  (ID 1818E-GEOGRAFYE,9.135))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR beyerin)))
@@ -1672,7 +1672,7 @@
 	  (NP-SBJ (NPR munikh)
 		  (PP (P bey)
 		      (NP (NPR iser)))))
-  (ID 1818E-GEOGRAFIE,9.136))
+  (ID 1818E-GEOGRAFYE,9.136))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR frnkreykh)))
@@ -1680,37 +1680,37 @@
 	  (NP-SBJ (NPR pariz)
 		  (PP (P bey)
 		      (NP (D dr) (NPR sekvane)))))
-  (ID 1818E-GEOGRAFIE,9.137))
+  (ID 1818E-GEOGRAFYE,9.137))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR fartugal)))
 	  (VBF iz)
 	  (NP-SBJ (NPR lizbon)))
-  (ID 1818E-GEOGRAFIE,9.138))
+  (ID 1818E-GEOGRAFYE,9.138))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR hispaneye)))
 	  (VBF iz)
 	  (NP-SBJ (NPR madrit)))
-  (ID 1818E-GEOGRAFIE,9.139))
+  (ID 1818E-GEOGRAFYE,9.139))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR sardinie)))
 	  (VBF iz)
 	  (NP-SBJ (NPR kagliari)))
-  (ID 1818E-GEOGRAFIE,9.140))
+  (ID 1818E-GEOGRAFYE,9.140))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR neapaleye)))
 	  (VBF iz)
 	  (NP-SBJ (NPR neapal)))
-  (ID 1818E-GEOGRAFIE,9.141))
+  (ID 1818E-GEOGRAFYE,9.141))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR sitsuleye)))
 	  (VBF iz)
 	  (NP-SBJ (NPR plaerme)))
-  (ID 1818E-GEOGRAFIE,9.142))
+  (ID 1818E-GEOGRAFYE,9.142))
 
 ( (PP (P fun)
       (NP (D di)
@@ -1718,7 +1718,7 @@
 	  (N berg)
 	  (PP (P in)
 	      (NP (NPR irupe)))))
-  (ID 1818E-GEOGRAFIE,9.143))
+  (ID 1818E-GEOGRAFYE,9.143))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (ADJ grusi)
@@ -1729,7 +1729,7 @@
 	      (NP (NP (NPR narvegin))
 		  (CONJP (CONJ un)
 			 (NP (NPR shveydin))))))
-  (ID 1818E-GEOGRAFIE,9.144))
+  (ID 1818E-GEOGRAFYE,9.144))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ uralishki) (N berg))
 	  (VBF makhin)
@@ -1739,7 +1739,7 @@
 		      (NP (NP (NPR irpie))
 			  (CONJP (CONJ un)
 				 (NP (NPR azie)))))))
-  (ID 1818E-GEOGRAFIE,9.145))
+  (ID 1818E-GEOGRAFYE,9.145))
 
 ( (IP-MAT (NP-SBJ (PRO zey))
 	  (VBF tsihen)
@@ -1750,7 +1750,7 @@
 	      (NP (D dem)
 		  (N eyz_mehr)
 		  (NP-PRN (CODE {COM:hebrew_omitted})))))
-  (ID 1818E-GEOGRAFIE,9.146))
+  (ID 1818E-GEOGRAFYE,9.146))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ karpatsi) (N berg))
 	  (VBF iz)
@@ -1758,13 +1758,13 @@
 	      (NP (NP (NPR pulin))
 		  (CONJP (CONJ un)
 			 (NP (NPR ungerin))))))
-  (ID 1818E-GEOGRAFIE,9.147))
+  (ID 1818E-GEOGRAFYE,9.147))
 
 ( (IP-MAT (NP-SBJ (ADJ apeniner) (N berg))
 	  (VBF iz)
 	  (PP (P in)
 	      (NP (NPR italie))))
-  (ID 1818E-GEOGRAFIE,9.148))
+  (ID 1818E-GEOGRAFYE,9.148))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ alper) (N berg))
 	  (VBF tsihen)
@@ -1776,7 +1776,7 @@
 		  (CONJP (NP (NPR shveytsin)))
 		  (CONJP (CONJ un)
 			 (NP (NPR teyts_land))))))
-  (ID 1818E-GEOGRAFIE,9.149))
+  (ID 1818E-GEOGRAFYE,9.149))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ piraneyski) (N berg))
 	  (VBF teylt)
@@ -1784,7 +1784,7 @@
 	  (NP-ACC (NPR frankreykh))
 	  (PP (P fun)
 	      (NP (NPR ispanie))))
-  (ID 1818E-GEOGRAFIE,9.150))
+  (ID 1818E-GEOGRAFYE,9.150))
 
 ( (IP-MAT (NP-SBJ (N erdts_giberg))
 	  (VBF teylt)
@@ -1792,7 +1792,7 @@
 	  (NP-ACC (NPR beyhm))
 	  (PP (P fun)
 	      (NP (NPR shleze))))
-  (ID 1818E-GEOGRAFIE,9.151))
+  (ID 1818E-GEOGRAFYE,9.151))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF iz)
@@ -1806,7 +1806,7 @@
 				  (NP-ACC (N feyer))
 				  (ADVP-DIR (PP *ICH*-2)
 					    (ADV arus))))))
-  (ID 1818E-GEOGRAFIE,9.152))
+  (ID 1818E-GEOGRAFYE,9.152))
 
 ( (CODE <P_10>))
 
@@ -1814,13 +1814,13 @@
 	  (VBF iz)
 	  (PP (P in)
 	      (NP (N islandie))))
-  (ID 1818E-GEOGRAFIE,10.154))
+  (ID 1818E-GEOGRAFYE,10.154))
 
 ( (IP-MAT (NP-SBJ (D dr) (N feyer_berg) (NPR vezevius))
 	  (VBF iz)
 	  (PP (P in)
 	      (NP (NPR neapel))))
-  (ID 1818E-GEOGRAFIE,10.155))
+  (ID 1818E-GEOGRAFYE,10.155))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (NPR etna)
@@ -1829,14 +1829,14 @@
 	  (VBF iz)
 	  (PP (P in)
 	      (NP (NPR sitsilie))))
-  (ID 1818E-GEOGRAFIE,10.156))
+  (ID 1818E-GEOGRAFYE,10.156))
 
 ( (IP-MAT (PP (P fun)
 	      (NP (ADJ rusishe) (N ksriut)))
 	  (NP-SBJ (PRO zi))
 	  (VBF grenetst)
 	  (NP-RFL (PRO zikh)))
-  (ID 1818E-GEOGRAFIE,10.157))
+  (ID 1818E-GEOGRAFYE,10.157))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H tsfun^north) (N zeyt)))
@@ -1846,13 +1846,13 @@
 			 (NP (D der)
 			     (N eyz_mer)
 			     (NP-PRN (CODE {COM:hebrew_omitted}))))))
-  (ID 1818E-GEOGRAFIE,10.158))
+  (ID 1818E-GEOGRAFYE,10.158))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (H mzrkh^east) (N zeyt)))
 	  (VBF iz)
 	  (NP-SBJ (N im) (H ukunum^UNKNOWN) (H hmzrkhi^UNKNOWN)))
-  (ID 1818E-GEOGRAFIE,10.159))
+  (ID 1818E-GEOGRAFYE,10.159))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (H drum^south) (N zeyt)))
@@ -1866,7 +1866,7 @@
 		  (CONJP (NP (ADJ azavisin) (N mer)))
 		  (CONJP (CONJ un)
 			 (NP (NPR terkey)))))
-  (ID 1818E-GEOGRAFIE,10.160))
+  (ID 1818E-GEOGRAFYE,10.160))
 
 ( (FRAG (PP (P oyf)
 	    (NP (H merib^west) (N zeyt)))
@@ -1876,7 +1876,7 @@
 		(CONJP (NP (NPR preysin)))
 		(CONJP (NP (NPR shvedin)))
 		(CONJP (NP (NPR narvegin))))))
-  (ID 1818E-GEOGRAFIE,10.161))
+  (ID 1818E-GEOGRAFYE,10.161))
 
 ( (IP-MAT (NP-SBJ (ADJ gants) (NPR rusland))
 	  (VBF hat)
@@ -1885,7 +1885,7 @@
 	  (NP-ACC (NUM 365000)
 		  (N meyl)
 		  (ADJP (ADJ kvadrattve))))
-  (ID 1818E-GEOGRAFIE,10.162))
+  (ID 1818E-GEOGRAFYE,10.162))
 
 ( (IP-MAT (PP (DR+P dr_fun))
 	  (VBF iz)
@@ -1893,7 +1893,7 @@
 	  (NP-SBJ (NUM 292000))
 	  (PP (P in)
 	      (NP (NPR azie))))
-  (ID 1818E-GEOGRAFIE,10.163))
+  (ID 1818E-GEOGRAFYE,10.163))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (D das) (ADJ iberige) (NUM 73000) (N meyl))
@@ -1901,7 +1901,7 @@
 	  (CODE {COM:default_agreement_with_subject_in_vorfeld})
 	  (PP (P in)
 	      (NP (NPR urape))))
-  (ID 1818E-GEOGRAFIE,10.164))
+  (ID 1818E-GEOGRAFYE,10.164))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N praduktin)
@@ -1916,7 +1916,7 @@
 	  (CODE {COM:default_agreement})
 	  (ADJP-PRD (ADJ aler_hand))
 	  (CODE {COM:list_omitted}))
-  (ID 1818E-GEOGRAFIE,10.165))
+  (ID 1818E-GEOGRAFYE,10.165))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N amunh)
@@ -1928,7 +1928,7 @@
 				      (NP (NPR rusland))))))
 	  (VBF iz)
 	  (ADJP-PRD (ADJ grekes_ruses)))
-  (ID 1818E-GEOGRAFIE,10.166))
+  (ID 1818E-GEOGRAFYE,10.166))
 
 ( (IP-MAT (CONJ aber)
 	  (ADVP (ADV oykh))
@@ -1937,7 +1937,7 @@
 	  (ADJP-PRD (ADJ frey))
 	  (PP (P in)
 	      (NP (N land))))
-  (ID 1818E-GEOGRAFIE,10.167))
+  (ID 1818E-GEOGRAFYE,10.167))
 
 ( (IP-MAT (NP-SBJ (ADJ aler_hand)
 		  (N fabrikes)
@@ -1949,7 +1949,7 @@
 	      (NP (N tseyt)))
 	  (PP (P tsu)
 	      (NP (N tseyt))))
-  (ID 1818E-GEOGRAFIE,10.168))
+  (ID 1818E-GEOGRAFYE,10.168))
 
 ( (IP-MAT (ADVP (ADV zu))
 	  (NP-SBJ (ADV oykh) (D das) (N handil))
@@ -1957,7 +1957,7 @@
 	  (NP-TMP (Q ale) (N tseyt))
 	  (NP-MSR (QR mer))
 	  (VAN far_spreyt))
-  (ID 1818E-GEOGRAFIE,10.169))
+  (ID 1818E-GEOGRAFYE,10.169))
 
 ( (IP-MAT (NP-SBJ (D das)
 		  (N rgirung)
@@ -1973,7 +1973,7 @@
 			  (CODE {TMP:sic})
 			  (PP (P fun)
 			      (NP (Q ale) (NPR rusin)))))))
-  (ID 1818E-GEOGRAFIE,10.170))
+  (ID 1818E-GEOGRAFYE,10.170))
 
 ( (IP-MAT (IP-MAT-PRN (NP-SBJ (D das))
 		      (VBF heyst))
@@ -1986,7 +1986,7 @@
 			  (IP-SUB (NP-ACC *T*-1)
 				  (NP-SBJ (PRO er))
 				  (VBF vil)))))
-  (ID 1818E-GEOGRAFIE,10.171))
+  (ID 1818E-GEOGRAFYE,10.171))
 
 ( (IP-MAT (CODE {COM:missing_negative_concord})
 	  (CONJ un)
@@ -1996,7 +1996,7 @@
 		      (NP (Q keynen)))
 		  (TO tsu)
 		  (VB fregin)))
-  (ID 1818E-GEOGRAFIE,10.172))
+  (ID 1818E-GEOGRAFYE,10.172))
 
 ( (CODE <P_11>))
 
@@ -2011,7 +2011,7 @@
 	  (NP-PRD (NUM 220_mileyon)
 		  (N rubl)
 		  (NP-MSR (Q ale) (N yar))))
-  (ID 1818E-GEOGRAFIE,11.174))
+  (ID 1818E-GEOGRAFYE,11.174))
 
 ( (IP-MAT (NP-SBJ (NPR rus_land))
 	  (VBF hat)
@@ -2039,7 +2039,7 @@
 						 (NP (N mlkhmh)
 						     (PP (P oyf)
 							 (NP (D di) (N imim)))))))))))
-  (ID 1818E-GEOGRAFIE,11.175))
+  (ID 1818E-GEOGRAFYE,11.175))
 
 ( (IP-MAT (NP-SBJ (NPR rus_land))
 	  (VBF hat)
@@ -2049,14 +2049,14 @@
 		  (N universittin)
 		  (PP (P in)
 		      (NP {COM:list_omitted}))))
-  (ID 1818E-GEOGRAFIE,11.176))
+  (ID 1818E-GEOGRAFYE,11.176))
 
 ( (IP-MAT (NP-SBJ (NPR rus_land))
 	  (VBF hat)
 	  (PP (P in)
 	      (NP (PRO zikh)))
 	  (NP-ACC (NUM 50) (N gubernes)))
-  (ID 1818E-GEOGRAFIE,11.177))
+  (ID 1818E-GEOGRAFYE,11.177))
 
 ( (IP-MAT (CONJ un)
 	  (NP-PRD (D das)
@@ -2065,7 +2065,7 @@
 	  (NP-SBJ (PRO zey))
 	  (PUNC :)
 	  (NP-1 {COM:list_omitted}))
-  (ID 1818E-GEOGRAFIE,11.178))
+  (ID 1818E-GEOGRAFYE,11.178))
 
 ( (CP-REL (WNP-1 (WPRO velkhi))
 	  (IP-SUB (NP-SBJ *T*-1)
@@ -2076,7 +2076,7 @@
 			  (N praves)
 			  (PUNC :)
 			  (NP-PRN {COM:list_omitted}))))
-  (ID 1818E-GEOGRAFIE,11.179))
+  (ID 1818E-GEOGRAFYE,11.179))
 
 ( (IP-MAT (ADVP (ADV ukh))
 	  (VBF hat)
@@ -2100,7 +2100,7 @@
 				  (VBF vaunen)
 				  (ADVP (ADV ukh))
 				  (NP-LGS (N ihudim))))))
-  (ID 1818E-GEOGRAFIE,11.180))
+  (ID 1818E-GEOGRAFYE,11.180))
 
 ( (FRAG (ADVP (ADV oykh))
 	(NP (D eyn)
@@ -2108,7 +2108,7 @@
 	    (NP-COM (N land)
 		    (PP (P fun)
 			(NP (ADJ dunski) (N kazakin))))))
-  (ID 1818E-GEOGRAFIE,11.181))
+  (ID 1818E-GEOGRAFYE,11.181))
 
 ( (FRAG (ADVP (ADV oykh))
 	(NP (D di)
@@ -2121,7 +2121,7 @@
 			    (PP (P in)
 				(NP (PRO zikh)))
 			    (NP-ACC (NUM 200000) (N nfsut))))))
-  (ID 1818E-GEOGRAFIE,11.182))
+  (ID 1818E-GEOGRAFYE,11.182))
 
 ( (FRAG (ADVP (ADV oykh))
 	(NP (D eyn)
@@ -2142,7 +2142,7 @@
 				(NP (ADJ shveydishin) (N kinigreykh)))
 			    (PP (P durkh)
 				(NP (N slus)))))))
-  (ID 1818E-GEOGRAFIE,11.183))
+  (ID 1818E-GEOGRAFYE,11.183))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (ES es))
@@ -2150,7 +2150,7 @@
 	  (ADVP-LOC (ADV derinn))
 	  (ADJP-PRD (ADJ faran))
 	  (NP-LGS (NUM 898463) (N npsut)))
-  (ID 1818E-GEOGRAFIE,11.184))
+  (ID 1818E-GEOGRAFYE,11.184))
 
 ( (CODE <P_12>))
 
@@ -2188,7 +2188,7 @@
 									(ADJ grusi)
 									(N stet)
 									(NP-PRN (NPR yas) (CONJ un) (NPR bender))))))))))))))
-  (ID 1818E-GEOGRAFIE,12.186))
+  (ID 1818E-GEOGRAFYE,12.186))
 
 ( (IP-MAT (NP-PRD (PP (P fun)
 		      (NP (ADJ pulishi) (N kinigreykh)))
@@ -2196,13 +2196,13 @@
 		  (N grenetsin))
 	  (VBF zeynn)
 	  (NP-SBJ (D dizi)))
-  (ID 1818E-GEOGRAFIE,12.187))
+  (ID 1818E-GEOGRAFYE,12.187))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H mrkh^east) (N zeyt)))
 	  (VBF iz)
 	  (NP-SBJ (NPR rus_land)))
-  (ID 1818E-GEOGRAFIE,12.188))
+  (ID 1818E-GEOGRAFYE,12.188))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H merib^west)))
@@ -2218,7 +2218,7 @@
 				  (IP-SUB (NP-SBJ *T*-1)
 					  (VBF giher)
 					  (PP (DR+P dr_tsu))))))))
-  (ID 1818E-GEOGRAFIE,12.189))
+  (ID 1818E-GEOGRAFYE,12.189))
 
 ( (IP-MAT (CONJ un)
 	  (ADVP-TMP (ADV yetsund))
@@ -2226,13 +2226,13 @@
 	  (NP-SBJ (PRO es))
 	  (PP (P tsu@)
 	      (NP (D @m) (ADJ preysishin) (N kinig))))
-  (ID 1818E-GEOGRAFIE,12.190))
+  (ID 1818E-GEOGRAFYE,12.190))
 
 ( (IP-MAT (PP (P oyf)
 	      (NP (N tsfun^north) (N zeyt)))
 	  (VBF iz)
 	  (NP-SBJ (NPR preysin)))
-  (ID 1818E-GEOGRAFIE,12.191))
+  (ID 1818E-GEOGRAFYE,12.191))
 
 ( (IP-MAT (CONJ un)
 	  (PP (P tsu)
@@ -2249,7 +2249,7 @@
 					     (PP (P tsu)
 						 (NP (PRO ir)))
 					     (VBF giher)))))))
-  (ID 1818E-GEOGRAFIE,12.192))
+  (ID 1818E-GEOGRAFYE,12.192))
 
 ( (IP-MAT (NP-SBJ (NPR pulin))
 	  (VBF hat)
@@ -2265,14 +2265,14 @@
 			 (NP (QR mehr)
 			     (PP (P als)
 				 (NP (NUM drey_milian) (N npsut)))))))
-  (ID 1818E-GEOGRAFIE,12.193))
+  (ID 1818E-GEOGRAFYE,12.193))
 
 ( (IP-MAT (NP-PRD (NP-POS (ADJ estreykhisi) (N kisriut))
 		  (D di)
 		  (N grenetsin))
 	  (VBF zeyn)
 	  (NP-SBJ (D dizi)))
-  (ID 1818E-GEOGRAFIE,12.194))
+  (ID 1818E-GEOGRAFYE,12.194))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (ADJ mzrkh) (N zeyt)))
@@ -2280,7 +2280,7 @@
 	  (NP-SBJ (NP (NPR rus_land))
 		  (CONJP (CONJ un)
 			 (NP (NPR turkey)))))
-  (ID 1818E-GEOGRAFIE,12.195))
+  (ID 1818E-GEOGRAFYE,12.195))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H drum^south)))
@@ -2291,7 +2291,7 @@
 		  (CONJP (NP (NPR itley)))
 		  (CONJP (CONJ un)
 			 (NP (NPR vinitsey)))))
-  (ID 1818E-GEOGRAFIE,12.196))
+  (ID 1818E-GEOGRAFYE,12.196))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H merib^west)))
@@ -2300,7 +2300,7 @@
 		  (CONJP (NP (NPR itley)))
 		  (CONJP (CONJ un)
 			 (NP (NPR teyts_land)))))
-  (ID 1818E-GEOGRAFIE,12.197))
+  (ID 1818E-GEOGRAFYE,12.197))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H tsfun^north)))
@@ -2309,7 +2309,7 @@
 		  (CONJP (NP (ADJ krakevir) (N kreyz)))
 		  (CONJP (CONJ un)
 			 (NP (NPR rus_land)))))
-  (ID 1818E-GEOGRAFIE,12.198))
+  (ID 1818E-GEOGRAFYE,12.198))
 
 ( (IP-MAT (NP-SBJ (D ds) (N land))
 	  (VBF hat)
@@ -2321,26 +2321,26 @@
 		      (NP-COM (N platts)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 24_mileyan) (N npsut)))))
-  (ID 1818E-GEOGRAFIE,12.199))
+  (ID 1818E-GEOGRAFYE,12.199))
 
 ( (IP-MAT (NP-PRD (NP-POS (ADJ preysisi) (N kinigreykh))
 		  (D di)
 		  (N grenetsin))
 	  (VBF zeyn)
 	  (NP-SBJ (D dizi)))
-  (ID 1818E-GEOGRAFIE,12.200))
+  (ID 1818E-GEOGRAFYE,12.200))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H tsfun^north) (N zeyt)))
 	  (VBF iz)
 	  (NP-SBJ (NPR mekil_berg)))
-  (ID 1818E-GEOGRAFIE,12.201))
+  (ID 1818E-GEOGRAFYE,12.201))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H mzrkh^east) (N zeyt)))
 	  (VBF iz)
 	  (NP-SBJ (NPR rus_land)))
-  (ID 1818E-GEOGRAFIE,12.202))
+  (ID 1818E-GEOGRAFYE,12.202))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H drum^south)))
@@ -2348,7 +2348,7 @@
 	  (NP-SBJ (NP (NPR pulin))
 		  (CONJP (NP (NPR ustreye)))
 		  (CONJP (NP (NPR zaksin)))))
-  (ID 1818E-GEOGRAFIE,12.203))
+  (ID 1818E-GEOGRAFYE,12.203))
 
 ( (IP-MAT (PP (P tsu)
 	      (NP (H merib^west) (N zeyt)))
@@ -2357,7 +2357,7 @@
 		  (CONJP (NP (NPR nidr_land)))
 		  (CONJP (CONJ un)
 			 (NP (NPR teyts_land)))))
-  (ID 1818E-GEOGRAFIE,12.204))
+  (ID 1818E-GEOGRAFYE,12.204))
 
 ( (CODE <P_13>))
 
@@ -2371,7 +2371,7 @@
 		      (NP-COM (N platts)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 10_mileyan) (N npsut)))))
-  (ID 1818E-GEOGRAFIE,13.206))
+  (ID 1818E-GEOGRAFYE,13.206))
 
 ( (IP-MAT (PP (P in)
 	      (NP (H mzrkh^east)
@@ -2403,7 +2403,7 @@
 					    (NP (D eyn) (ADJ gutin) (N khzkt)))))))
 		  (CONJP (CONJ un)
 			 (NX (N gumbin)))))
-  (ID 1818E-GEOGRAFIE,13.207))
+  (ID 1818E-GEOGRAFYE,13.207))
 
 ( (IP-MAT (PP (P in)
 	      (NP (H merib^west) (N zeyt)))
@@ -2416,7 +2416,7 @@
 			 (NP (NPR grudents)
 			     (PP (P mit)
 				 (NP (D eyn) (ADJ gutin) (N khukt)))))))
-  (ID 1818E-GEOGRAFIE,13.208))
+  (ID 1818E-GEOGRAFYE,13.208))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR brandenburg)
@@ -2429,21 +2429,21 @@
 	  (VBF zeyn)
 	  (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,13.209))
+  (ID 1818E-GEOGRAFYE,13.209))
 
 ( (IP-MAT (PP (P in)
 	      (NP (N pamerin)))
 	  (VBF zeyn)
 	  (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,13.210))
+  (ID 1818E-GEOGRAFYE,13.210))
 
 ( (IP-MAT (PP (P in)
 	      (NP (N slezey)))
 	  (VBF zeyn)
 	  (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,13.211))
+  (ID 1818E-GEOGRAFYE,13.211))
 
 ( (IP-MAT (PP (P in)
 	      (NP (NPR zaksin)
@@ -2458,7 +2458,7 @@
 	  (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (PUNC :)
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,13.212))
+  (ID 1818E-GEOGRAFYE,13.212))
 
 ( (IP-MAT (ADVP (ADV ukh))
 	  (HVF hat)
@@ -2468,7 +2468,7 @@
 		  (ADJ gruse)
 		  (N teyl)
 		  (NP-COM (N land))))
-  (ID 1818E-GEOGRAFIE,13.213))
+  (ID 1818E-GEOGRAFYE,13.213))
 
 ( (IP-MAT (CONJ un)
 	  (ADVP-LOC (ADV derinn))
@@ -2476,13 +2476,13 @@
 	  (NP-SBJ (D di)
 		  (N stet)
 		  (NP-PRN (CODE {COM:list}))))
-  (ID 1818E-GEOGRAFIE,13.214))
+  (ID 1818E-GEOGRAFYE,13.214))
 
 ( (CODE <P_14>))
 
 ( (PP (P fun)
       (NP (ADJ baeyersi) (N kinigreykh)))
-  (ID 1818E-GEOGRAFIE,14.216))
+  (ID 1818E-GEOGRAFYE,14.216))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N kinigreykh)
@@ -2499,7 +2499,7 @@
 			 (NP (QR mer)
 			     (PP (P az)
 				 (NP (NUM 3_mileyan) (N npsut)))))))
-  (ID 1818E-GEOGRAFIE,14.217))
+  (ID 1818E-GEOGRAFYE,14.217))
 
 ( (IP-MAT (NP-SBJ (D das) (N land))
 	  (VBF ligt)
@@ -2510,13 +2510,13 @@
 			  (CONJP (NP (NPR reyn)))
 			  (CONJP (CONJ un)
 				 (NP (NPR meyn)))))))
-  (ID 1818E-GEOGRAFIE,14.218))
+  (ID 1818E-GEOGRAFYE,14.218))
 
 ( (IP-MAT (NP-SBJ (ES es))
 	  (VBF kinigt)
 	  (ADVP-LOC (ADV derinin))
 	  (NP-LGS (NPR maksimileyan) (NPR yazef)))
-  (ID 1818E-GEOGRAFIE,14.219))
+  (ID 1818E-GEOGRAFYE,14.219))
 
 ( (IP-MAT (NP-1 (N eyn_kunft))
 	  (VBF hat)
@@ -2526,7 +2526,7 @@
 		      (NP-COM *ICH*-1))
 		  (CONJP (CONJ un)
 			 (NP (NUM 60000) (N kheyl)))))
-  (ID 1818E-GEOGRAFIE,14.220))
+  (ID 1818E-GEOGRAFYE,14.220))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeyn)
@@ -2543,10 +2543,10 @@
 					     (PP (P fun)
 						 (NP (NPR frankreykh)))))
 			     (NP-PRN (D di) (N stat) (NPR tsveybrekin))))))
-  (ID 1818E-GEOGRAFIE,14.221))
+  (ID 1818E-GEOGRAFYE,14.221))
 
 ( (NP (NPR zaksin) (N kinigreykh))
-  (ID 1818E-GEOGRAFIE,14.222))
+  (ID 1818E-GEOGRAFYE,14.222))
 
 ( (IP-MAT (NP-SBJ (NPR zaksin_land))
 	  (VBF hat)
@@ -2561,13 +2561,13 @@
 			 (NP (QR mer)
 			     (PP (P az)
 				 (NP (NUM eyn_mileyan) (N npsut)))))))
-  (ID 1818E-GEOGRAFIE,14.223))
+  (ID 1818E-GEOGRAFYE,14.223))
 
 ( (IP-MAT (NP-PRD (D der) (N kinig))
 	  (VBF iz)
 	  (ADVP-LOC (ADV drinn))
 	  (NP-SBJ (NPR fridrikh) (NPR agust)))
-  (ID 1818E-GEOGRAFIE,14.224))
+  (ID 1818E-GEOGRAFYE,14.224))
 
 ( (IP-MAT (NP-1 (N eyn_kunft))
 	  (VBF hat)
@@ -2580,16 +2580,16 @@
 			     (QR mer)
 			     (PP (P az)
 				 (NP (NUM 10000) (N khl)))))))
-  (ID 1818E-GEOGRAFIE,14.225))
+  (ID 1818E-GEOGRAFYE,14.225))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeynn)
 	  (NP-SBJ (D dize)
 		  (NP-PRN {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,14.226))
+  (ID 1818E-GEOGRAFYE,14.226))
 
 ( (NP (ADJ hanaversi) (N kinigreykh))
-  (ID 1818E-GEOGRAFIE,14.227))
+  (ID 1818E-GEOGRAFYE,14.227))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (ADJ hanavrshi)
@@ -2623,18 +2623,18 @@
 							     (N guldin))
 							 (CONJP (CONJ un)
 								(NP (NUM 24000) (N kheyl))))))))))
-  (ID 1818E-GEOGRAFIE,14.228))
+  (ID 1818E-GEOGRAFYE,14.228))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeyn)
 	  (ADVP-LOC (ADV derinen))
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,14.229))
+  (ID 1818E-GEOGRAFYE,14.229))
 
 ( (CODE <P_15>))
 
 ( (NP (ADJ virtimbergr) (N kinigreykh))
-  (ID 1818E-GEOGRAFIE,15.231))
+  (ID 1818E-GEOGRAFYE,15.231))
 
 ( (IP-MAT (NP-SBJ (D di) (N kinigreykh))
 	  (VBF hat)
@@ -2646,13 +2646,13 @@
 		      (NP-COM (N platts)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 1578000) (N npsut)))))
-  (ID 1818E-GEOGRAFIE,15.232))
+  (ID 1818E-GEOGRAFYE,15.232))
 
 ( (IP-MAT (NP-SBJ (ES es))
 	  (VBF kinigt)
 	  (ADVP-LOC (ADV drinn))
 	  (NP-LGS (NPR fridrerik) (NPR vilhelm) (NPR karal)))
-  (ID 1818E-GEOGRAFIE,15.233))
+  (ID 1818E-GEOGRAFYE,15.233))
 
 ( (IP-MAT (NP-1 (N eyn_kunft))
 	  (VBF hat)
@@ -2662,16 +2662,16 @@
 		      (NP-COM *ICH*-1))
 		  (CONJP (CONJ un)
 			 (NP (NUM 27000) (N kheyl)))))
-  (ID 1818E-GEOGRAFIE,15.234))
+  (ID 1818E-GEOGRAFYE,15.234))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeyn)
 	  (ADVP-LOC (ADV derinn))
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,15.235))
+  (ID 1818E-GEOGRAFYE,15.235))
 
 ( (NP (ADJ sardineyer) (N kinigreykh))
-  (ID 1818E-GEOGRAFIE,15.236))
+  (ID 1818E-GEOGRAFYE,15.236))
 
 ( (IP-MAT (NP-SBJ (D di) (N kinigreykh))
 	  (VBF hat)
@@ -2682,7 +2682,7 @@
 		      (NP-COM (N platts)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 3_mileyan_mit_eyn_halb) (N npsut)))))
-  (ID 1818E-GEOGRAFIE,15.237))
+  (ID 1818E-GEOGRAFYE,15.237))
 
 ( (IP-MAT (NP-1 (N eyn_kunft))
 	  (VBF hat)
@@ -2697,7 +2697,7 @@
 			     (N fregatin)
 			     (CONJP (CONJ ader)
 				    (NX (N aukrentin)))))))
-  (ID 1818E-GEOGRAFIE,15.238))
+  (ID 1818E-GEOGRAFYE,15.238))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeyn)
@@ -2716,11 +2716,11 @@
 				     (IP-SUB (PP *T*-2)
 					     (NP-SBJ (D der) (N vitse_kinig))
 					     (VBF rezidirt)))))))
-  (ID 1818E-GEOGRAFIE,15.239))
+  (ID 1818E-GEOGRAFYE,15.239))
 
 ( (PP (P fun)
       (NP (NPR vlakhin_land)))
-  (ID 1818E-GEOGRAFIE,15.240))
+  (ID 1818E-GEOGRAFYE,15.240))
 
 ( (IP-MAT (IP-MAT-1 (CONJ in)
 		    (NP-SBJ (NP (NPR vlakhin_land))
@@ -2755,7 +2755,7 @@
 						   (VBF giher)
 						   (PP (P tsu@)
 						       (NP (D @m) (ADJ estreykhshin) (N kisr))))))))))
-  (ID 1818E-GEOGRAFIE,15.241))
+  (ID 1818E-GEOGRAFYE,15.241))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (PRO es))
@@ -2772,7 +2772,7 @@
 						       (NP (N tseytin)))
 						   (PP (P in)
 						       (NP (NPR medileyan)))))))))
-  (ID 1818E-GEOGRAFIE,15.242))
+  (ID 1818E-GEOGRAFYE,15.242))
 
 ( (CODE <P_16>))
 
@@ -2780,14 +2780,14 @@
 	  (VBF zeyn)
 	  (ADVP-LOC (ADV drinn))
 	  (NP-SBJ (NPR vinetsie)))
-  (ID 1818E-GEOGRAFIE,16.244))
+  (ID 1818E-GEOGRAFYE,16.244))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (BEF iz)
 	  (VAN giboyt)
 	  (PP (P oyf)
 	      (NP (NUM 60) (ADJ kleyni) (N vispes))))
-  (ID 1818E-GEOGRAFIE,16.245))
+  (ID 1818E-GEOGRAFYE,16.245))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (ES es))
@@ -2795,13 +2795,13 @@
 	  (CODE {COM:default_agreement})
 	  (ADVP-LOC (ADV drinn))
 	  (NP-LGS (NUM 450) (N brikin)))
-  (ID 1818E-GEOGRAFIE,16.246))
+  (ID 1818E-GEOGRAFYE,16.246))
 
 ( (FRAG (NP (NP (N medilian))
 	    (CONJP (NP (N makbe)))
 	    (CONJP (CONJ un)
 		   (NP (ADV nokh) (Q fil) (ADJ anderi)))))
-  (ID 1818E-GEOGRAFIE,16.247))
+  (ID 1818E-GEOGRAFYE,16.247))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (HVF hat)
@@ -2831,13 +2831,13 @@
 			  (N grus_ferstin)
 			  (PP (P fun)
 			      (NP (NPR parme)))))))
-  (ID 1818E-GEOGRAFIE,16.248))
+  (ID 1818E-GEOGRAFYE,16.248))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeyn)
 	  (ADVP-LOC (ADV derinn))
 	  (NP-SBJ (CODE {COM:list_omitted})))
-  (ID 1818E-GEOGRAFIE,16.249))
+  (ID 1818E-GEOGRAFYE,16.249))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF iz)
@@ -2856,7 +2856,7 @@
 						      (N meyl)
 						      (NP-COM (N plats)))
 						  (CONJP (NP (NUM eyn_mileyan_mit_eyn_halb) (N npsut))))))))))
-  (ID 1818E-GEOGRAFIE,16.250))
+  (ID 1818E-GEOGRAFYE,16.250))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (PRO es))
@@ -2867,7 +2867,7 @@
 		  (PP (P fun)
 		      (NP (NPR estreykh)))
 		  (NP-PRN (NPR ferdinand)))))
-  (ID 1818E-GEOGRAFIE,16.251))
+  (ID 1818E-GEOGRAFYE,16.251))
 
 ( (IP-MAT (CONJ un)
 	  (NP-PRD (D di) (ADJS gresti) (N stet))
@@ -2880,7 +2880,7 @@
 		  (CONJP (NP (NPR livarne)
 			     (NP-PRN (D eyn) (ADJ grus) (N handil_stat))))
 		  (CONJP (NP (NPR peyambin)))))
-  (ID 1818E-GEOGRAFIE,16.252))
+  (ID 1818E-GEOGRAFYE,16.252))
 
 ( (IP-MAT (CONJ un)
 	  (ADVP (ADV oykh))
@@ -2890,11 +2890,11 @@
 	  (NP-SBJ (D di) (N vispe) (NPR elbe))
 	  (PP (P oyf)
 	      (NP (D dem) (ADJ mitlendshin) (N mehr))))
-  (ID 1818E-GEOGRAFIE,16.253))
+  (ID 1818E-GEOGRAFYE,16.253))
 
 ( (PP (P fun)
       (NP (D das) (NPR pupsin_land)))
-  (ID 1818E-GEOGRAFIE,16.254))
+  (ID 1818E-GEOGRAFYE,16.254))
 
 ( (IP-MAT (NP-SBJ (D dem) (NPR pups_land))
 	  (VBF hat)
@@ -2904,7 +2904,7 @@
 		      (N meyl)
 		      (NP-COM (N platts)))
 		  (CONJP (NP (NUM 1500000) (N npsut)))))
-  (ID 1818E-GEOGRAFIE,16.255))
+  (ID 1818E-GEOGRAFYE,16.255))
 
 ( (IP-MAT (NP-SBJ (ES es))
 	  (CODE {TEXT:er})
@@ -2920,7 +2920,7 @@
 				  (N kumrim)
 				  (PP (P fun)
 				      (NP (ADJ rumish_katulish) (N gloybin))))))))
-  (ID 1818E-GEOGRAFIE,16.256))
+  (ID 1818E-GEOGRAFYE,16.256))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (ADJ grusi)
@@ -2937,7 +2937,7 @@
 		  (CODE {TEXT:rezindents_stat})
 		  (PP (P fun)
 		      (NP (D ds) (ADJ gantsi) (N land)))))
-  (ID 1818E-GEOGRAFIE,16.257))
+  (ID 1818E-GEOGRAFYE,16.257))
 
 ( (IP-MAT (NP-SBJ (D dr) (N pups))
 	  (VBF hat)
@@ -2954,7 +2954,7 @@
 					      (N dzirzintses)
 					      (NP-COM (N plattsin)))
 					  (CONJP (NP (NUM 11246) (N pakaves))))))))
-  (ID 1818E-GEOGRAFIE,16.258))
+  (ID 1818E-GEOGRAFYE,16.258))
 
 ( (IP-MAT (CONJ un)
 	  (PP (P khuts)
@@ -2969,13 +2969,13 @@
 		  (N palatsin)
 		  (CONJP (CONJ un)
 			 (NP (N gmakhin)))))
-  (ID 1818E-GEOGRAFIE,16.259))
+  (ID 1818E-GEOGRAFYE,16.259))
 
 ( (PP (P fun)
       (NP (NP (D das) (N kinigreykh) (NPR neapal))
 	  (CONJP (CONJ uder)
 		 (NP (Q beyde) (NPR sitsileyen)))))
-  (ID 1818E-GEOGRAFIE,16.260))
+  (ID 1818E-GEOGRAFYE,16.260))
 
 ( (CODE <P_17>))
 
@@ -2988,7 +2988,7 @@
 		      (NP-COM (N platts)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 14500000) (N npsut)))))
-  (ID 1818E-GEOGRAFIE,17.262))
+  (ID 1818E-GEOGRAFYE,17.262))
 
 ( (IP-MAT (NP-SBJ (NPR neapal))
 	  (VBF iz)
@@ -2996,7 +2996,7 @@
 		  (N rezidents_stat)
 		  (PP (P fun)
 		      (NP (N kinig)))))
-  (ID 1818E-GEOGRAFIE,17.263))
+  (ID 1818E-GEOGRAFYE,17.263))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF iz)
@@ -3005,14 +3005,14 @@
 			 (NP (D di) (ADJS fremsti) (N stat)))
 		  (PP (P in)
 		      (NP (ADV gnts) (NPR vlakhin_land)))))
-  (ID 1818E-GEOGRAFIE,17.264))
+  (ID 1818E-GEOGRAFYE,17.264))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF hat)
 	  (PP (P in)
 	      (NP (PRO zikh)))
 	  (NP-ACC (NUM 40000) (N eyn_vanir)))
-  (ID 1818E-GEOGRAFIE,17.265))
+  (ID 1818E-GEOGRAFYE,17.265))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBF hat)
@@ -3022,14 +3022,14 @@
 		  (N part)
 		  (PP (P bey)
 		      (NP (D den) (N im)))))
-  (ID 1818E-GEOGRAFIE,17.266))
+  (ID 1818E-GEOGRAFYE,17.266))
 
 ( (NP (D di)
       (N inzl)
       (CONJP (CONJ uder)
 	     (NX (N kinigreykh)))
       (NP-PRN (NPR sitsilien)))
-  (ID 1818E-GEOGRAFIE,17.267))
+  (ID 1818E-GEOGRAFYE,17.267))
 
 ( (IP-MAT (NP-SBJ (D di) (N land) (NPR sitsileyen))
 	  (VBF ligt)
@@ -3047,7 +3047,7 @@
 					  (NP-RFL (PRO zikh))
 					  (PP (P oyf)
 					      (NP (D dem) (ADJ mitlendishn) (N mer)))))))))
-  (ID 1818E-GEOGRAFIE,17.268))
+  (ID 1818E-GEOGRAFYE,17.268))
 
 ( (IP-MAT (NP-SBJ (PRO es))
 	  (VBF grentst)
@@ -3066,7 +3066,7 @@
 				  (RP ap)
 				  (PP (P mit)
 				      (NP (D eyn) (ADJ eynge) (N mer))))))))
-  (ID 1818E-GEOGRAFIE,17.269))
+  (ID 1818E-GEOGRAFYE,17.269))
 
 ( (IP-MAT (NP-SBJ (PRO es))
 	  (VBF hat)
@@ -3077,14 +3077,14 @@
 		      (ADJP (ADJ kvadratavi)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 1655539) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,17.270))
+  (ID 1818E-GEOGRAFYE,17.270))
 
 ( (IP-MAT (NP-SBJ (D das) (N land))
 	  (VBF teylt)
 	  (NP-RFL (PRO zikh))
 	  (PP (P in)
 	      (NP (NUM drey) (N pravintsin))))
-  (ID 1818E-GEOGRAFIE,17.271))
+  (ID 1818E-GEOGRAFYE,17.271))
 
 ( (IP-MAT (NP-SBJ (D das) (N land) (NPR sitsilie))
 	  (VBF hat)
@@ -3093,10 +3093,10 @@
 	  (NP-ACC (QP (ADV nakh) (QR mer))
 		  (ADJ kleyin)
 		  (N inzlin)))
-  (ID 1818E-GEOGRAFIE,17.272))
+  (ID 1818E-GEOGRAFYE,17.272))
 
 ( (NP (D di) (N inzl) (NPR malta))
-  (ID 1818E-GEOGRAFIE,17.273))
+  (ID 1818E-GEOGRAFYE,17.273))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N inzl)
@@ -3107,20 +3107,20 @@
 			  (N inzlin))))
 	  (VBF fr_nemn)
 	  (NP-ACC (NUM 8) (N kvadrat_meyl)))
-  (ID 1818E-GEOGRAFIE,17.274))
+  (ID 1818E-GEOGRAFYE,17.274))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ *con*)
 	  (VBF habn)
 	  (NP-ACC (NUM 114000) (N eyn_vauner)))
-  (ID 1818E-GEOGRAFIE,17.275))
+  (ID 1818E-GEOGRAFYE,17.275))
 
 ( (IP-MAT (NP-SBJ (PRO zey))
 	  (VBF gihern)
 	  (ADVP-TMP (ADV itsund))
 	  (PP (P tsu@)
 	      (NP (D @m) (NPR englendr))))
-  (ID 1818E-GEOGRAFIE,17.276))
+  (ID 1818E-GEOGRAFYE,17.276))
 
 ( (IP-MAT (NP-ACC (D di)
 		  (N hoypt_stat)
@@ -3128,7 +3128,7 @@
 	  (VBF ruft)
 	  (NP-SBJ (PRO mn))
 	  (NP-SPR (NPR malta)))
-  (ID 1818E-GEOGRAFIE,17.277))
+  (ID 1818E-GEOGRAFYE,17.277))
 
 ( (IP-MAT (NP-SBJ (PRO zey))
 	  (VBF hat)
@@ -3138,12 +3138,12 @@
 		  (N partn)
 		  (PP (P mit)
 		      (NP (D eyn) (N khzkt)))))
-  (ID 1818E-GEOGRAFIE,17.278))
+  (ID 1818E-GEOGRAFYE,17.278))
 
 ( (CODE <P_18>))
 
 ( (NP (D di) (NUM zibn) (ADJ yunishe) (N inzlin))
-  (ID 1818E-GEOGRAFIE,18.280))
+  (ID 1818E-GEOGRAFYE,18.280))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ yunishi) (N inzlin))
 	  (VBF habn)
@@ -3152,7 +3152,7 @@
 	  (NP-ACC (NP (NUM 44) (N kvadrat_meyl))
 		  (CONJP (CONJ un)
 			 (NP (NUM 187000) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,18.281))
+  (ID 1818E-GEOGRAFYE,18.281))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (PRO zey))
@@ -3162,13 +3162,13 @@
 		  (N shuts)
 		  (PP (P fun)
 		      (NP (NPR england))))))
-  (ID 1818E-GEOGRAFIE,18.282))
+  (ID 1818E-GEOGRAFYE,18.282))
 
 ( (IP-MAT (NP-ACC (D di) (N hoypt_stat))
 	  (VBF ruft)
 	  (NP-SBJ (PRO mn))
 	  (NP-SPR (N karfu)))
-  (ID 1818E-GEOGRAFIE,18.283))
+  (ID 1818E-GEOGRAFYE,18.283))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF hat)
@@ -3176,12 +3176,12 @@
 		  (CONJP (CONJ un)
 			 (ADVP (ADV oykh))
 			 (NP (D eyn) (N khzkt)))))
-  (ID 1818E-GEOGRAFIE,18.284))
+  (ID 1818E-GEOGRAFYE,18.284))
 
 ( (NP (NP (NPR shveyts))
       (CONJP (CONJ uder)
 	     (NP (ADJ shveytsarie) (N land))))
-  (ID 1818E-GEOGRAFIE,18.285))
+  (ID 1818E-GEOGRAFYE,18.285))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D di) (N mdinh) (NPR shveyts))
 		    (VBF grentst)
@@ -3201,7 +3201,7 @@
 			       (NP (H drum^south) (N zeyt)))
 			   (PP (P mit)
 			       (NP (NPR italie))))))
-  (ID 1818E-GEOGRAFIE,18.286))
+  (ID 1818E-GEOGRAFYE,18.286))
 
 ( (IP-MAT (NP-SBJ (PRO es))
 	  (VBF hat)
@@ -3210,7 +3210,7 @@
 	  (NP-ACC (NP (NUM 870) (N kvadrat_meyl))
 		  (CONJP (CONJ un)
 			 (NP (NUM 7138000) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,18.287))
+  (ID 1818E-GEOGRAFYE,18.287))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF teylt)
@@ -3220,13 +3220,13 @@
 		  (N kantanes)
 		  (CONJP (CONJ uder)
 			 (NX (N pravintsin))))))
-  (ID 1818E-GEOGRAFIE,18.288))
+  (ID 1818E-GEOGRAFYE,18.288))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF habn)
 	  (NP-SBJ (PRO zey))
 	  (NP-ACC (NUM 32886) (N beli_mlkhmut)))
-  (ID 1818E-GEOGRAFIE,18.289))
+  (ID 1818E-GEOGRAFYE,18.289))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N khkhnth)
@@ -3236,11 +3236,11 @@
 		      (NP (ADJ gantsin) (N land))))
 	  (VBF iz)
 	  (NP-PRD (NUM 540107) (ADJ shveytser) (N frankn)))
-  (ID 1818E-GEOGRAFIE,18.290))
+  (ID 1818E-GEOGRAFYE,18.290))
 
 ( (PP (P fun)
       (NP (D ds) (N kinigreykh) (NPR nidr_land)))
-  (ID 1818E-GEOGRAFIE,18.291))
+  (ID 1818E-GEOGRAFYE,18.291))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D di) (N mdinh) (NPR nidr_land))
 		    (VBF grentst)
@@ -3263,7 +3263,7 @@
 			       (NP (H merib^west) (N zeyt)))
 			   (PP (P mit)
 			       (NP (NPR teyts_land))))))
-  (ID 1818E-GEOGRAFIE,18.292))
+  (ID 1818E-GEOGRAFYE,18.292))
 
 ( (IP-MAT (NP-SBJ (PRO es))
 	  (VBF hat)
@@ -3273,7 +3273,7 @@
 		  (CODE {COM:sic})
 		  (CONJP (CONJ un)
 			 (NP (NUM 5126400) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,18.293))
+  (ID 1818E-GEOGRAFYE,18.293))
 
 ( (IP-MAT (NP-SBJ (Q ali) (N religies))
 	  (VBF habn)
@@ -3284,7 +3284,7 @@
 			  (VB tan)
 			  (PP (P in)
 			      (NP (N land))))))
-  (ID 1818E-GEOGRAFIE,18.294))
+  (ID 1818E-GEOGRAFYE,18.294))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ *con*)
@@ -3293,7 +3293,7 @@
 	  (NP-ACC (N shuts)
 		  (PP (P fun)
 		      (NP (D dr) (N mlukhh)))))
-  (ID 1818E-GEOGRAFIE,18.295))
+  (ID 1818E-GEOGRAFYE,18.295))
 
 ( (CODE <P_19>))
 
@@ -3302,7 +3302,7 @@
 	  (ADJP-PRD (ADJ stark))
 	  (PP (P in)
 	      (NP (D dr) (ADJ gantsr) (N mdinh))))
-  (ID 1818E-GEOGRAFIE,19.297))
+  (ID 1818E-GEOGRAFYE,19.297))
 
 ( (IP-MAT (CONJ un)
 	  (PP (P fun)
@@ -3314,7 +3314,7 @@
 	  (ADVP (ADV nakh) (ADVR starker))
 	  (RP an)
 	  (VBN gihubin))
-  (ID 1818E-GEOGRAFIE,19.298))
+  (ID 1818E-GEOGRAFYE,19.298))
 
 ( (IP-MAT (NP-SBJ (D das) (ADJ gantsi) (N land))
 	  (RDF vert)
@@ -3336,7 +3336,7 @@
 							     (N vaunung)
 							     (PP (P fun)
 								 (NP (D dem) (N mlkh))))))))))))
-  (ID 1818E-GEOGRAFIE,19.299))
+  (ID 1818E-GEOGRAFYE,19.299))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF giher)
@@ -3360,7 +3360,7 @@
 					  (N fabrike)
 					  (PP (P fun)
 					      (NP (ADJ brabaner) (N kroynn))))))))
-  (ID 1818E-GEOGRAFIE,19.300))
+  (ID 1818E-GEOGRAFYE,19.300))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF hat)
@@ -3372,11 +3372,11 @@
 	      (CONJP (CONJ un)
 		     (PP (P in)
 			 (NP (NPR amerike))))))
-  (ID 1818E-GEOGRAFIE,19.301))
+  (ID 1818E-GEOGRAFYE,19.301))
 
 ( (PP (P fun)
       (NP (NPR england) (CONJ uder) (NPR grus_britaneye)))
-  (ID 1818E-GEOGRAFIE,19.302))
+  (ID 1818E-GEOGRAFYE,19.302))
 
 ( (IP-MAT (NP-SBJ (NPR engiland)
 		  (PP (P mit)
@@ -3398,14 +3398,14 @@
 			 (NP (QR mer)
 			     (PP (P az)
 				 (NP (NUM 17_mileyan) (N eyn_vanir)))))))
-  (ID 1818E-GEOGRAFIE,19.303))
+  (ID 1818E-GEOGRAFYE,19.303))
 
 ( (IP-MAT (NP-PRD (D dr) (N kinig))
 	  (VBF iz)
 	  (ADVP-LOC (ADV derinn))
 	  (NP-SBJ (NPR yerzi)
 		  (NP-PRN (D der) (N 3))))
-  (ID 1818E-GEOGRAFIE,19.304))
+  (ID 1818E-GEOGRAFYE,19.304))
 
 ( (IP-MAT (NP-1 (N ibsh) (N kheyl))
 	  (VBF hat)
@@ -3420,7 +3420,7 @@
 			     (NUMP (N 258))))
 		  (CONJP (CONJ un)
 			 (NP (ADJR kleneri) (N shifin)))))
-  (ID 1818E-GEOGRAFIE,19.305))
+  (ID 1818E-GEOGRAFYE,19.305))
 
 ( (IP-MAT (NP-PRD (D di) (ADJS gresti) (N stet))
 	  (VBF zeyn)
@@ -3428,21 +3428,21 @@
 	      (NP (D dizin) (N land)))
 	  (PUNC :)
 	  (NP-SBJ (NPR lundin)))
-  (ID 1818E-GEOGRAFIE,19.306))
+  (ID 1818E-GEOGRAFYE,19.306))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF hat)
 	  (PP (P in)
 	      (NP (PRO zikh)))
 	  (NP-ACC (NUM 10000) (N eyn_vanir)))
-  (ID 1818E-GEOGRAFIE,19.307))
+  (ID 1818E-GEOGRAFYE,19.307))
 
 ( (IP-MAT (NP-PRD (NP (NUM eyn) (N meyl))
 		  (CONJP (CONJ un)
 			 (NP (NUM eyn_halb))))
 	  (VBF iz)
 	  (NP-SBJ (D di) (N ling)))
-  (ID 1818E-GEOGRAFIE,19.308))
+  (ID 1818E-GEOGRAFYE,19.308))
 
 ( (IP-MAT (CONJ un)
 	  (NP-PRD (NUM eyn_halb) (N meyl))
@@ -3451,10 +3451,10 @@
 		  (N breyt)
 		  (PP (P fun)
 		      (NP (N stat)))))
-  (ID 1818E-GEOGRAFIE,19.309))
+  (ID 1818E-GEOGRAFYE,19.309))
 
 ( (NP (D das) (N kinigreykh) (NPR partugal))
-  (ID 1818E-GEOGRAFIE,19.310))
+  (ID 1818E-GEOGRAFYE,19.310))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D di)
 			    (N mdinh)
@@ -3474,7 +3474,7 @@
 					  (NP (H mzrkh^east) (N zeyt)))))
 			   (PP (P mit)
 			       (NP (D dem) (ADJ atlantikshe) (N mer))))))
-  (ID 1818E-GEOGRAFIE,19.311))
+  (ID 1818E-GEOGRAFYE,19.311))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF hat)
@@ -3483,7 +3483,7 @@
 	  (NP-ACC (NP (NUM 1656) (N kvadrat_meyl))
 		  (CONJP (CONJ un)
 			 (NP (NUM 368300) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,19.312))
+  (ID 1818E-GEOGRAFYE,19.312))
 
 ( (CODE <P_20>))
 
@@ -3495,7 +3495,7 @@
 		      (NP (D dr) (N mdinh))))
 	  (VBF btragt)
 	  (NP-ACC (NUM 39_milian) (N guldn)))
-  (ID 1818E-GEOGRAFIE,20.314))
+  (ID 1818E-GEOGRAFYE,20.314))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF habn)
@@ -3508,7 +3508,7 @@
 		  (CONJP (NP (NUM fuftsehn) (N fregatin)))
 		  (CONJP (CONJ un)
 			 (NP (NUM 1200) (N meytkes)))))
-  (ID 1818E-GEOGRAFIE,20.315))
+  (ID 1818E-GEOGRAFYE,20.315))
 
 ( (IP-MAT (NP-SBJ (PRO es))
 	  (VBF teylt)
@@ -3518,14 +3518,14 @@
 		  (N kinigreykh)
 		  (PUNC :)
 		  (NP-PRN (NPR partugalie) (CONJ un) (NPR algarbi)))))
-  (ID 1818E-GEOGRAFIE,20.316))
+  (ID 1818E-GEOGRAFYE,20.316))
 
 ( (IP-MAT (NP-SBJ (D di) (N mdinh) (NPR partugal))
 	  (VBF hat)
 	  (PP (P in)
 	      (NP (PRO zikh)))
 	  (NP-ACC (NUM finf) (N pravintsn)))
-  (ID 1818E-GEOGRAFIE,20.317))
+  (ID 1818E-GEOGRAFYE,20.317))
 
 ( (IP-MAT (NP-SBJ (D di)
 		  (N hoypt_stat)
@@ -3535,7 +3535,7 @@
 	  (NP-PRD (NPR lizban)
 		  (PP (P bey)
 		      (NP (D der) (NPR tg)))))
-  (ID 1818E-GEOGRAFIE,20.318))
+  (ID 1818E-GEOGRAFYE,20.318))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF hat)
@@ -3573,10 +3573,10 @@
 						    (CONJP-4 (CONJ un)
 							     (ADVP (ADV oykh))
 							     (NP (Q fil) (N tsuker)))))))))
-  (ID 1818E-GEOGRAFIE,20.319))
+  (ID 1818E-GEOGRAFYE,20.319))
 
 ( (NP (D das) (N kinigreykh) (NPR spanie))
-  (ID 1818E-GEOGRAFIE,20.320))
+  (ID 1818E-GEOGRAFYE,20.320))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (NPR spanie))
 		    (VBF grenitst)
@@ -3618,7 +3618,7 @@
 			       (CONJP (CONJ un)
 				      (PP (P mit)
 					  (NP (NPR partugal))))))))
-  (ID 1818E-GEOGRAFIE,20.321))
+  (ID 1818E-GEOGRAFYE,20.321))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ gantsi) (N mdinh))
 	  (VBF hat)
@@ -3627,14 +3627,14 @@
 	  (NP-ACC (NP (NUM 8910) (N kvadrat_meyl))
 		  (CONJP (ADVP (ADV oykh))
 			 (NP (NUM 10351075) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,20.322))
+  (ID 1818E-GEOGRAFYE,20.322))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ katulishe) (N amune))
 	  (VBF iz)
 	  (NP-PRD (FP nar) (NUM eyni))
 	  (PP (P in)
 	      (NP (ADJ gantsin) (N land))))
-  (ID 1818E-GEOGRAFIE,20.323))
+  (ID 1818E-GEOGRAFYE,20.323))
 
 ( (IP-MAT (ADVP (ADV veytr))
 	  (RDF vert)
@@ -3643,14 +3643,14 @@
 	      (NP (N land)))
 	  (NEG nit)
 	  (VAN gilitn))
-  (ID 1818E-GEOGRAFIE,20.324))
+  (ID 1818E-GEOGRAFYE,20.324))
 
 ( (IP-MAT (NP-SBJ (D ds) (ADJ gantse) (N land) (NPR spanie))
 	  (VBF teylt)
 	  (NP-RFL (PRO zikh))
 	  (PP (P in)
 	      (NP (NUM fir_tsehn) (N pravintsn))))
-  (ID 1818E-GEOGRAFIE,20.325))
+  (ID 1818E-GEOGRAFYE,20.325))
 
 ( (IP-MAT (NP-PRD (D di)
 		  (N hoypt_stat)
@@ -3663,7 +3663,7 @@
 				  (NP-SBJ (D dr) (N mlkh))
 				  (VBF hat)
 				  (NP-ACC (PRO$ zeyn) (N vaunung))))))
-  (ID 1818E-GEOGRAFIE,20.326))
+  (ID 1818E-GEOGRAFYE,20.326))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF hat)
@@ -3684,12 +3684,12 @@
 				 (CONJP (CONJ un)
 					(PP (P in)
 					    (NP (NPR amerike)))))))))
-  (ID 1818E-GEOGRAFIE,20.327))
+  (ID 1818E-GEOGRAFYE,20.327))
 
 ( (CODE <P_21>))
 
 ( (NP (D ds) (N kinigreykh) (NPR frankreykh))
-  (ID 1818E-GEOGRAFIE,21.329))
+  (ID 1818E-GEOGRAFYE,21.329))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D di)
 			    (N mdinh)
@@ -3729,7 +3729,7 @@
 				   (CONJP (NP (NPR shveyzer)))
 				   (CONJP (CONJ un)
 					  (NP (NPR teytsland))))))))
-  (ID 1818E-GEOGRAFIE,21.330))
+  (ID 1818E-GEOGRAFYE,21.330))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF hat)
@@ -3738,7 +3738,7 @@
 	  (NP-ACC (NP (NUM 9650) (N kvadrat_meyl))
 		  (CONJP (ADVP (ADV oykh))
 			 (NP (NUM 29_mileyan) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,21.331))
+  (ID 1818E-GEOGRAFYE,21.331))
 
 ( (IP-MAT (NP-SBJ (NPR frankreykh))
 	  (VBF hat)
@@ -3751,7 +3751,7 @@
 			     (N fregatin)
 			     (PP (P khuts)
 				 (NP (ADJ kleyni) (N shifn)))))))
-  (ID 1818E-GEOGRAFIE,21.332))
+  (ID 1818E-GEOGRAFYE,21.332))
 
 ( (IP-MAT (PP (P in)
 	      (NP (N yar) (NUM 1789)))
@@ -3761,7 +3761,7 @@
 	  (VBN giteylt)
 	  (PP (P in)
 	      (NP (NUM 33) (ADJ gruse) (N pravintsies))))
-  (ID 1818E-GEOGRAFIE,21.333))
+  (ID 1818E-GEOGRAFYE,21.333))
 
 ( (IP-MAT (ADVP-TMP (ADV itsund))
 	  (VBF teylt)
@@ -3770,7 +3770,7 @@
 	  (PP (P in)
 	      (NP (NUM 86) (N departeiegsn)))
 	  (CODE {COM:sic}))
-  (ID 1818E-GEOGRAFIE,21.334))
+  (ID 1818E-GEOGRAFYE,21.334))
 
 ( (IP-MAT (PP (P in)
 	      (NP (D dr) (ADJ zelbr) (N mlkhmh)))
@@ -3785,7 +3785,7 @@
 		  (CONJP (ADVP (ADV oykh))
 			 (NP (NP (NPR itali))
 			     (CONJP (NP (NPR venetie)))))))
-  (ID 1818E-GEOGRAFIE,21.335))
+  (ID 1818E-GEOGRAFYE,21.335))
 
 ( (IP-MAT (PP (P in)
 	      (NP (Q alem)))
@@ -3795,7 +3795,7 @@
 	  (NP-ACC (H lerkh^approximately)
 		  (PP (P fun)
 		      (NP (NUM 13_mileyan) (N eyn_vauner)))))
-  (ID 1818E-GEOGRAFIE,21.336))
+  (ID 1818E-GEOGRAFYE,21.336))
 
 ( (IP-MAT (NP-SBJ (NPR pariz))
 	  (VBF iz)
@@ -3807,7 +3807,7 @@
 			  (N vaunung)
 			  (PP (P fun)
 			      (NP (N mlkh))))))
-  (ID 1818E-GEOGRAFIE,21.337))
+  (ID 1818E-GEOGRAFYE,21.337))
 
 ( (IP-MAT (NP-SBJ (D di) (N stat) (NPR pariz))
 	  (VBF hat)
@@ -3815,7 +3815,7 @@
 		  (N um_kreyz)
 		  (PP (P fun)
 		      (NP (NUM zibn) (N meyl)))))
-  (ID 1818E-GEOGRAFIE,21.338))
+  (ID 1818E-GEOGRAFYE,21.338))
 
 ( (IP-MAT (ADVP (ADV oykh))
 	  (VBF hat)
@@ -3829,7 +3829,7 @@
 		  (CONJP (NP (NUM drey) (N akademies)))
 		  (CONJP (ADVP (ADV oykh))
 			 (NP (Q fil) (N fabrikn)))))
-  (ID 1818E-GEOGRAFIE,21.339))
+  (ID 1818E-GEOGRAFYE,21.339))
 
 ( (IP-MAT (NP-SBJ (D di) (N stat) (NPR versal))
 	  (VBF iz)
@@ -3837,7 +3837,7 @@
 	  (NP-PRD (NP (D eyn) (ADJ gruse))
 		  (CONJP (CONJ un)
 			 (NP (D eyn) (ADJ sheyne) (N stat)))))
-  (ID 1818E-GEOGRAFIE,21.340))
+  (ID 1818E-GEOGRAFYE,21.340))
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF hat)
@@ -3853,7 +3853,7 @@
 					  (ADJS besti)
 					  (PP (P in)
 					      (NP (ADJ gants) (NPR eaurape))))))))
-  (ID 1818E-GEOGRAFIE,21.341))
+  (ID 1818E-GEOGRAFYE,21.341))
 
 ( (IP-MAT (PP (ADV oykh)
 	      (P in)
@@ -3861,4 +3861,4 @@
 	  (VBF gifinn)
 	  (NP-RFL (PRO zikh))
 	  (NP-SBJ (Q fil) (N zeyd_fabrikn)))
-  (ID 1818E-GEOGRAFIE,21.342))
+  (ID 1818E-GEOGRAFYE,21.342))
