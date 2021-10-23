@@ -309,7 +309,7 @@
   (ID 1929E-WEINREICH-SHPOTLIDER,538.18))
 
 ( (IP-MAT (NP-SBJ (D a) (ADJ deytsher) (N yid))
-	  (VLP volt)
+	  (VLF volt)
 	  (NEG nit)
 	  (VBN gezen)
 	  (ADVP (ADV azoy) (ADV sharf))

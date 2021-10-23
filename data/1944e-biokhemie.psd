@@ -24,7 +24,7 @@
 						    (PP (P in)
 							(NP (ADJ leybedike) (N organizmen)))))))))
 	(PUNC .))
-  (ID 1944E-BIOKHEMYE,187.3))
+  (ID 1944E-BIOKHEMIE,187.3))
 
 ( (IP-MAT (ADVP-LOC (ADV umetum)
 		    (CP-REL (WADVP-1 (WADV vu))
@@ -39,20 +39,20 @@
 	  (RP fur)
 	  (NP-SBJ (ADJ khemishe) (N protsesn))
 	  (PUNC :))
-  (ID 1944E-BIOKHEMYE,187.4))
+  (ID 1944E-BIOKHEMIE,187.4))
 
 ( (IP-MAT (NP-SBJ (ADJ khemishe) (N farbindungen))
 	  (RDF vern)
 	  (ADVP (ADV ksayder))
 	  (VAN tseshtert))
-  (ID 1944E-BIOKHEMYE,187.5))
+  (ID 1944E-BIOKHEMIE,187.5))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (ADJ naye) (N 0))
 	  (RDF vern)
 	  (VAN geboyt)
 	  (PUNC .))
-  (ID 1944E-BIOKHEMYE,187.6))
+  (ID 1944E-BIOKHEMIE,187.6))
 
 ( (IP-MAT (NP-SBJ (ADJ leybedike) (N organizmen))
 	  (VBF zenen)
@@ -79,7 +79,7 @@
 								  (PP (P fun@)
 								      (NP (D @em) (N organizm))))))))))))
 	  (PUNC .))
-  (ID 1944E-BIOKHEMYE,187.7))
+  (ID 1944E-BIOKHEMIE,187.7))
 
 ( (IP-MAT (NP-SBJ (Q yeder)
 		  (ADJP (ADJP (ADJ leybediker))
@@ -107,7 +107,7 @@
 							  (N funktsionirungen)
 							  (PP (P fun)
 							      (NP (Q ale) (PRO$ zayne) (N organen))))))))))
-  (ID 1944E-BIOKHEMYE,187.8))
+  (ID 1944E-BIOKHEMIE,187.8))
 
 ( (IP-MAT (CP-ADV-LFD (C ven)
 		      (IP-SUB (NP-SBJ (D der) (N organizm))
@@ -125,14 +125,14 @@
 	  (VAN tseshtert)
 	  (NP-SBJ (D di) (ADJ khemishe) (N glaykh-vog))
 	  (PUNC ,))
-  (ID 1944E-BIOKHEMYE,187.9))
+  (ID 1944E-BIOKHEMIE,187.9))
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (D der) (N poyl-yoytse))
 	  (VBF iz)
 	  (NP-PRD (D a) (ADJ patologisher) (ADJ krankhafter) (N tsushtand))
 	  (PUNC .))
-  (ID 1944E-BIOKHEMYE,187.10))
+  (ID 1944E-BIOKHEMIE,187.10))
 
 ( (IP-MAT (NP-SBJ (PRO mir))
 	  (MDF kenen)
@@ -160,4 +160,4 @@
 					  (PP (P iber)
 					      (NP (D dem) (N shtof-bayt))))))))
 	  (PUNC .))
-  (ID 1944E-BIOKHEMYE,187.11))
+  (ID 1944E-BIOKHEMIE,187.11))

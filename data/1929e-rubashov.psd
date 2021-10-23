@@ -146,7 +146,7 @@
   (ID 1929E-RUBASHOV,115.7))
 
 ( (IP-MAT (CONJ un)
-	  (CP-ADV (IP-SUB (VLP voltn)
+	  (CP-ADV (IP-SUB (VLF voltn)
 			  (NP-SBJ (Q ale)
 				  (N protokoln)
 				  (PP (P fun)
@@ -155,7 +155,7 @@
 			  (VAN @gehit)
 			  (RDN gevorn)))
 	  (PUNC ,)
-	  (VLP voltn)
+	  (VLF voltn)
 	  (NP-SBJ (PRO mir))
 	  (ADVP-TMP (ADV haynt))
 	  (VBN gehat)

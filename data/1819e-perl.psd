@@ -1076,7 +1076,7 @@
 				      (VBN kumin)
 				      (PP (P un)
 					  (NP (D dem) (N tag)))))
-	      (VLP vals@)
+	      (VLF vals@)
 	      (NP-SBJ (PRO @tu))
 	      (NP-ACC (PRO mikh))
 	      (ADVP-DIR (ADV aroys))
