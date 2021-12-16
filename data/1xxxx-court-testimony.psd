@@ -15343,7 +15343,7 @@
 
 ( (IP-MAT (BEF iz)
 	  (NP-SBJ-1 *exp*)
-	  (CONJ nor)
+	  (FP nor)
 	  (ADVP (ADV za))
 	  (RP an)
 	  (VAN bishtelt)

@@ -25,7 +25,7 @@
 
 ( (IP-MAT (NP-SBJ (ES es))
 	  (BEF zenen)
-	  (CONJ nor)
+	  (FP nor)
 	  (RP-H nitsul)
 	  (VBN gevorn)
 	  (NP-LGS (Q etlekhe)
