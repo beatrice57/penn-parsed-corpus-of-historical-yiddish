@@ -40,8 +40,7 @@ Other
 For convenience, the repository also contains two unpublished works
 based on the corpus:
 
-- Santorini, Beatrice.  1995.  The syntax of verbs in Yiddish.
-  Unpublished manuscript, Northwestern University.
+- Santorini, Beatrice.  1995.  The syntax of verbs in Yiddish.  Unpublished manuscript, Northwestern University.
 - Santorini, Beatrice.  1989.  The generalization of the verb-second
   constraint in the history of Yiddish.  Doctoral dissertation,
   University of Pennsylvania.
