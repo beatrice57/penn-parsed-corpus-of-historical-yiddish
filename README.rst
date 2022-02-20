@@ -18,15 +18,15 @@ v1.0.
 Description
 ===========
 
-The corpus contains 200,000 words of historical (and modern) Yiddish.
-By far the largest contribution comes from two 20th-century texts,
-1910e-grine-felder (15,611 words) and 1947e-royte-pomerantsn (67,558
-words).
+The corpus contains roughly 200,000 words of historical (and modern)
+Yiddish.  By far the largest contribution comes from two 20th-century
+texts, 1910e-grine-felder (15,611 words) and 1947e-royte-pomerantsn
+(67,558 words).
 
-The origin of the corpus is as a collection of linguistically relevant 
-examples that I collected in connection with research on the changing 
-syntax of subordinate clauses in the history of Yiddish.  Although 
-most files have been updated to contain running text, some of them 
+The origin of the corpus is as a collection of linguistically relevant
+examples that I collected in connection with research on the changing
+syntax of subordinate clauses in the history of Yiddish.  Although
+most files have been updated to contain running text, some of them
 still reflect their origin, containing only subordinate clauses.
 
 The corpus can be searched with CorpusSearch.
@@ -34,11 +34,24 @@ The corpus can be searched with CorpusSearch.
 - Download: <https://sourceforge.net/projects/corpussearch/>
 - Users guide: <https://www.ling.upenn.edu/~beatrice/corpus-ling/CS-users-guide/index.html>
 
+Other
+=====
+
+For convenience, the repository also contains two unpublished works
+based on the corpus::
+
+- Santorini, Beatrice.  1995.   The syntax of verbs in Yiddish.
+  Unpublished manuscript, Northwestern University.
+
+- Santorini, Beatrice.   1989.  The generalization of the verb-second
+  constraint in the history of Yiddish.  Doctoral dissertation,
+  University of Pennsylvania.
+
 Dedication
 ==========
 
-To all of my teachers at Penn, with gratitude, respect, and affection,
-and especially:
+All of the work in the repository is dedicated to my teachers at
+Penn, with gratitude, respect, and affection, and especially::
 
 - Henry Hoenigswald (1915-2003)
 - Ellen Prince (1944-2010)
@@ -50,7 +63,8 @@ Acknowledgments
 I gratefully acknowledge the assistance of those who helped me with the
 Old Yiddish data, including:
 
-The staff of the Oriental Reading Room at the Bodleian Library at Oxford University
+The staff of the Oriental Reading Room at the Bodleian Library at
+Oxford University
 
 - Yasuko Hatcher
 - Shu-ching Naughton
@@ -60,10 +74,10 @@ The staff of the Oriental Reading Room at the Bodleian Library at Oxford Univers
 
 The staff of the Oriental Reading Room at the British Library in London:
 
-- M Nolan
-- G Rawlings
-- P Stocks
-- N Vail
+- M. Nolan
+- G. Rawlings
+- P. Stocks
+- N. Vail
 
 The staff of the YIVO Institute for Jewish Research in New York:
 
@@ -75,7 +89,7 @@ The following faculty members at the University of Trier:
 - Erika Timm
 - Walter Roell
 
-I am also very fortunate to have had the assistance of Talia Beck, a
-rare combination of proficiency in both Hebrew and Yiddish and knowledge
-of Jewish culture, who was able to supply many glosses for the Hebrew
-material in the Yiddish texts.
+I am also very fortunate to have had the assistance of Talia Beck, who
+possesses a rare combination of proficiency in both Hebrew and Yiddish
+as well as knowledge of Jewish culture and who was therefore able to
+supply many glosses for the Hebrew material in the Yiddish texts.
