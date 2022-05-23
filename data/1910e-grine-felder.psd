@@ -77,7 +77,8 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,63.10))
 
-( (IP-MAT (NP-SBJ (PRO ikh))
+( (IP-MAT (CODE {COM:begin_formerly_missing_part})
+	  (NP-SBJ (PRO ikh))
 	  (VLF volt)
 	  (NEG nisht)
 	  (VB sdonzhen)
@@ -195,7 +196,8 @@
 	(NPR gitl)
 	(VBF kumen)
 	(RP on)
-	(PUNC .))
+	(PUNC .)
+	(CODE {COM:end_formerly_missing_part}))
   (ID 1910E-GRINE-FELDER,63.21))
 
 ( (INTJP (IP-MAT (NP-SBJ (NPR skotsl))
@@ -304,7 +306,8 @@
 
 ( (CODE <P_64>))
 
-( (IP-MAT (META (NPR gitl:))
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (META (NPR gitl:))
 	  (NP-SBJ (PRO kh'))
 	  (HVF hob)
 	  (VBN gezogt)
@@ -963,7 +966,8 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,65.93))
 
-( (CP-QUE-MAT (META (NPR rokhl:))
+( (CP-QUE-MAT (CODE {TMP:added_missing_text})
+	      (META (NPR rokhl:))
 	      (WNP-1 (WPRO vos))
 	      (IP-SUB (NP-ADV *T*-1)
 		      (HVF hot)
@@ -1034,7 +1038,8 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,65.98))
 
-( (IP-MAT (NP-SBJ (PRO zi))
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (NP-SBJ (PRO zi))
 	  (VBF veyst)
 	  (PUNC ,)
 	  (CP-THT (C az)
@@ -1065,7 +1070,8 @@
 			      (PUNC .))))
   (ID 1910E-GRINE-FELDER,65.100))
 
-( (IP-MAT (NP-SBJ (NPR stere))
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (NP-SBJ (NPR stere))
 	  (BEF iz)
 	  (VBN gekumn)
 	  (CP-ADV (C veyl)
@@ -1180,7 +1186,8 @@
 	      (PUNC .))
   (ID 1910E-GRINE-FELDER,65.112))
 
-( (IP-MAT (CP-ADV (C oyb)
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (CP-ADV (C oyb)
 		  (FRAG (ADVP (ADV azoy))))
 	  (CODE {COM:sic;_no_comma})
 	  (BEF iz)
@@ -1206,7 +1213,8 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,65.114))
 
-( (IP-MAT (CP-THT (C az)
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (CP-THT (C az)
 		  (IP-SUB (NP-SBJ (PRO es))
 			  (RDF vet)
 			  (VB kumen)
@@ -1229,7 +1237,8 @@
 
 ( (CODE <P_66>))
 
-( (IP-MAT (META (NPR dovid-noyekh:))
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (META (NPR dovid-noyekh:))
 	  (INTJ khe-khe)
 	  (PUNC -)
 	  (NP-SBJ (PRO kh'))
@@ -1627,7 +1636,8 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,67.159))
 
-( (CP-QUE-MAT (CONJ un)
+( (CP-QUE-MAT (CODE {TMP:added_missing_text})
+	      (CONJ un)
 	      (CP-ADV-LFD (C az)
 			  (IP-SUB (NP-SBJ (PRO zi))
 				  (BEF iz)
@@ -6190,7 +6200,7 @@
 
 ( (FRAG (META (NPR levi-yitskhok:))
 	(ADVP-DIAGN (ADV dokh))
-	(VAN geshribn)
+	(ADJP (ADJ geshribn))
 	(PUNC :)
 	(QTP (H ki^because) (H betseylem^in_image) (H elokim^God) (H navrey^was_created) (H haodem^the_human))
 	(PUNC -)
@@ -12027,7 +12037,7 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,93.1183))
 
-( (META (VBF loyft) (P in) (N shtub) (ADV arayn) (PUNC .) (NPR levi-itskhok) (VBF batrakht) (D di) (NUM tsvey) (N epl) (C vos) (BEF zaynen) (VBN geblibn) (P lebn) (PRO im) (P oyf) (D dr) (N erd) (PUNC .) (VBF shmekt) (PRO zey) (PUNC .) (NPR tsine) (VBF kumt) (ADV aroys) (PUNC .) (VBF brengt) (D a) (N bretl) (PUNC ,) (P oyf) (D dem) (BEF iz) (RP on@) (VAN @geshribn) (P mit) (N krayd-oysyes) (PUNC .))
+( (META (VBF loyft) (P in) (N shtub) (ADV arayn) (PUNC .) (NPR levi-itskhok) (VBF batrakht) (D di) (NUM tsvey) (N epl) (C vos) (BEF zaynen) (VBN geblibn) (P lebn) (PRO im) (P oyf) (D dr) (N erd) (PUNC .) (VBF shmekt) (PRO zey) (PUNC .) (NPR tsine) (VBF kumt) (ADV aroys) (PUNC .) (VBF brengt) (D a) (N bretl) (PUNC ,) (P oyf) (D dem) (BEF iz) (ADJ ongeshribn) (P mit) (N krayd-oysyes) (PUNC .))
   (ID 1910E-GRINE-FELDER,93.1184))
 
 ( (CP-QUE-MAT (META (NPR levi-yitskhok:))
@@ -12045,8 +12055,7 @@
 			  (IP-SUB (NP-SBJ *T*-1)
 				  (ADVP-LOC (ADV do))
 				  (BEF iz)
-				  (RP on@)
-				  (VAN @geshribn))))
+				  (ADJP-PRD (ADJ ongeshribn)))))
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,93.1186))
 
@@ -12195,8 +12204,8 @@
 	      (WNP-1 (WPRO vos))
 	      (IP-SUB (NP-SBJ *T*-1)
 		      (BEF iz)
-		      (VAN geshribn)
-		      (PUNC ?)))
+		      (ADJP-PRD (ADJ geshribn)))
+	      (PUNC ?))
   (ID 1910E-GRINE-FELDER,94.1205))
 
 ( (FRAG (META (NPR levi-yitskhok:))
@@ -12872,7 +12881,8 @@
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,96.1278))
 
-( (IP-MAT (NP-SBJ (PRO me))
+( (IP-MAT (CODE {TMP:added_missing_text})
+	  (NP-SBJ (PRO me))
 	  (VLF volt)
 	  (NP-ACC (PRO dikh))
 	  (PP (P bay)
