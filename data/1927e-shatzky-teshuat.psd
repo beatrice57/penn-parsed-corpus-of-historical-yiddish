@@ -483,7 +483,7 @@
 	  (VB vern)
 	  (CP-ADV (C ven)
 		  (IP-SUB (NP-SBJ (PRO er))
-			  (RDF vet)
+			  (MDF vet)
 			  (RP iber@)
 			  (VB @leyenen)
 			  (NP-ACC (D di)

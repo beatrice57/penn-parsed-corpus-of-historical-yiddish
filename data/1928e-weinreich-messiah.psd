@@ -15,7 +15,7 @@
 			  (C vos)
 			  (IP-SUB (NP-ACC *T*-1)
 				  (NP-SBJ (D der) (N leyener))
-				  (RDF vet)
+				  (MDF vet)
 				  (ADVP (ADV do))
 				  (VB gefinen))))
 	  (BEF iz)
@@ -1375,7 +1375,7 @@
   (ID 1928E-WEINREICH-MESSIAH,223.82))
 
 ( (IP-MAT (ADVP (ADV ingikhn))
-	  (RDF vet)
+	  (MDF vet)
 	  (NP-SBJ (PRO er))
 	  (NP-RFL (PRO zikh))
 	  (ADVP-DIAGN (ADV shoyn))
@@ -1409,7 +1409,7 @@
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ (PRO men))
-	  (RDF vet)
+	  (MDF vet)
 	  (VB lebn)
 	  (ADVP (ADV iberaneys))
 	  (PP (P tsu)
@@ -1505,7 +1505,7 @@
   (ID 1928E-WEINREICH-MESSIAH,223.93))
 
 ( (IP-MAT (NP-SBJ (PRO er))
-	  (RDF vet)
+	  (MDF vet)
 	  (RP oys@)
 	  (VB @strekn)
 	  (NP-ACC (PRO$ zeyn) (N hand)))
@@ -1513,7 +1513,7 @@
 
 ( (IP-MAT (CONJ un)
 	  (NP-SBJ *con*)
-	  (RDF vet)
+	  (MDF vet)
 	  (RP oys@)
 	  (VB @leyzn)
 	  (NP-ACC (PRO$ zeyn) (N folk))

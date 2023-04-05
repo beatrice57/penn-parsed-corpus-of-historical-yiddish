@@ -846,7 +846,7 @@
 			  (NP-ACC (D a) (N sof))))
 	  (RDF vern)
 	  (ADVP (ADV aroys@))
-	  (VB @gegebn)
+	  (VAN @gegebn)
 	  (NP-SBJ (D di) (N kruzim))
 	  (PUNC :)
 	  (CODE {COM:the_documents_are_in_1671e-vaad}))

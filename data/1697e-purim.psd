@@ -963,7 +963,7 @@
 		  (N krun)
 		  (PP (P fun)
 		      (NP (PRO$ zeyn) (N heybt))))
-	  (RDF vet)
+	  (MDF vet)
 	  (NP-SBJ (PRO er))
 	  (NP-DTV (PRO ir))
 	  (VB gebin))

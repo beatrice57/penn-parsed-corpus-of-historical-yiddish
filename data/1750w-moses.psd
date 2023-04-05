@@ -268,7 +268,7 @@
 	      (NP (D dr) (N shar)))
 	  (CP-THT (C alz)
 		  (IP-SUB (NP-SBJ (PRO ir))
-			  (RDF vet)
+			  (MDF vet)
 			  (MD muzn)
 			  (VB shterbin)
 			  (PP (P in)

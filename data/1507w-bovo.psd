@@ -2549,7 +2549,7 @@
 			  (PP (P vun)
 			      (NP (PRO im)))
 			  (VAN gisenkt))
-	      (HV hun)
+	      (VB hun)
 	      (NP-1 (NP (N veyn_gertn))
 		    (CONJP (CONJ un')
 			   (NP (N veld)))

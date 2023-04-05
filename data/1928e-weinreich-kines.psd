@@ -319,7 +319,7 @@
 			  (CP-THT (C az)
 				  (IP-SUB (PP (P in)
 					      (NP (NPR merb-eyrope)))
-					  (RDF vet)
+					  (MDF vet)
 					  (NP-SBJ (PRO men))
 					  (NP-ACC (PRO im))
 					  (NEG nit)

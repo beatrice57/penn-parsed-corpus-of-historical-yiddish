@@ -1836,7 +1836,7 @@
 						      (IP-SUB (NP-SBJ *T*-5)
 							      (VBF tsihn)
 							      (RP oys)
-							      (NP-ACC (D den) (PUNC ...))))))))))
+							      (NP-ACC (D den) (X ...))))))))))
   (ID 1579E-SHIR-PREFACE,6.102))
 
 ( (IP-MAT (CONJ un)

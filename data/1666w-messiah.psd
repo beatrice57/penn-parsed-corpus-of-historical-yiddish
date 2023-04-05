@@ -2745,7 +2745,7 @@
   (ID 1666W-MESSIAH,66.318))
 
 ( (IP-MAT (NP-SBJ (NPR gat))
-	  (RDF vet)
+	  (MDF vet)
 	  (NP-ACC (PRO unz))
 	  (VB bhitn)
 	  (QP (Q ali))

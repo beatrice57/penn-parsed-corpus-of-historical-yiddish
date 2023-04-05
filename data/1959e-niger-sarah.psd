@@ -159,7 +159,7 @@
 
 ( (IP-MAT (PP (P bey)
 	      (NP (D a) (ADJ geviser) (N anstrengung)))
-	  (RDF vet)
+	  (MDF vet)
 	  (NP-SBJ-1 *exp*)
 	  (NEG nit)
 	  (ADJP-PRD (ADJ shver))

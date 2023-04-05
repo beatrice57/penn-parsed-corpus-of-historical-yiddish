@@ -260,7 +260,7 @@
 		  (CONJP (NP (N aukinum)))
 		  (CONJP (NP (N otseyan))))
 	  (RDF vert)
-	  (VB girufin)
+	  (VAN girufin)
 	  (NP-SBJ (D das)
 		  (ADJ grusi)
 		  (N mehr)
