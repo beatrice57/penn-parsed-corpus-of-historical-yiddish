@@ -15,6 +15,21 @@ Santorini, Beatrice.  2021.  Penn Parsed Corpus of Historical Yiddish,
 v1.0.
 <https://github.com/beatrice57/penn-parsed-corpus-of-historical-yiddish>
 
+Contact
+=======
+
+Beatrice Santorini (beatrice DOT santorini AT gmail DOT com)
+
+Dedication
+==========
+
+The work in the repository is dedicated to my teachers at Penn, with
+gratitude, respect, and affection, and especially:
+
+- Henry Hoenigswald (1915-2003)
+- Ellen Prince (1944-2010)
+- Anthony Kroch (1946-2021)
+
 Description
 ===========
 
@@ -45,17 +60,6 @@ based on the corpus:
 - Santorini, Beatrice.  1989.  The generalization of the verb-second
   constraint in the history of Yiddish.  Doctoral dissertation,
   University of Pennsylvania.
-
-
-Dedication
-==========
-
-All of the work in the repository is dedicated to my teachers at
-Penn, with gratitude, respect, and affection, and especially::
-
-- Henry Hoenigswald (1915-2003)
-- Ellen Prince (1944-2010)
-- Anthony Kroch (1946-2021)
 
 Acknowledgments
 ===============
