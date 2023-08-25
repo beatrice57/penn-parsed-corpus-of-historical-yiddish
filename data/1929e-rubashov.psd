@@ -472,7 +472,7 @@
 			       (H shl^of)
 			       (H oylem^world)
 			       (PUNC -)
-			       (X lemoshl)
+			       (H lemoshl^for_example)
 			       (PUNC ,)
 			       (NP-PRN (N shayles)
 				       (PP (P vegn)

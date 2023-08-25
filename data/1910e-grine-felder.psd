@@ -12379,7 +12379,7 @@
   (ID 1910E-GRINE-FELDER,94.1228))
 
 ( (FRAG (META (NPR levi-yitskhok:))
-	(PP (H lemoshl^for_example))
+	(H lemoshl^for_example)
 	(PUNC ?))
   (ID 1910E-GRINE-FELDER,94.1229))
 
