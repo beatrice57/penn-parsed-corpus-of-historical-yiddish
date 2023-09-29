@@ -1091,7 +1091,7 @@
   (ID 1910E-GRINE-FELDER,65.102))
 
 ( (CP-QUE-MAT (META (NPR dovid-noyekh:))
-	      (ADV take)
+	      (ADVP (ADV take))
 	      (PUNC ,)
 	      (IP-SUB (VBF meynst)
 		      (NP-SBJ *2s*)
@@ -4206,7 +4206,7 @@
   (ID 1910E-GRINE-FELDER,73.407))
 
 ( (IP-MAT (META (NPR tsine:))
-	  (ADV take)
+	  (ADVP (ADV take))
 	  (PUNC ...)
 	  (NP-SBJ (PRO 'kh))
 	  (MDF vil)
@@ -4609,7 +4609,7 @@
   (ID 1910E-GRINE-FELDER,74.447))
 
 ( (IP-MAT (META (NPR avrom-yankev:))
-	  (ADV take)
+	  (ADVP (ADV take))
 	  (PUNC ,)
 	  (NP-VOC (N mame))
 	  (PUNC ,)
