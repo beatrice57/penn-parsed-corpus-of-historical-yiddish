@@ -7810,7 +7810,7 @@
 		  (VB @geyn)
 		  (QP (Q ale))
 		  (PP (P in)
-		      (NP (PRO eynem)))
+		      (NP (NUM eynem)))
 		  (NP-ACC (D dem) (N brik))
 		  (PUNC .)))
   (ID 1947E-ROYTE-POMERANTSEN,30.709))
@@ -67933,7 +67933,7 @@
 	  (VBN gegangen)
 	  (QP (Q ale))
 	  (PP (P in)
-	      (NP (PRO eynem))))
+	      (NP (NUM eynem))))
   (ID 1947E-ROYTE-POMERANTSEN,239.6145))
 
 ( (IP-MAT (CONJ un)

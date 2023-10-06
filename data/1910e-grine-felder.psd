@@ -14463,7 +14463,7 @@
 
 ( (IP-MAT (VBF bin)
 	  (NP-SBJ (PRO ikh))
-	  (NP-PRD (N bedales))
+	  (ADJP-PRD (ADJ bedales))
 	  (PUNC .))
   (ID 1910E-GRINE-FELDER,99.1434))
 
