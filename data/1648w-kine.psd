@@ -345,7 +345,7 @@
 					      (VB kamn)
 					      (PP (P tsu)
 						  (NP (PRO anndr))))))
-		  (ADVP-TMP-RSP (ADV azu_bald))
+		  (ADVP-TMP-RSP (ADV azu) (ADV bald))
 		  (VBF zamltn)
 		  (NP-SBJ-RSP (PRO zi))
 		  (NP-RFL (PRO zikh))

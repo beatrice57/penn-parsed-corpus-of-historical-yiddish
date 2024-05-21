@@ -15647,7 +15647,7 @@
 
 ( (CODE <P_59>))
 
-( (NP (D a) (N bsure_roe))
+( (NP (D a) (N bsure_roe^news_harm))
   (ID 1947E-ROYTE-POMERANTSEN,59.1439))
 
 ( (IP-MAT (NP-SBJ (ES es))
@@ -15742,7 +15742,7 @@
 		      (VBF zogt)
 		      (NP-SBJ (PRO men))
 		      (RP on)
-		      (NP-ACC (ADV aza) (N bsure) (ADJ roe))
+		      (NP-ACC (ADV aza) (N bsure_roe^news_harm))
 		      (NP-DTV (D der) (N vayb))
 		      (PUNC .)))
   (ID 1947E-ROYTE-POMERANTSEN,59.1450))
@@ -17093,7 +17093,7 @@
 	  (PUNC .))
   (ID 1947E-ROYTE-POMERANTSEN,63.1568))
 
-( (IP-MAT (IP-MAT-1 (ADVP-TMP (ADV iz_bald)
+( (IP-MAT (IP-MAT-1 (ADVP-TMP (ADV iz) (ADV bald)
 			      (PUNC ,)
 			      (CP-CMP (WADVP-2 0)
 				      (C vi)
@@ -70606,7 +70606,7 @@
 
 ( (IP-MAT (NP-SBJ (D der) (N rov))
 	  (BEF iz)
-	  (NP-PRD (FP azh) (D a) (ADJ far_shteynerter))
+	  (NP-PRD (FP azh) (D a) (ADJ farshteynerter))
 	  (VBN gevorn)
 	  (PUNC .))
   (ID 1947E-ROYTE-POMERANTSEN,248.6387))
@@ -73996,7 +73996,8 @@
   (ID 1947E-ROYTE-POMERANTSEN,248.6642))
 
 ( (IP-MAT (CONJ nor)
-	  (CP-ADV (C kedey_az)
+	  (CP-ADV (C kedey)
+		  (C az)
 		  (IP-SUB (IP-SUB (NP-SBJ (PRO du))
 				  (MDF zolst)
 				  (NEG nit)

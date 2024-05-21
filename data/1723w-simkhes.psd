@@ -261,7 +261,7 @@
 	  (PUNC .))
   (ID 1723W-SIMKHES,64.22))
 
-( (IP-MAT (ADVP-TMP (ADV azo_bald))
+( (IP-MAT (ADVP-TMP (ADV azo) (ADV bald))
 	  (BEF iz)
 	  (NP-SBJ (D der) (N fogel))
 	  (VBN geflogen)

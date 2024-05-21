@@ -1646,7 +1646,7 @@
 					      (NP-DTV (NPR hersh-bern)))))
 	      (PUNC ,)
 	      (ADVP-RSP (ADV to))
-	      (WNP-1 (WPRO vos_zhe))
+	      (WNP-1 (WPRO vos) (FP zhe))
 	      (IP-SUB (NP-SBJ *T*-1)
 		      (BEF iz))
 	      (PUNC ?))

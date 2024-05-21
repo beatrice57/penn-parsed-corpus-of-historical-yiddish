@@ -22,7 +22,7 @@
 	  (VBN der_shroken)
 	  (PP (P fun)
 	      (NP (N vegen)
-		  (NP-COM (D di) (N psure_roy^news_bad))))
+		  (NP-COM (D di) (N psure_roy^news_harm))))
 	  (PP (H bavoynoysenu^for_sins_our) (H horabem^the_many))
 	  (PUNC ,)
 	  (CP-THT (C az)
