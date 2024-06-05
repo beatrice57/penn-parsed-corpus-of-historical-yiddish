@@ -17530,7 +17530,7 @@
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBF entfer)
-	  (PP (NP 0) (P op))
+	  (RP op)
 	  (PUNC ,))
   (ID 1947E-ROYTE-POMERANTSEN,64.1612))
 
