@@ -23348,7 +23348,7 @@
 	  (IP-MAT-SPE (PUNC ")
 		      (NP-VOC (FOREIGN (FW vashe) (FW wysokorodiye)))
 		      (PUNC %EXCL%)
-		      (NP-SBJ-1 (D dos))
+		      (NP-SBJ (D dos))
 		      (VBF zenen)
 		      (ADVP-DIAGN (ADV dokh))
 		      (QP (Q ale))
