@@ -5076,7 +5076,7 @@
 		  (CP-DEG (C az)
 			  (IP-SUB (NP-SBJ (PRO men))
 				  (MDF ken)
-				  (PP (H bshum^under_no) (H ufn^circumstance))
+				  (PP (H bshum^in_no) (H ufn^manner))
 				  (NEG nit)
 				  (VB kukn)
 				  (PP (P oyf)
