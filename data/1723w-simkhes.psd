@@ -102,7 +102,7 @@
 		      (CP-REL-SPE *ICH*-1))
 	      (VB lernen)
 	      (PUNC ,)
-	      (CP-REL-1-SPE (WNP-1 (WPRO doz))
+	      (CP-REL-SPE-1 (WNP-1 (WPRO doz))
 			    (IP-SUB-SPE (NP-SBJ *T*-1)
 					(RDF vert)
 					(NP-DTV (PRO dir))

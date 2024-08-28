@@ -1815,12 +1815,12 @@
 
 ( (IP-MAT (VBF sprakh)
 	  (NP-SBJ (PRO zi))
-	  (CP-QUE-MAT-SPE (IP-SUB-SPE (IP-SUB-1-SPE (HVF has@)
+	  (CP-QUE-MAT-SPE (IP-SUB-SPE (IP-SUB-SPE-1 (HVF has@)
 						    (NP-SBJ (PRO @tu))
 						    (RP oyz)
 						    (VBN gikert))
 				      (CONJP (CONJ un)
-					     (IP-SUB=1-SPE (NP-ACC (N arbisn))
+					     (IP-SUB-SPE=1 (NP-ACC (N arbisn))
 							   (VBN gilezn))))))
   (ID 1648W-KINE,205.43.206))
 

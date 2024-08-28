@@ -334,11 +334,11 @@
 			      (NP-PRN (PRO$ mayn) (N tfile))))))
   (ID 1600E-MAGID,171.32))
 
-( (IP-MAT-SPE (IP-MAT-1-SPE (NP-SBJ (PRO zey))
+( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (PRO zey))
 			    (RDF veren)
 			    (VAN fer_shemt)
 			    (RD veren))
-	      (CONJP (IP-MAT=1-SPE (ADVP (ADV oykh))
+	      (CONJP (IP-MAT-SPE=1 (ADVP (ADV oykh))
 				   (VAN der_shroken)
 				   (RD veren)))
 	      (PUNC ,))

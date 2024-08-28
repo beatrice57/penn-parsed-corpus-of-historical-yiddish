@@ -870,7 +870,7 @@
 				      (VBF dunkt)
 				      (NP-SBJ-3 (ES ez))
 				      (NP-DTV-RSP (PRO im))
-				      (IP-MAT-THT=3-SPE (NP-SBJ (D di) (N zind))
+				      (IP-MAT-THT-SPE=3 (NP-SBJ (D di) (N zind))
 							(VBF zey)
 							(ADJP-PRD (ADJ musr)))
 				      (CP-ADV-SPE (ADV der_veyl)

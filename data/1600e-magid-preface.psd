@@ -509,7 +509,7 @@
 		      (NP-SBJ-1 *exp*)
 		      (VB kumn)
 		      (PP (DR+P der_fun))
-		      (CP-THT-1-SPE (C dz)
+		      (CP-THT-SPE-1 (C dz)
 				    (IP-SUB-SPE (NP-SBJ (PRO er))
 						(RDF vert)
 						(ADVP (ADV veytr))

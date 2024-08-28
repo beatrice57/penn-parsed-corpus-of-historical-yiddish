@@ -2008,7 +2008,7 @@
 										(VBF izt)
 										(ADJP-PRD (ADJ besir)
 											  (PP *ICH*-7))
-										(CP-THT-6-SPE (C daz)
+										(CP-THT-SPE-6 (C daz)
 											      (IP-SUB-SPE (NP-SBJ (PRO man))
 													  (NP-ACC (PRO mikh))
 													  (VBF shist)))

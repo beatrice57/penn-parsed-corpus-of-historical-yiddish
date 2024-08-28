@@ -789,7 +789,7 @@
 	      (VB fastin))
   (ID 1819E-PERL,104.77))
 
-( (IP-MAT-SPE (IP-MAT-1-SPE (CONJ un)
+( (IP-MAT-SPE (IP-MAT-SPE-1 (CONJ un)
 			    (PP (P in)
 				(NP (D dem)
 				    (ADJS intirstin)
@@ -800,7 +800,7 @@
 			    (NP-SBJ (PRO @tu))
 			    (VB fastin))
 	      (CONJP (CONJ un)
-		     (IP-MAT=1-SPE (NEG nit)
+		     (IP-MAT-SPE=1 (NEG nit)
 				   (VB shlafin)
 				   (NP-MSR (D dem) (ADJ gantsin) (N met_let))))
 	      (CODE {GLOSS:misles}))

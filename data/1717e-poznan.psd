@@ -36,13 +36,13 @@
 	  (DON-IPP tan))
   (ID 1717E-POZNAN,84.6))
 
-( (IP-MAT-SPE (IP-MAT-1-SPE (NP-SBJ (ES ez))
+( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (ES ez))
 			    (MDF zal)
 			    (NP-RFL (PRO zikh))
 			    (NP-LGS (Q keyn) (N ihuda))
 			    (VB veyzin))
 	      (CONJP (CONJ un)
-		     (IP-MAT=1-SPE (VB kumin)
+		     (IP-MAT-SPE=1 (VB kumin)
 				   (IP-INF-SPE (TO tsu) (VB gan)))))
   (ID 1717E-POZNAN,84.7))
 
