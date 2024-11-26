@@ -244,8 +244,7 @@
 ( (IP-IMP (VBI ze)
 	  (NP-ACC (N tabele)
 		  (REF (N z.) (NUM 21-22)))
-	  (PUNC .)
-	  (CODE {TMP:see_zaretski_tables_in_excel_on_2ci}))
+	  (PUNC .))
   (ID 1928E-ZARETSKI-MENDELE,20.15))
 
 ( (IP-MAT (NP-SBJ (D di) (ADJ iberike) (NUM 47) (N perzonverter))

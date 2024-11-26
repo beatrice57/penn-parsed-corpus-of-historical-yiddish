@@ -5170,7 +5170,7 @@
 		      (PUNC ,)
 		      (IP-SUB (VBF krigs@)
 			      (NP-SBJ (PRO @tu))
-			      (NP-ACC (CP-EOP (WADVP-1 (WADV vu))
+			      (NP-ACC (CP-FRL (WADVP-1 (WADV vu))
 					      (IP-INF (ADVP-LOC *T*-1)
 						      (TO tsu)
 						      (VB layen)))))

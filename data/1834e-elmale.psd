@@ -247,7 +247,6 @@
 		   (CP-EOP *ICH*-2))
 	  (IP-SUB (ADJP-PRD *T*-1)
 		  (VBF kenin)
-		  (CODE {TMP:sic})
 		  (NP-SBJ (PRO$ unzri) (N zind))
 		  (CP-EOP-2 (WNP-3 0)
 			    (IP-INF (NP-ACC *T*-3)

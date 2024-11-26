@@ -1851,7 +1851,7 @@
 			 (IP-INF (TO tsu)
 				 (VB ridn)
 				 (IP-MAT-SPE (IP-MAT-PRN-SPE (NP-SBJ (PRO ikh))
-								 (VBF bit))
+							     (VBF bit))
 					     (VBF laz)
 					     (NP-SBJ (PRO mn))
 					     (IP-INF-SPE (NP-SBJ *arb*)

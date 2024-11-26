@@ -33,7 +33,6 @@
 			  (NP-SBJ (NPR ben) (NPR akhenu))))
 	  (IP-ABS (H borekh^blessed)
 		  (NP-SBJ (PRO$ dayn) (N emes)))
-	  (CODE {TMP:ok?})
 	  (PUNC .))
   (ID 1619W-LETTERS-PRAGUE,30.4))
 

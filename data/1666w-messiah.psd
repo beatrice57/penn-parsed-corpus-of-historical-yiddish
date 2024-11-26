@@ -1873,7 +1873,7 @@
 					  (NP (N arts) (NPR isral)))
 				      (NEG nit)
 				      (VB habn)
-				      (NP-ACC (CP-EOP (WPP-1 0)
+				      (NP-ACC (CP-FRL (WPP-1 0)
 						      (IP-INF (PP *T*-1)
 							      (TO tsu)
 							      (VB lebn))))
