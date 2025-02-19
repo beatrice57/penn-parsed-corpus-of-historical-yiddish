@@ -3082,7 +3082,7 @@
 ( (IP-MAT (NP-GEN (D dz))
 	  (MDF zalt)
 	  (NP-SBJ (PRO ir))
-	  (NP-ACC (PRO eykh))
+	  (NP-RFL (PRO eykh))
 	  (VB shemn)
 	  (NP-MSR (NP-MSR (PRO$ eyer) (N lebn_tag))
 		  (CONJP (CONJ un')

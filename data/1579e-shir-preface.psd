@@ -912,7 +912,7 @@
 ( (IP-MAT (PP (DR+P drum))
 	  (MDF zalt)
 	  (NP-SBJ (PRO ikh))
-	  (NP-ACC (PRO mikh))
+	  (NP-RFL (PRO mikh))
 	  (VB shemn)
 	  (IP-INF (NP-ACC (ADJ zelkhi) (N zkhin))
 		  (RP an)

@@ -3342,7 +3342,8 @@
 ( (IP-MAT (VBF lakht)
 	  (NP-RFL (PRO zikh))
 	  (NP-SBJ (D der) (N shadkhn))
-	  (ADVP (ADV farnander))
+	  (PP (P farn@)
+              (NP (PRO @ander)))
 	  (PUNC :))
   (ID 1947E-ROYTE-POMERANTSEN,13.302))
 
