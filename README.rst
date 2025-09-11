@@ -6,14 +6,14 @@ License
 
 The files in this repository are distributed under Creative Commons
 License Attribution-NonCommercial-ShareAlike 4.0 International CC
-BY-NC-SA 4.0 (<https://creativecommons.org/licenses/by-nc-sa/4.0/>).
+BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Citation
 ========
 
 Santorini, Beatrice.  2021.  Penn Parsed Corpus of Historical Yiddish,
 v1.0.
-<https://github.com/beatrice57/penn-parsed-corpus-of-historical-yiddish>
+https://github.com/beatrice57/penn-parsed-corpus-of-historical-yiddish
 
 Contact
 =======
@@ -46,8 +46,8 @@ still reflect their origin, containing only subordinate clauses.
 
 The corpus can be searched with CorpusSearch.
 
-- Download: <https://sourceforge.net/projects/corpussearch/>
-- Users guide: <https://www.ling.upenn.edu/~beatrice/corpus-ling/CS-users-guide/index.html>
+- Download: https://sourceforge.net/projects/corpussearch/
+- Users guide: https://www.ling.upenn.edu/~beatrice/corpus-ling/CS-users-guide/index.html
 
 Other
 =====
