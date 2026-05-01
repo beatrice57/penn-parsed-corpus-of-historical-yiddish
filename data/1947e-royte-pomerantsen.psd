@@ -28683,7 +28683,7 @@
   (ID 1947E-ROYTE-POMERANTSEN,110.2635))
 
 ( (IP-MAT (PP (P mit)
-	      (IP-ABS (NP-SBJ (D a)
+	      (IP-SMC (NP-SBJ (D a)
 			      (N yor)
 			      (NUMP (NUM dray)))
 		      (ADVP (RP-ADV tsurik))))
