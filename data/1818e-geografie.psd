@@ -331,7 +331,7 @@
 			  (C vas)
 			  (IP-SUB (NP-SBJ *T*-1)
 				  (VBF zeynin)
-				  (ADJP-SPR (ADJ gizaltsin))))
+				  (ADJP-PRD (ADJ-VAN gizaltsin))))
 		  (ADVP (ADV zua)
 			(PP (P vi)
 			    (NP (NP (D das)

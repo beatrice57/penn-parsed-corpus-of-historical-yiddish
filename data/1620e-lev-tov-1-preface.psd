@@ -1383,7 +1383,7 @@
 			  (NP-SBJ *exp*)
 			  (ADVP (ADV da))
 			  (VBF shtit)
-			  (ADJP-SPR (ADJ gishribn))
+			  (IP-PPL (VAN gishribn))
 			  (PP (P in)
 			      (NP (D dem)
 				  (N prk)

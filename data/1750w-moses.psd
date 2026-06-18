@@ -1133,7 +1133,7 @@
 	  (NP-1 (PRO dikh))
 	  (NEG nit)
 	  (IP-SMC (NP-SBJ *ICH*-1)
-		  (ADJP-PRD (ADV azu) (ADJ grus))))
+		  (ADJP-PRD (ADVR azu) (ADJ grus))))
   (ID 1750W-MOSES,701.89))
 
 ( (IP-MAT (CONJ abr)

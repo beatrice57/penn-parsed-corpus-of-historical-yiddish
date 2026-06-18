@@ -297,7 +297,7 @@
 			  (IP-SUB (NP-SBJ-RSP-1 (PRO er))
 				  (BEF iz)
 				  (VBN given)
-				  (ADJP-SPR (ADJ far_zamelt))
+				  (ADJP-PRD (ADJ far_zamelt))
 				  (PP (P un)
 				      (NP (PRO$ zeyn)
 					  (N hoys)
@@ -520,7 +520,7 @@
 			    (VAN gefurt)
 			    (RD verin)
 			    (PP (P in)
-				(NP (ADJP (ADV azu) (ADJ kortsir))
+				(NP (ADJP (ADVR azu) (ADJ kortsir))
 				    (N tseyt))))))
   (ID 1848E-JUDAH,634.31))
 

@@ -636,7 +636,7 @@
 					    (PP (P bey)
 						(NP (Q iklikhm) (N vart)))
 					    (VBF shtit)
-					    (ADJP-SPR (ADJ gishribn)))))))
+					    (IP-PPL (VAN gishribn)))))))
   (ID 1534E-ANSHEL,1l.34))
 
 ( (IP-MAT (CP-ADV (C ub)

@@ -1800,7 +1800,7 @@
 	      (NP (D @n) (ADJ I) (N ort)))
 	  (VBF shteyt)
 	  (NP-SBJ (D dos) (N perzonvort))
-	  (ADJP-SPR (ADJ derheypt))
+	  (IP-PPL (VAN derheypt))
 	  (PUNC ,)
 	  (CP-ADV (CP-ADV (C ven)
 			  (IP-SUB (NP-SBJ (D der) (N zats))

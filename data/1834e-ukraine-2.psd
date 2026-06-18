@@ -3730,8 +3730,7 @@
 		      (IP-SUB (ADVP *T*-1)
 			      (NP-SBJ (H hsi"t^the_name_may_be_blessed))
 			      (VBF iz)
-			      (NP-PRD (H nutn^UNKNOWN) (H liep^UNKNOWN) (H kkh^strength))))
-	  (CODE {BES:"kkh"_conceivably_means_"this"}))
+			      (NP-PRD (H nutn^UNKNOWN) (H liep^UNKNOWN) (H kkh^strength)))))
   (ID 1834E-UKRAINE-2,45.317))
 
 ( (IP-MAT (NP-SBJ (D di) (N ashh))
@@ -4047,7 +4046,7 @@
 	  (VBF steyt)
 	  (PP (P in)
 	      (NP (PRO$ unzr) (N prave)))
-	  (ADJP-SPR (ADJ far_shribin))
+	  (IP-PPL (VAN far_shribin))
 	  (CP-THT-1 (C az)
 		    (IP-SUB (NP-SBJ (PRO ir))
 			    (MDF tart)

@@ -2795,7 +2795,7 @@
 	  (NP-SBJ (ADV zer)
 		  (Q vil)
 		  (PP (DR+P dr_fun)))
-	  (ADJP-SPR (ADJ gishribn)))
+	  (IP-PPL (VAN gishribn)))
   (ID 1620E-LEV-TOV-1,7r.199))
 
 ( (IP-MAT (ADVP (ADV abr))
@@ -2823,7 +2823,7 @@
 
 ( (IP-MAT (NP-SBJ (PRO es))
 	  (VBF stit)
-	  (ADJP-SPR (ADJ gshribn))
+	  (IP-PPL (VAN gshribn))
 	  (PP (P in)
 	      (NP (H sfr^book) (H hmidim^pious_ones))))
   (ID 1620E-LEV-TOV-1,7r.203))

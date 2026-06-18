@@ -115,7 +115,7 @@
 				    (IP-SUB (ADVP (ADV da))
 					    (NP-SBJ (D eyn) (N ksi))
 					    (VBF stit)
-					    (ADJP-SPR (ADJ gshribn))
+					    (IP-PPL (VAN gshribn))
 					    (PP (ADV mitn)
 						(P in)
 						(NP (D den) (N eneyn)))))

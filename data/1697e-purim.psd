@@ -5740,7 +5740,7 @@
 
 ( (IP-MAT (NP-SBJ (PRO zi))
 	  (VBF izt)
-	  (ADJP-PRD (ADV azu)
+	  (ADJP-PRD (ADVR azu)
 		    (ADJ breyt)
 		    (PP (P aliz)
 			(NP (D eyn) (N telir)))))

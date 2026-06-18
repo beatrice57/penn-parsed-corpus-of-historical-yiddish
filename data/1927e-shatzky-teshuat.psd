@@ -1829,7 +1829,7 @@
 				      (VB bashuldikn)
 				      (NP-ACC (D di) (N yidn))
 				      (PP (P in)
-					  (NP (ADJP (ADV aza) (ADJ barbarishn))
+					  (NP (ADJP (ADVR aza) (ADJ barbarishn))
 					      (N mnhg)))))))
   (ID 1927E-SHATZKY-TESHUAT,16.115))
 

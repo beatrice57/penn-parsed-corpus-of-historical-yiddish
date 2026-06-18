@@ -277,7 +277,7 @@
 					  (VB gebn)
 					  (NP-ACC (D di)
 						  (NPR turh)
-						  (ADJP (ADV azu) (ADJ heylig)))))
+						  (ADJP (ADVR azu) (ADJ heylig)))))
 		      (ADVP-RSP (ADV da))
 		      (VBF lis)
 		      (NP-SBJ (PRO er))

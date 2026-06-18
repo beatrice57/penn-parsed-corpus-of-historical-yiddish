@@ -1663,7 +1663,7 @@
 	  (BEF iz)
 	  (NP-SBJ-1 *exp*)
 	  (VBN gishtanin)
-	  (ADJP-SPR (ADJ gishribin))
+	  (IP-PPL (VAN gishribin))
 	  (CP-THT=1 (C az)
 		    (IP-SUB (ADVP-TMP (ADV heynt))
 			    (VBF iz)

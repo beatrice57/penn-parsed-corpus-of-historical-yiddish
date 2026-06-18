@@ -1755,7 +1755,7 @@
 ( (FRAG (CP-ADV (IP-SUB (VBF bkumt)
 			(NP-SBJ (PRO eynr))
 			(NP-ACC (Q vaz))
-			(ADJP-SPR (ADJ gbargt))))
+			(IP-PPL (VAN gbargt))))
 	(IP-MAT-SPE (NP-VOC (N veyb))
 		    (NP-SBJ (PRO ikh))
 		    (VBF hab)
@@ -2432,7 +2432,7 @@
 		      (VBF kumn)
 		      (PP (P in)
 			  (NP (N stal)))
-		      (ADJP-SPR (ADJ gbratn))))
+		      (IP-PPL (VAN gbratn))))
   (ID 1675E-ASHKENAZ-UN-POLAK,548.238))
 
 ( (CP-QUE-MAT (CONJ un)

@@ -1151,9 +1151,9 @@
 	  (HVF hobin)
 	  (NP-SBJ (PRO zey))
 	  (VBN gitrogin)
-	  (ADJP-SPR (ADJ gibundin))
-	  (PP (P vi)
-	      (NP (D di) (N shaf))))
+	  (IP-PPL (VAN gibundin)
+		  (PP (P vi)
+		      (NP (D di) (N shaf)))))
   (ID 1834E-ELMALE,52.95))
 
 ( (IP-MAT (CONJ un)

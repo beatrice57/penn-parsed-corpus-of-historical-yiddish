@@ -1714,7 +1714,7 @@
 	  (NP-ACC (PRO oykh))
 	  (NEG nit)
 	  (ADVP (ADV min))
-	  (ADJP-SPR (ADJ far_bargn)))
+	  (IP-PPL (VAN far_bargn)))
   (ID 1666W-MESSIAH,41.205))
 
 ( (IP-MAT (NP-SBJ (PRO mir))

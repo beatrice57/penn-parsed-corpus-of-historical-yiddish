@@ -474,7 +474,7 @@
 	  (NP-SBJ (D di) (N shilderung))
 	  (NEG nit)
 	  (VBN geven)
-	  (ADJP-PRD (ADV azoy)
+	  (ADJP-PRD (ADVR azoy)
 		    (ADJ frtimdik)
 		    (CONJP (CONJ un)
 			   (ADJX (ADJ lebedik))))

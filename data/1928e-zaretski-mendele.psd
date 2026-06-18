@@ -1957,7 +1957,7 @@
 				  (D di)
 				  (N kliatshe)
 				  (PUNC ,)
-				  (NP-PRN (ADJP (ADV aza) (ADJ proste))
+				  (NP-PRN (ADJP (ADVR aza) (ADJ proste))
 					  (N podokhe)))
 			  (PUNC ,)
 			  (VBF hot)

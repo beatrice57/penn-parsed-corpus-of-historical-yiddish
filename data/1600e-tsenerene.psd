@@ -51,7 +51,7 @@
 ( (IP-MAT (CONJ in)
 	  (PP (DR+P derim))
 	  (VBF shteyt)
-	  (ADJP-SPR (ADJ geshriben))
+	  (IP-PPL (VAN geshriben))
 	  (NP-SBJ (QTP (H akher^after) (H hamidber^the_desert)))
 	  (PUNC ,))
   (ID 1600E-TSENERENE,171.5))

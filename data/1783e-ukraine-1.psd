@@ -1616,9 +1616,9 @@
 	  (NP-SBJ *con*)
 	  (VBF fihrt)
 	  (NP-ACC (PRO zi))
-	  (ADJP-SPR (ADJ gbundin)
-		    (PP (P mit)
-			(NP (H enoym^UNKNOWN) (H ksim^UNKNOWN)))))
+	  (IP-PPL (VAN gbundin)
+		  (PP (P mit)
+		      (NP (H enoym^UNKNOWN) (H ksim^UNKNOWN)))))
   (ID 1783E-UKRAINE-1,36.162))
 
 ( (IP-MAT (NP-ACC (NP (D di) (N eltsti))
