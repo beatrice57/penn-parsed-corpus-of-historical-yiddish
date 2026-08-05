@@ -52,14 +52,17 @@ The corpus can be searched with CorpusSearch.
 Other
 =====
 
-For convenience, the repository also contains two unpublished works
-based on the corpus:
+For convenience, the repository also contains various other material:
 
+- Olsvanger, Immanuel.  1947.  Royte pomerantsen.  New York: Schocken.
+  Glossary (pp. 185-203).
 - Santorini, Beatrice.  1995.  The syntax of verbs in Yiddish.
   Unpublished manuscript, Northwestern University.
 - Santorini, Beatrice.  1989.  The generalization of the verb-second
   constraint in the history of Yiddish.  Doctoral dissertation,
   University of Pennsylvania.
+- Zaretski, Aysik.  1929.  Yidishe gramatik.  Vilna: B. Kletskins.
+  Transliterated versions of Chapter 4 and 5 (concerning word order).
 
 Acknowledgments
 ===============
@@ -93,7 +96,9 @@ The following faculty members at the University of Trier:
 - Erika Timm
 - Walter Roell
 
-I am also very fortunate to have had the assistance of Talia Beck, who
-possesses a rare combination of proficiency in both Hebrew and Yiddish
-as well as knowledge of Jewish culture and who was therefore able to
-supply many glosses for the Hebrew material in the Yiddish texts.
+I am very fortunate to have had the assistance of Talia Beck, whose
+proficiency in both Hebrew and Yiddish and knowledge of Jewish culture
+enabled her to supply many glosses for the Hebrew material in the
+Yiddish texts.
+
+Seth Kulick has drawn my attention to several transcription errors.
