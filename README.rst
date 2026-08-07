@@ -94,11 +94,11 @@ The staff of the YIVO Institute for Jewish Research in New York:
 The following faculty members at the University of Trier:
 
 - Erika Timm
-- Walter Roell
+- Walter Röll
 
 I am very fortunate to have had the assistance of Talia Beck, whose
-proficiency in both Hebrew and Yiddish and knowledge of Jewish culture
-enabled her to supply many glosses for the Hebrew material in the
-Yiddish texts.
+proficiency in both Hebrew and Yiddish and whose knowledge of Jewish
+culture enabled her to supply many glosses for the Hebrew material in
+the Yiddish texts.
 
-Seth Kulick has drawn my attention to several transcription errors.
+Seth Kulick has drawn my attention to several annotation errors.
