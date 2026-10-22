@@ -285,14 +285,17 @@ orthographic word are joined with an underscore.
 <td>IP-MAT
 <td>ordinary matrix clause
 <tr>
+<td><a href="#ip-mat-adv">IP-MAT-ADV</a>
+<td>adverbial clause with main clause word order
+<tr>
 <td><a href="#ip-mat-deg">IP-MAT-DEG</a>
-<td>subordinate degree clause with main clause word order
+<td>degree clause with main clause word order
 <tr>
 <td><a href="#ip-mat-rel">IP-MAT-REL</a>
 <td>adnominal clause with main clause word order
 <tr>
 <td><a href="#ip-mat-tht">IP-MAT-THT</a>
-<td>subordinate complement clause with main clause word order
+<td>complement clause with main clause word order
 <tr>
 <td>IP-PPL
 <td>participial clause
@@ -673,11 +676,16 @@ restrictions imposed by a governing verb.
 See the particular cases below:
 
 <ul>
-<li><a href="#cp-que-mat-tht">CP-QUE-MAT-THT</a> (indirect question with 
-    direct question word order)
-<li><a href="#ip-mat-deg">IP-MAT-DEG</a> (asyndetic degree clause)
-<li><a href="#ip-mat-rel">IP-MAT-REL</a> (integrated adnominal clause)
-<li><a href="#ip-mat-tht">IP-MAT-THT</a> (asyndetic complement clause)
+<li><a href="#cp-que-mat-tht">CP-QUE-MAT-THT</a> (indirect question
+    with direct question word order)
+<li><a href="#ip-mat-deg">IP-MAT-ADV</a> (adverbial clause
+    with main clause word order)
+<li><a href="#ip-mat-deg">IP-MAT-DEG</a> (degree clause
+    with main clause word order)
+<li><a href="#ip-mat-rel">IP-MAT-REL</a> (adnominal clause
+    with main clause word order)
+<li><a href="#ip-mat-tht">IP-MAT-THT</a> (complement clause
+    with main clause word order)
 </ul>
 
 </blockquote>
@@ -752,6 +760,55 @@ but the Yiddish material is annotated as if it had been.
 
 </blockquote>
 
+<a name="ip-mat-adv">
+<h4>IP-MAT-ADV</h4>
+
+IP-MAT-ADV indicates an adverbial clause corresponding to CP-ADV, but
+with main clause word order.
+
+<blockquote>
+<pre>
+( (IP-IMP (VBI shtop)
+          (RP on)
+          (NP-ACC (D dem) (N zak))
+          (PP (P mit)
+              (NP (ADJ frish) (N hey)))
+          (PUNC .)
+          (IP-MAT-ADV (MDF zol)
+                      (NP-SBJ (PRO er))
+                      (VB hobn)
+                      (NP-ACC (D a) (ADJ veykher) (N geleger)))
+          (PUNC .))
+  (ID 1910E-GRINE-FELDER,90.1108))
+
+( (CP-QUE-MAT-EXAMPLE (LS 1a.)
+                      (IP-MAT-ADV (ADVP (ADV tomer))
+                                  (VBF kumt)
+                                  (NP-SBJ (D a) (N gast)))
+                      (PUNC ,)
+                      (WNP-1 (WPRO vos))
+                      (IP-SUB (NP-ACC *T*-1)
+                              (MDF ves@)
+                              (NP-SBJ (PRO @tu))
+                              (VB ton))
+                      (PUNC ?))
+  (ID 1946E-MARK,13.387))
+
+( (CP-QUE-MAT-EXAMPLE (LS 1b.)
+                      (IP-MAT-ADV (NP-SBJ (D a) (N gast))
+                                  (ADVP (ADV tomer))
+                                  (VBF kumt))
+                      (PUNC ,)
+                      (WNP-1 (WPRO vos))
+                      (IP-SUB (NP-ACC *T*-1)
+                              (MDF ves@)
+                              (NP-SBJ (PRO @tu))
+                              (VB ton))
+                      (PUNC ?))
+  (ID 1946E-MARK,13.388))
+</pre>
+</blockquote>
+
 <a name="ip-mat-deg">
 <h4>IP-MAT-DEG</h4>
 
@@ -787,7 +844,7 @@ but with main clause word order.
 
 <a name="adnominal-ip-mat">
 <a name="ip-mat-rel">
-<h4>IP-MAT-REL (integrated adnominal IP-MAT)</h4>
+<h4>IP-MAT-REL (adnominal IP-MAT)</h4>
 
 <blockquote>
 
