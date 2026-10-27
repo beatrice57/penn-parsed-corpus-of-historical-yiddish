@@ -433,12 +433,12 @@
 
 ( (CODE <P_200.7>))
 
-( (FRAG (H ziar^UNKNOWN)
-	(H mkhsbh^UNKNOWN)
-	(H reh^bad)
-	(BEF iz)
-	(PP (H beu"h^for_sins_our_the_many))
-	(VBN giratn))
+( (IPX-MAT (H ziar^UNKNOWN)
+	   (H mkhsbh^UNKNOWN)
+	   (H reh^bad)
+	   (BEF iz)
+	   (PP (H beu"h^for_sins_our_the_many))
+	   (VBN giratn))
   (ID 1648W-KINE,200.7.43))
 
 ( (FRAG (ADVP (ADV vidr))
