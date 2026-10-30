@@ -2123,8 +2123,7 @@
 			      (C vos)
 			      (IP-SUB (NP-SBJ *T*-1)
 				      (HVF hot)
-				      (FP nor)
-				      (NP-ACC (Q vos))
+				      (ADVP-TMP (FP nor) (Q vos))
 				      (VBN gezogt))))))
   (ID 1927E-ZARETSKI-SHOLEM,10.142))
 
